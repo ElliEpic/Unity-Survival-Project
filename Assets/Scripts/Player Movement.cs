@@ -4,7 +4,7 @@ public class PlayerMovement : MonoBehaviour
 {
 
     [SerializeField] private Rigidbody2D rb;
-    [SerializeField] private float movespeed = 1.0f;
+    [SerializeField] private float movespeed = 2.0f;
     public Vector3 playerMoveDirection;
  
     // Start is called once before the first execution of Update after the MonoBehaviour is created
