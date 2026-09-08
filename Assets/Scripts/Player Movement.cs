@@ -20,8 +20,8 @@ public class PlayerMovement : MonoBehaviour
 
         float inputX = Input.GetAxisRaw("Horizontal");
         float inputY = Input.GetAxisRaw("Vertical");
+        playerMoveDirection = new Vector2(inputX, inputY).normalized;
 
-        rb.linearVelocity = new Vector2(inputX, inputY).normalized;
-
+        rb.linearVelocity = new Vector2(playerMoveDirection.x * movespeed, playerMoveDirection.y * movespeed);
     }
 }
