@@ -1,0 +1,2615 @@
+fileFormatVersion: 2
+guid: e9bf829e1a80efb4b999bb8c9ace8938
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9173519871159801538
+    second: Pain-Anim_0
+  - first:
+      213: -6577285080314848751
+    second: Pain-Anim_1
+  - first:
+      213: 6433496351030866996
+    second: Pain-Anim_2
+  - first:
+      213: 7536695323581824120
+    second: Pain-Anim_3
+  - first:
+      213: 2367878614915019704
+    second: Pain-Anim_4
+  - first:
+      213: 8592422764499713810
+    second: Pain-Anim_5
+  - first:
+      213: -1085142361903181152
+    second: Pain-Anim_6
+  - first:
+      213: 8088609747486483503
+    second: Pain-Anim_7
+  - first:
+      213: -8211743563001873602
+    second: Pain-Anim_8
+  - first:
+      213: -3489700448883769977
+    second: Pain-Anim_9
+  - first:
+      213: -3648175734298090525
+    second: Pain-Anim_10
+  - first:
+      213: 9144790804640772937
+    second: Pain-Anim_11
+  - first:
+      213: -3812432178081553986
+    second: Pain-Anim_12
+  - first:
+      213: -436760893269716974
+    second: Pain-Anim_13
+  - first:
+      213: 2962764474606518280
+    second: Pain-Anim_14
+  - first:
+      213: -6992911235880744843
+    second: Pain-Anim_15
+  - first:
+      213: -8133182905242729622
+    second: Pain-Anim_16
+  - first:
+      213: -4469806778841994623
+    second: Pain-Anim_17
+  - first:
+      213: 5550316376533022404
+    second: Pain-Anim_18
+  - first:
+      213: 2127707470451508288
+    second: Pain-Anim_19
+  - first:
+      213: 6335277935261149236
+    second: Pain-Anim_20
+  - first:
+      213: 7237287879569458742
+    second: Pain-Anim_21
+  - first:
+      213: 8132518995681514704
+    second: Pain-Anim_22
+  - first:
+      213: -7040766061259430344
+    second: Pain-Anim_23
+  - first:
+      213: 5124539168314445849
+    second: Pain-Anim_24
+  - first:
+      213: 7864107398600114284
+    second: Pain-Anim_25
+  - first:
+      213: 7177680612398171340
+    second: Pain-Anim_26
+  - first:
+      213: 4288933835856129345
+    second: Pain-Anim_27
+  - first:
+      213: 3686552991177212304
+    second: Pain-Anim_28
+  - first:
+      213: 4035466519112260739
+    second: Pain-Anim_29
+  - first:
+      213: 2448214692227842685
+    second: Pain-Anim_30
+  - first:
+      213: -5796712331693114273
+    second: Pain-Anim_31
+  - first:
+      213: 3852849587504936273
+    second: Pain-Anim_32
+  - first:
+      213: 2323244936806044556
+    second: Pain-Anim_33
+  - first:
+      213: -7050973496739285976
+    second: Pain-Anim_34
+  - first:
+      213: 5958125104518240213
+    second: Pain-Anim_35
+  - first:
+      213: -1910335245216335817
+    second: Pain-Anim_36
+  - first:
+      213: 1031622233117004239
+    second: Pain-Anim_37
+  - first:
+      213: -5143613701049786050
+    second: Pain-Anim_38
+  - first:
+      213: 1753914201563337637
+    second: Pain-Anim_39
+  - first:
+      213: 4027740409590280052
+    second: Pain-Anim_40
+  - first:
+      213: 6597194227356980389
+    second: Pain-Anim_41
+  - first:
+      213: -7226625577241401494
+    second: Pain-Anim_42
+  - first:
+      213: -6206617391625652866
+    second: Pain-Anim_43
+  - first:
+      213: -670149952291014205
+    second: Pain-Anim_44
+  - first:
+      213: 6288099055681781126
+    second: Pain-Anim_45
+  - first:
+      213: -8208469546975579919
+    second: Pain-Anim_46
+  - first:
+      213: -4252957991163378650
+    second: Pain-Anim_47
+  - first:
+      213: -1452030804150925906
+    second: Pain-Anim_48
+  - first:
+      213: 5881615515294321493
+    second: Pain-Anim_49
+  - first:
+      213: 314466257933675107
+    second: Pain-Anim_50
+  - first:
+      213: -8356459471652751061
+    second: Pain-Anim_51
+  - first:
+      213: -7843778398602089519
+    second: Pain-Anim_52
+  - first:
+      213: 8635967435874887475
+    second: Pain-Anim_53
+  - first:
+      213: 1572461486401380061
+    second: Pain-Anim_54
+  - first:
+      213: 664046435389271705
+    second: Pain-Anim_55
+  - first:
+      213: 4138496323336359435
+    second: Pain-Anim_56
+  - first:
+      213: -7843543445834817410
+    second: Pain-Anim_57
+  - first:
+      213: 4740910219086183256
+    second: Pain-Anim_58
+  - first:
+      213: -7260404598980679376
+    second: Pain-Anim_59
+  - first:
+      213: -1327456502550718915
+    second: Pain-Anim_60
+  - first:
+      213: -8689521949194950
+    second: Pain-Anim_61
+  - first:
+      213: 1498031431685781990
+    second: Pain-Anim_62
+  - first:
+      213: 5009596575522578193
+    second: Pain-Anim_63
+  - first:
+      213: -3549068135316276254
+    second: Pain-Anim_64
+  - first:
+      213: -8954444269471490994
+    second: Pain-Anim_65
+  - first:
+      213: 5707872371612835225
+    second: Pain-Anim_66
+  - first:
+      213: 8415214626726079291
+    second: Pain-Anim_67
+  - first:
+      213: -8517715348321241635
+    second: Pain-Anim_68
+  - first:
+      213: -7853141876322908835
+    second: Pain-Anim_69
+  - first:
+      213: -1784898479716513185
+    second: Pain-Anim_70
+  - first:
+      213: -8206828397047847432
+    second: Pain-Anim_71
+  - first:
+      213: 4727623418040770789
+    second: Pain-Anim_72
+  - first:
+      213: 1927392369893767579
+    second: Pain-Anim_73
+  - first:
+      213: 548011886361930361
+    second: Pain-Anim_74
+  - first:
+      213: 6375275378111864617
+    second: Pain-Anim_75
+  - first:
+      213: -2177219031179840965
+    second: Pain-Anim_76
+  - first:
+      213: 2875286856041771530
+    second: Pain-Anim_77
+  - first:
+      213: -2815013002339799838
+    second: Pain-Anim_78
+  - first:
+      213: -6987470049030671788
+    second: Pain-Anim_79
+  - first:
+      213: 8734058291702320016
+    second: Pain-Anim_80
+  - first:
+      213: 8223017079754774964
+    second: Pain-Anim_81
+  - first:
+      213: -8732659717169400874
+    second: Pain-Anim_82
+  - first:
+      213: 5088894301955947152
+    second: Pain-Anim_83
+  - first:
+      213: 3529441654742346345
+    second: Pain-Anim_84
+  - first:
+      213: 567549745385133088
+    second: Pain-Anim_85
+  - first:
+      213: 8963755764572434319
+    second: Pain-Anim_86
+  - first:
+      213: 5025012150946353531
+    second: Pain-Anim_87
+  - first:
+      213: -8885533102452476189
+    second: Pain-Anim_88
+  - first:
+      213: -8367109685601581676
+    second: Pain-Anim_89
+  - first:
+      213: 8700222134085713100
+    second: Pain-Anim_90
+  - first:
+      213: 1602730489450720572
+    second: Pain-Anim_91
+  - first:
+      213: 8303457468173509058
+    second: Pain-Anim_92
+  - first:
+      213: -1194138629959032678
+    second: Pain-Anim_93
+  - first:
+      213: 3360004836248040081
+    second: Pain-Anim_94
+  - first:
+      213: -5556827021461727303
+    second: Pain-Anim_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pain-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 353
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6977c28b3ee4f70800000000000000
+      internalID: 9173519871159801538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 353
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a5b51411ac8b4a0800000000000000
+      internalID: -6577285080314848751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 355
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43477fa58de584950800000000000000
+      internalID: 6433496351030866996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 357
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c31763778b79860800000000000000
+      internalID: 7536695323581824120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 355
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3f0410e056cd020800000000000000
+      internalID: 2367878614915019704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 353
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f3cfdcafa6e3770800000000000000
+      internalID: 8592422764499713810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 350
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2580c65ccc0f0f0800000000000000
+      internalID: -1085142361903181152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 350
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24a1b5c5b3804070800000000000000
+      internalID: 8088609747486483503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 350
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b3ca4bcb60a0e80800000000000000
+      internalID: -8211743563001873602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 350
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78df2c35ee7129fc0800000000000000
+      internalID: -3489700448883769977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 350
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e366fe9f731f5dc0800000000000000
+      internalID: -3648175734298090525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 350
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9433fdf19c2d8ee70800000000000000
+      internalID: 9144790804640772937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 305
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb12e271225871bc0800000000000000
+      internalID: -3812432178081553986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 305
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21050e8184050f9f0800000000000000
+      internalID: -436760893269716974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 307
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800811e979add1920800000000000000
+      internalID: 2962764474606518280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 309
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5788d7fe74034fe90800000000000000
+      internalID: -6992911235880744843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 307
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a634ab73d31212f80800000000000000
+      internalID: -8133182905242729622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 305
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a6d7caa6e08f1c0800000000000000
+      internalID: -4469806778841994623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 303
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6b84e665fa60d40800000000000000
+      internalID: 5550316376533022404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 303
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044053adba2278d10800000000000000
+      internalID: 2127707470451508288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 303
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4386c9467bd6be750800000000000000
+      internalID: 6335277935261149236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 303
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6364afe4bf2007460800000000000000
+      internalID: 7237287879569458742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 303
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d496ba40f28cd070800000000000000
+      internalID: 8132518995681514704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 303
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8366104229c2a4e90800000000000000
+      internalID: -7040766061259430344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 257
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91055fcf8350e1740800000000000000
+      internalID: 5124539168314445849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 257
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60c411630ce22d60800000000000000
+      internalID: 7864107398600114284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 259
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4833dec7e3c9360800000000000000
+      internalID: 7177680612398171340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 261
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dab57999a558b30800000000000000
+      internalID: 4288933835856129345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 259
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09185ccc964492330800000000000000
+      internalID: 3686552991177212304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 257
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c1ba61b6bd00830800000000000000
+      internalID: 4035466519112260739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 255
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7202289a4ec9f120800000000000000
+      internalID: 2448214692227842685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 255
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c3e4cb8d0fd8fa0800000000000000
+      internalID: -5796712331693114273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 255
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155fd3c5942187530800000000000000
+      internalID: 3852849587504936273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 255
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c839c8006f2dd3020800000000000000
+      internalID: 2323244936806044556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 255
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824392e56f8e52e90800000000000000
+      internalID: -7050973496739285976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 255
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7952e07338fa250800000000000000
+      internalID: 5958125104518240213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 209
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738b8f247302d75e0800000000000000
+      internalID: -1910335245216335817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 209
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1955b84fe015e00800000000000000
+      internalID: 1031622233117004239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 211
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31681747963e98b0800000000000000
+      internalID: -5143613701049786050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 213
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a312b67ca7275810800000000000000
+      internalID: 1753914201563337637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 211
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f6d19009865e730800000000000000
+      internalID: 4027740409590280052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 209
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4ded34231fd8b50800000000000000
+      internalID: 6597194227356980389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 207
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6726c7635ed5bb90800000000000000
+      internalID: -7226625577241401494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 207
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75346bcd5aadd9a0800000000000000
+      internalID: -6206617391625652866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_44
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 207
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9f2734b2623b6f0800000000000000
+      internalID: -670149952291014205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 207
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68db16e76c0d34750800000000000000
+      internalID: 6288099055681781126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 207
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0b8e6ff68a51e80800000000000000
+      internalID: -8208469546975579919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 207
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6244c0c7d357af4c0800000000000000
+      internalID: -4252957991163378650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 161
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5c8a34da959dbe0800000000000000
+      internalID: -1452030804150925906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 161
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b4b862622bf9150800000000000000
+      internalID: 5881615515294321493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_50
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 163
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36aabfd35653d5400800000000000000
+      internalID: 314466257933675107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_51
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 165
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29703c8264e70c80800000000000000
+      internalID: -8356459471652751061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_52
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 163
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dba076ca1d452390800000000000000
+      internalID: -7843778398602089519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_53
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 161
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337e92ba0ae19d770800000000000000
+      internalID: 8635967435874887475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 159
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddedfeff36182d510800000000000000
+      internalID: 1572461486401380061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 159
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99eedb7f6ba273900800000000000000
+      internalID: 664046435389271705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_56
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 159
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e49b8ba74ee6930800000000000000
+      internalID: 4138496323336359435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_57
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 159
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e702caafac2262390800000000000000
+      internalID: -7843543445834817410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_58
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 159
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bb6a0d9b81bc140800000000000000
+      internalID: 4740910219086183256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_59
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 159
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039e4280c7cdd3b90800000000000000
+      internalID: -7260404598980679376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 113
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d369ea6185de39de0800000000000000
+      internalID: -1327456502550718915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_61
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 113
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3543f20de021eff0800000000000000
+      internalID: -8689521949194950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_62
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 115
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9300476a31ac410800000000000000
+      internalID: 1498031431685781990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_63
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 117
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f59002b89a58540800000000000000
+      internalID: 5009596575522578193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_64
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 115
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebb0dea55d2fbec0800000000000000
+      internalID: -3549068135316276254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_65
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 113
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c9e1d216c6bb380800000000000000
+      internalID: -8954444269471490994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_66
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 111
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ddf3d2eaf663f40800000000000000
+      internalID: 5707872371612835225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_67
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 111
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3beda60e19d8c470800000000000000
+      internalID: 8415214626726079291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 111
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd57b6df40ffac980800000000000000
+      internalID: -8517715348321241635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_69
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 111
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55470b3219040390800000000000000
+      internalID: -7853141876322908835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_70
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 111
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5acc5c1a44ca37e0800000000000000
+      internalID: -1784898479716513185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_71
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 111
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5ef55fd0d7b1e80800000000000000
+      internalID: -8206828397047847432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_72
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 65
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e063206374eb9140800000000000000
+      internalID: 4727623418040770789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_73
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 65
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99f05e06297fba10800000000000000
+      internalID: 1927392369893767579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_74
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 67
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a6b4b38edea9700800000000000000
+      internalID: 548011886361930361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_75
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 69
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fd6a1cd27897850800000000000000
+      internalID: 6375275378111864617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_76
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 67
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b323e4893d6f8c1e0800000000000000
+      internalID: -2177219031179840965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_77
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 65
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0238b1692217e720800000000000000
+      internalID: 2875286856041771530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_78
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 63
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec2e65c6901fe8d0800000000000000
+      internalID: -2815013002339799838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_79
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 63
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45278d8f205870f90800000000000000
+      internalID: -6987470049030671788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_80
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 63
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bc874cdbb953970800000000000000
+      internalID: 8734058291702320016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_81
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 63
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9d0c477760e1270800000000000000
+      internalID: 8223017079754774964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_82
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 63
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d331cd314c5fc680800000000000000
+      internalID: -8732659717169400874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_83
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 63
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09af79fc7626f9640800000000000000
+      internalID: 5088894301955947152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_84
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 17
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a62663c781bf030800000000000000
+      internalID: 3529441654742346345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_85
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0245b068c7750e700800000000000000
+      internalID: 567549745385133088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_86
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f23b83068a56c70800000000000000
+      internalID: 8963755764572434319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_87
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 21
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71dd297ded6cb540800000000000000
+      internalID: 5025012150946353531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_88
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 19
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6785c88be30b480800000000000000
+      internalID: -8885533102452476189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_89
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 17
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495ccf0621e02eb80800000000000000
+      internalID: -8367109685601581676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_90
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 15
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc7b296fe56db870800000000000000
+      internalID: 8700222134085713100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_91
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 15
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3de56673ea0e3610800000000000000
+      internalID: 1602730489450720572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_92
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 15
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1eb0ed29ecb3370800000000000000
+      internalID: 8303457468173509058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_93
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 15
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9068bc2e319d6fe0800000000000000
+      internalID: -1194138629959032678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_94
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 15
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192b824b89221ae20800000000000000
+      internalID: 3360004836248040081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pain-Anim_95
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 15
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b75b7be34f22e2b0800000000000000
+      internalID: -5556827021461727303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pain-Anim_0: 9173519871159801538
+      Pain-Anim_1: -6577285080314848751
+      Pain-Anim_10: -3648175734298090525
+      Pain-Anim_11: 9144790804640772937
+      Pain-Anim_12: -3812432178081553986
+      Pain-Anim_13: -436760893269716974
+      Pain-Anim_14: 2962764474606518280
+      Pain-Anim_15: -6992911235880744843
+      Pain-Anim_16: -8133182905242729622
+      Pain-Anim_17: -4469806778841994623
+      Pain-Anim_18: 5550316376533022404
+      Pain-Anim_19: 2127707470451508288
+      Pain-Anim_2: 6433496351030866996
+      Pain-Anim_20: 6335277935261149236
+      Pain-Anim_21: 7237287879569458742
+      Pain-Anim_22: 8132518995681514704
+      Pain-Anim_23: -7040766061259430344
+      Pain-Anim_24: 5124539168314445849
+      Pain-Anim_25: 7864107398600114284
+      Pain-Anim_26: 7177680612398171340
+      Pain-Anim_27: 4288933835856129345
+      Pain-Anim_28: 3686552991177212304
+      Pain-Anim_29: 4035466519112260739
+      Pain-Anim_3: 7536695323581824120
+      Pain-Anim_30: 2448214692227842685
+      Pain-Anim_31: -5796712331693114273
+      Pain-Anim_32: 3852849587504936273
+      Pain-Anim_33: 2323244936806044556
+      Pain-Anim_34: -7050973496739285976
+      Pain-Anim_35: 5958125104518240213
+      Pain-Anim_36: -1910335245216335817
+      Pain-Anim_37: 1031622233117004239
+      Pain-Anim_38: -5143613701049786050
+      Pain-Anim_39: 1753914201563337637
+      Pain-Anim_4: 2367878614915019704
+      Pain-Anim_40: 4027740409590280052
+      Pain-Anim_41: 6597194227356980389
+      Pain-Anim_42: -7226625577241401494
+      Pain-Anim_43: -6206617391625652866
+      Pain-Anim_44: -670149952291014205
+      Pain-Anim_45: 6288099055681781126
+      Pain-Anim_46: -8208469546975579919
+      Pain-Anim_47: -4252957991163378650
+      Pain-Anim_48: -1452030804150925906
+      Pain-Anim_49: 5881615515294321493
+      Pain-Anim_5: 8592422764499713810
+      Pain-Anim_50: 314466257933675107
+      Pain-Anim_51: -8356459471652751061
+      Pain-Anim_52: -7843778398602089519
+      Pain-Anim_53: 8635967435874887475
+      Pain-Anim_54: 1572461486401380061
+      Pain-Anim_55: 664046435389271705
+      Pain-Anim_56: 4138496323336359435
+      Pain-Anim_57: -7843543445834817410
+      Pain-Anim_58: 4740910219086183256
+      Pain-Anim_59: -7260404598980679376
+      Pain-Anim_6: -1085142361903181152
+      Pain-Anim_60: -1327456502550718915
+      Pain-Anim_61: -8689521949194950
+      Pain-Anim_62: 1498031431685781990
+      Pain-Anim_63: 5009596575522578193
+      Pain-Anim_64: -3549068135316276254
+      Pain-Anim_65: -8954444269471490994
+      Pain-Anim_66: 5707872371612835225
+      Pain-Anim_67: 8415214626726079291
+      Pain-Anim_68: -8517715348321241635
+      Pain-Anim_69: -7853141876322908835
+      Pain-Anim_7: 8088609747486483503
+      Pain-Anim_70: -1784898479716513185
+      Pain-Anim_71: -8206828397047847432
+      Pain-Anim_72: 4727623418040770789
+      Pain-Anim_73: 1927392369893767579
+      Pain-Anim_74: 548011886361930361
+      Pain-Anim_75: 6375275378111864617
+      Pain-Anim_76: -2177219031179840965
+      Pain-Anim_77: 2875286856041771530
+      Pain-Anim_78: -2815013002339799838
+      Pain-Anim_79: -6987470049030671788
+      Pain-Anim_8: -8211743563001873602
+      Pain-Anim_80: 8734058291702320016
+      Pain-Anim_81: 8223017079754774964
+      Pain-Anim_82: -8732659717169400874
+      Pain-Anim_83: 5088894301955947152
+      Pain-Anim_84: 3529441654742346345
+      Pain-Anim_85: 567549745385133088
+      Pain-Anim_86: 8963755764572434319
+      Pain-Anim_87: 5025012150946353531
+      Pain-Anim_88: -8885533102452476189
+      Pain-Anim_89: -8367109685601581676
+      Pain-Anim_9: -3489700448883769977
+      Pain-Anim_90: 8700222134085713100
+      Pain-Anim_91: 1602730489450720572
+      Pain-Anim_92: 8303457468173509058
+      Pain-Anim_93: -1194138629959032678
+      Pain-Anim_94: 3360004836248040081
+      Pain-Anim_95: -5556827021461727303
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

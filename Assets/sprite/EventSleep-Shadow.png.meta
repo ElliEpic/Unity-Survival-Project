@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: cbfae5d6f4584244599234cc9154edd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6288858538091724516
+    second: EventSleep-Shadow_0
+  - first:
+      213: -5777319265662855506
+    second: EventSleep-Shadow_1
+  - first:
+      213: -4758432236641639963
+    second: EventSleep-Shadow_2
+  - first:
+      213: -6991813953764247563
+    second: EventSleep-Shadow_3
+  - first:
+      213: -5602330044890592169
+    second: EventSleep-Shadow_4
+  - first:
+      213: 1668013982919044396
+    second: EventSleep-Shadow_5
+  - first:
+      213: -1481868930551212129
+    second: EventSleep-Shadow_6
+  - first:
+      213: -4021448503266687558
+    second: EventSleep-Shadow_7
+  - first:
+      213: -1725179581772226551
+    second: EventSleep-Shadow_8
+  - first:
+      213: 7857710590370862739
+    second: EventSleep-Shadow_9
+  - first:
+      213: 2820741125498343909
+    second: EventSleep-Shadow_10
+  - first:
+      213: 5264957966732445292
+    second: EventSleep-Shadow_11
+  - first:
+      213: 8208402293090337654
+    second: EventSleep-Shadow_12
+  - first:
+      213: -6214612638043453181
+    second: EventSleep-Shadow_13
+  - first:
+      213: 8176201267223748382
+    second: EventSleep-Shadow_14
+  - first:
+      213: -1518651445623489536
+    second: EventSleep-Shadow_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EventSleep-Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeb3a54583864750800000000000000
+      internalID: 6288858538091724516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSleep-Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea61528ccb6d2dfa0800000000000000
+      internalID: -5777319265662855506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSleep-Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1253f8717a6fdb0800000000000000
+      internalID: -4758432236641639963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSleep-Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 199
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f73346d04618fe90800000000000000
+      internalID: -6991813953764247563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSleep-Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c4ccfa1868042b0800000000000000
+      internalID: -5602330044890592169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSleep-Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 167
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d264441e9f52710800000000000000
+      internalID: 1668013982919044396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSleep-Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f979ec61f085f6be0800000000000000
+      internalID: -1481868930551212129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSleep-Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5434094e1f038c0800000000000000
+      internalID: -4021448503266687558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSleep-Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900a5be8f4eee08e0800000000000000
+      internalID: -1725179581772226551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSleep-Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 103
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39651e666223c0d60800000000000000
+      internalID: 7857710590370862739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSleep-Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e11aa4db19452720800000000000000
+      internalID: 2820741125498343909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSleep-Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 71
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6643743063e01940800000000000000
+      internalID: 5264957966732445292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSleep-Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673c625456a1ae170800000000000000
+      internalID: 8208402293090337654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSleep-Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30944cc6bb241c9a0800000000000000
+      internalID: -6214612638043453181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSleep-Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f58f0bbb3b77170800000000000000
+      internalID: 8176201267223748382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSleep-Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 7
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c7afd6e8aaceae0800000000000000
+      internalID: -1518651445623489536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EventSleep-Shadow_0: 6288858538091724516
+      EventSleep-Shadow_1: -5777319265662855506
+      EventSleep-Shadow_10: 2820741125498343909
+      EventSleep-Shadow_11: 5264957966732445292
+      EventSleep-Shadow_12: 8208402293090337654
+      EventSleep-Shadow_13: -6214612638043453181
+      EventSleep-Shadow_14: 8176201267223748382
+      EventSleep-Shadow_15: -1518651445623489536
+      EventSleep-Shadow_2: -4758432236641639963
+      EventSleep-Shadow_3: -6991813953764247563
+      EventSleep-Shadow_4: -5602330044890592169
+      EventSleep-Shadow_5: 1668013982919044396
+      EventSleep-Shadow_6: -1481868930551212129
+      EventSleep-Shadow_7: -4021448503266687558
+      EventSleep-Shadow_8: -1725179581772226551
+      EventSleep-Shadow_9: 7857710590370862739
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

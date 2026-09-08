@@ -1,0 +1,2199 @@
+fileFormatVersion: 2
+guid: 5ec10920b6f584b468f268d669803b56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6931289236210318468
+    second: QuickStrike-Anim_0
+  - first:
+      213: -7288660061402736291
+    second: QuickStrike-Anim_1
+  - first:
+      213: -879947990879361730
+    second: QuickStrike-Anim_2
+  - first:
+      213: 3030109371380973155
+    second: QuickStrike-Anim_3
+  - first:
+      213: -5849711381178594866
+    second: QuickStrike-Anim_4
+  - first:
+      213: 6679817626956014748
+    second: QuickStrike-Anim_5
+  - first:
+      213: 2078054631932482246
+    second: QuickStrike-Anim_6
+  - first:
+      213: -818634163558582477
+    second: QuickStrike-Anim_7
+  - first:
+      213: 6389059899249165559
+    second: QuickStrike-Anim_8
+  - first:
+      213: 5370194823924109663
+    second: QuickStrike-Anim_9
+  - first:
+      213: 8163769980619411068
+    second: QuickStrike-Anim_10
+  - first:
+      213: -6162288867465141180
+    second: QuickStrike-Anim_11
+  - first:
+      213: -3441318694079984020
+    second: QuickStrike-Anim_12
+  - first:
+      213: 8900912481047792037
+    second: QuickStrike-Anim_13
+  - first:
+      213: -8773894178637551993
+    second: QuickStrike-Anim_14
+  - first:
+      213: 4248432939973344881
+    second: QuickStrike-Anim_15
+  - first:
+      213: 5897628935320152762
+    second: QuickStrike-Anim_16
+  - first:
+      213: 7039711832636889936
+    second: QuickStrike-Anim_17
+  - first:
+      213: 4532461685157477319
+    second: QuickStrike-Anim_18
+  - first:
+      213: -748376286753054803
+    second: QuickStrike-Anim_19
+  - first:
+      213: 3315898857975634255
+    second: QuickStrike-Anim_20
+  - first:
+      213: -7728997088535943795
+    second: QuickStrike-Anim_21
+  - first:
+      213: -3246476465047283039
+    second: QuickStrike-Anim_22
+  - first:
+      213: 2153336008325090213
+    second: QuickStrike-Anim_23
+  - first:
+      213: 7642457397891084407
+    second: QuickStrike-Anim_24
+  - first:
+      213: 4783978118468848086
+    second: QuickStrike-Anim_25
+  - first:
+      213: 7755203625021950670
+    second: QuickStrike-Anim_26
+  - first:
+      213: -3295417421740699463
+    second: QuickStrike-Anim_27
+  - first:
+      213: -6498551433778812541
+    second: QuickStrike-Anim_28
+  - first:
+      213: -7768951951317278229
+    second: QuickStrike-Anim_29
+  - first:
+      213: -8879532384152670244
+    second: QuickStrike-Anim_30
+  - first:
+      213: 5396017708017254785
+    second: QuickStrike-Anim_31
+  - first:
+      213: 2312769613759406418
+    second: QuickStrike-Anim_32
+  - first:
+      213: 6927690465840210489
+    second: QuickStrike-Anim_33
+  - first:
+      213: 977410267314018555
+    second: QuickStrike-Anim_34
+  - first:
+      213: -6872585969859606511
+    second: QuickStrike-Anim_35
+  - first:
+      213: 9064082817223576269
+    second: QuickStrike-Anim_36
+  - first:
+      213: -3777665211977680875
+    second: QuickStrike-Anim_37
+  - first:
+      213: 6882085918341003343
+    second: QuickStrike-Anim_38
+  - first:
+      213: 8199970586456614275
+    second: QuickStrike-Anim_39
+  - first:
+      213: 2149206106815172770
+    second: QuickStrike-Anim_40
+  - first:
+      213: 4888755238206014564
+    second: QuickStrike-Anim_41
+  - first:
+      213: -8903795575335983892
+    second: QuickStrike-Anim_42
+  - first:
+      213: 5700034374206648974
+    second: QuickStrike-Anim_43
+  - first:
+      213: -4993997532748600895
+    second: QuickStrike-Anim_44
+  - first:
+      213: -2617428066038320729
+    second: QuickStrike-Anim_45
+  - first:
+      213: -9045505001712130923
+    second: QuickStrike-Anim_46
+  - first:
+      213: -2390649929656332993
+    second: QuickStrike-Anim_47
+  - first:
+      213: -1115796944703853684
+    second: QuickStrike-Anim_48
+  - first:
+      213: 1652167282031187834
+    second: QuickStrike-Anim_49
+  - first:
+      213: 6365727456140367936
+    second: QuickStrike-Anim_50
+  - first:
+      213: -4346525463230671249
+    second: QuickStrike-Anim_51
+  - first:
+      213: 3644400402299995159
+    second: QuickStrike-Anim_52
+  - first:
+      213: 3705075524993079847
+    second: QuickStrike-Anim_53
+  - first:
+      213: 8890905202285279750
+    second: QuickStrike-Anim_54
+  - first:
+      213: 467980816847576376
+    second: QuickStrike-Anim_55
+  - first:
+      213: -5940384803225004302
+    second: QuickStrike-Anim_56
+  - first:
+      213: -6825585076288506397
+    second: QuickStrike-Anim_57
+  - first:
+      213: -2099759565942715422
+    second: QuickStrike-Anim_58
+  - first:
+      213: 8065050257577495385
+    second: QuickStrike-Anim_59
+  - first:
+      213: -6784776884283186762
+    second: QuickStrike-Anim_60
+  - first:
+      213: 8260046793846347846
+    second: QuickStrike-Anim_61
+  - first:
+      213: 1000189086584386515
+    second: QuickStrike-Anim_62
+  - first:
+      213: 8640040776520395474
+    second: QuickStrike-Anim_63
+  - first:
+      213: 432734265364034452
+    second: QuickStrike-Anim_64
+  - first:
+      213: -5315497667951065609
+    second: QuickStrike-Anim_65
+  - first:
+      213: -2794840042825749496
+    second: QuickStrike-Anim_66
+  - first:
+      213: 6322876926409244204
+    second: QuickStrike-Anim_67
+  - first:
+      213: 5032459919197218681
+    second: QuickStrike-Anim_68
+  - first:
+      213: 9195253905769876859
+    second: QuickStrike-Anim_69
+  - first:
+      213: -4065189367285331358
+    second: QuickStrike-Anim_70
+  - first:
+      213: 8075723589754133279
+    second: QuickStrike-Anim_71
+  - first:
+      213: 155142428348735517
+    second: QuickStrike-Anim_72
+  - first:
+      213: 7750122593003227456
+    second: QuickStrike-Anim_73
+  - first:
+      213: 6156659362665300694
+    second: QuickStrike-Anim_74
+  - first:
+      213: 3199918566244671669
+    second: QuickStrike-Anim_75
+  - first:
+      213: -574069455500305987
+    second: QuickStrike-Anim_76
+  - first:
+      213: -4034839912757674669
+    second: QuickStrike-Anim_77
+  - first:
+      213: 4614122942677927242
+    second: QuickStrike-Anim_78
+  - first:
+      213: -1339645382727501127
+    second: QuickStrike-Anim_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: QuickStrike-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1015
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c730238c92d1fcf90800000000000000
+      internalID: -6931289236210318468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1016
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5953878a4a79da90800000000000000
+      internalID: -7288660061402736291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1013
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3521d6e6fbc9c3f0800000000000000
+      internalID: -879947990879361730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1005
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ebeb74b6c1d0a20800000000000000
+      internalID: 3030109371380973155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1008
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec94a4eed76a1dea0800000000000000
+      internalID: -5849711381178594866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 987
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c942b139dba73bc50800000000000000
+      internalID: 6679817626956014748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 973
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2d0308dabb6dc10800000000000000
+      internalID: 2078054631932482246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 973
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3377718c090a3a4f0800000000000000
+      internalID: -818634163558582477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 973
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4807fa0208aa850800000000000000
+      internalID: 6389059899249165559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 973
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5153a66db3c68a40800000000000000
+      internalID: 5370194823924109663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 877
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e41da3b898b4170800000000000000
+      internalID: 8163769980619411068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 878
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444656b9ce62b7aa0800000000000000
+      internalID: -6162288867465141180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 876
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e837071eafd30d0800000000000000
+      internalID: -3441318694079984020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 863
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9c1b11eb4668b70800000000000000
+      internalID: 8900912481047792037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 850
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786e0790bbddc3680800000000000000
+      internalID: -8773894178637551993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 870
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17efd2fef3775fa30800000000000000
+      internalID: 4248432939973344881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 834
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaa2da054698d150800000000000000
+      internalID: 5897628935320152762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 835
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b9f612d9412b160800000000000000
+      internalID: 7039711832636889936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 834
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb31ed73e986ee30800000000000000
+      internalID: 4532461685157477319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 835
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf12c57bbb3d95f0800000000000000
+      internalID: -748376286753054803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 741
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49d2c46170740e20800000000000000
+      internalID: 3315898857975634255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 741
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8569c319161db490800000000000000
+      internalID: -7728997088535943795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 741
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aad0390bd232f2d0800000000000000
+      internalID: -3246476465047283039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 741
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab4642d0bf22ed10800000000000000
+      internalID: 2153336008325090213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 741
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770ba5c03867f0a60800000000000000
+      internalID: 7642457397891084407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 743
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9c39c80ca146240800000000000000
+      internalID: 4783978118468848086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 742
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca414eab9400ab60800000000000000
+      internalID: 7755203625021950670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 743
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0138690535442d0800000000000000
+      internalID: -3295417421740699463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 742
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389220bd6e180d5a0800000000000000
+      internalID: -6498551433778812541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 741
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1e7a8ac532f2490800000000000000
+      internalID: -7768951951317278229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 631
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfa007a75095c480800000000000000
+      internalID: -8879532384152670244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 652
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1810610248182ea40800000000000000
+      internalID: 5396017708017254785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 651
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251627bc5bb981020800000000000000
+      internalID: 2312769613759406418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 652
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932244236c9142060800000000000000
+      internalID: 6927690465840210489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 651
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf85217a575709d00800000000000000
+      internalID: 977410267314018555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 604
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1184f22197baf90a0800000000000000
+      internalID: -6872585969859606511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 603
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca45577c471acd70800000000000000
+      internalID: 9064082817223576269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 604
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51838bf2189039bc0800000000000000
+      internalID: -3777665211977680875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 619
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48fe6c0ea4128f50800000000000000
+      internalID: 6882085918341003343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 611
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385e5669dc52cc170800000000000000
+      internalID: 8199970586456614275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 494
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a091d1319383dd10800000000000000
+      internalID: 2149206106815172770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_41
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 515
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4648917ccf858d340800000000000000
+      internalID: 4888755238206014564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 515
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4676b391d5f6480800000000000000
+      internalID: -8903795575335983892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 515
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e827a1230179a1f40800000000000000
+      internalID: 5700034374206648974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_44
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 515
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9a75b04b1c1bab0800000000000000
+      internalID: -4993997532748600895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 468
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1f5aaaa070dabd0800000000000000
+      internalID: -2617428066038320729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 467
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594ede64029e77280800000000000000
+      internalID: -9045505001712130923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 467
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d85802e84b2ded0800000000000000
+      internalID: -2390649929656332993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 479
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8be57d2794e380f0800000000000000
+      internalID: -1115796944703853684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_49
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 475
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77ddf2b36dade610800000000000000
+      internalID: 1652167282031187834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_50
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 359
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0489230f46b975850800000000000000
+      internalID: 6365727456140367936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_51
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 380
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6612fcbe1a0ea3c0800000000000000
+      internalID: -4346525463230671249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_52
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 379
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714c1666bd2839230800000000000000
+      internalID: 3644400402299995159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_53
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 380
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ad4354f821b6330800000000000000
+      internalID: 3705075524993079847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 379
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60af2e9ec27d26b70800000000000000
+      internalID: 8890905202285279750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 332
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d95edc21a9e7600800000000000000
+      internalID: 467980816847576376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_56
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 331
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f615a6be738f8da0800000000000000
+      internalID: -5940384803225004302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 332
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5bd9f5986a641a0800000000000000
+      internalID: -6825585076288506397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_58
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 347
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb814ebcc72cd2e0800000000000000
+      internalID: -2099759565942715422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_59
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 339
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b44929a70dcef60800000000000000
+      internalID: 8065050257577495385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 197
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1e40cfe51a7d1a0800000000000000
+      internalID: -6784776884283186762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_61
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 197
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648d05f9bc491a270800000000000000
+      internalID: 8260046793846347846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_62
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 197
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3b51ecca261ed00800000000000000
+      internalID: 1000189086584386515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_63
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 197
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da63613f4797e770800000000000000
+      internalID: 8640040776520395474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_64
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 197
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493b9298581610600800000000000000
+      internalID: 432734265364034452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_65
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 199
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f50c51a80f8b36b0800000000000000
+      internalID: -5315497667951065609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_66
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 198
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c655be9cbb639d0800000000000000
+      internalID: -2794840042825749496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_67
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 199
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ef225801f5fb750800000000000000
+      internalID: 6322876926409244204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_68
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 198
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977242622a3e6d540800000000000000
+      internalID: 5032459919197218681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_69
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 197
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dcfe075ba1c9f70800000000000000
+      internalID: 9195253905769876859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_70
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 61
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a434a0fcb8597c0800000000000000
+      internalID: -4065189367285331358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_71
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 62
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b998f51dbb21070800000000000000
+      internalID: 8075723589754133279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_72
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 60
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d106153773d272200800000000000000
+      internalID: 155142428348735517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_73
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 47
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049cfa9bf67fd8b60800000000000000
+      internalID: 7750122593003227456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_74
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 34
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d28fba2219d07550800000000000000
+      internalID: 6156659362665300694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_75
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 54
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0e03b6bf4686c20800000000000000
+      internalID: 3199918566244671669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_76
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 18
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9908c2fde7808f0800000000000000
+      internalID: -574069455500305987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_77
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 19
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35db2821a7e5108c0800000000000000
+      internalID: -4034839912757674669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_78
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 18
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a454c44ae58a80040800000000000000
+      internalID: 4614122942677927242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Anim_79
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 19
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baf8854f9f986de0800000000000000
+      internalID: -1339645382727501127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      QuickStrike-Anim_0: -6931289236210318468
+      QuickStrike-Anim_1: -7288660061402736291
+      QuickStrike-Anim_10: 8163769980619411068
+      QuickStrike-Anim_11: -6162288867465141180
+      QuickStrike-Anim_12: -3441318694079984020
+      QuickStrike-Anim_13: 8900912481047792037
+      QuickStrike-Anim_14: -8773894178637551993
+      QuickStrike-Anim_15: 4248432939973344881
+      QuickStrike-Anim_16: 5897628935320152762
+      QuickStrike-Anim_17: 7039711832636889936
+      QuickStrike-Anim_18: 4532461685157477319
+      QuickStrike-Anim_19: -748376286753054803
+      QuickStrike-Anim_2: -879947990879361730
+      QuickStrike-Anim_20: 3315898857975634255
+      QuickStrike-Anim_21: -7728997088535943795
+      QuickStrike-Anim_22: -3246476465047283039
+      QuickStrike-Anim_23: 2153336008325090213
+      QuickStrike-Anim_24: 7642457397891084407
+      QuickStrike-Anim_25: 4783978118468848086
+      QuickStrike-Anim_26: 7755203625021950670
+      QuickStrike-Anim_27: -3295417421740699463
+      QuickStrike-Anim_28: -6498551433778812541
+      QuickStrike-Anim_29: -7768951951317278229
+      QuickStrike-Anim_3: 3030109371380973155
+      QuickStrike-Anim_30: -8879532384152670244
+      QuickStrike-Anim_31: 5396017708017254785
+      QuickStrike-Anim_32: 2312769613759406418
+      QuickStrike-Anim_33: 6927690465840210489
+      QuickStrike-Anim_34: 977410267314018555
+      QuickStrike-Anim_35: -6872585969859606511
+      QuickStrike-Anim_36: 9064082817223576269
+      QuickStrike-Anim_37: -3777665211977680875
+      QuickStrike-Anim_38: 6882085918341003343
+      QuickStrike-Anim_39: 8199970586456614275
+      QuickStrike-Anim_4: -5849711381178594866
+      QuickStrike-Anim_40: 2149206106815172770
+      QuickStrike-Anim_41: 4888755238206014564
+      QuickStrike-Anim_42: -8903795575335983892
+      QuickStrike-Anim_43: 5700034374206648974
+      QuickStrike-Anim_44: -4993997532748600895
+      QuickStrike-Anim_45: -2617428066038320729
+      QuickStrike-Anim_46: -9045505001712130923
+      QuickStrike-Anim_47: -2390649929656332993
+      QuickStrike-Anim_48: -1115796944703853684
+      QuickStrike-Anim_49: 1652167282031187834
+      QuickStrike-Anim_5: 6679817626956014748
+      QuickStrike-Anim_50: 6365727456140367936
+      QuickStrike-Anim_51: -4346525463230671249
+      QuickStrike-Anim_52: 3644400402299995159
+      QuickStrike-Anim_53: 3705075524993079847
+      QuickStrike-Anim_54: 8890905202285279750
+      QuickStrike-Anim_55: 467980816847576376
+      QuickStrike-Anim_56: -5940384803225004302
+      QuickStrike-Anim_57: -6825585076288506397
+      QuickStrike-Anim_58: -2099759565942715422
+      QuickStrike-Anim_59: 8065050257577495385
+      QuickStrike-Anim_6: 2078054631932482246
+      QuickStrike-Anim_60: -6784776884283186762
+      QuickStrike-Anim_61: 8260046793846347846
+      QuickStrike-Anim_62: 1000189086584386515
+      QuickStrike-Anim_63: 8640040776520395474
+      QuickStrike-Anim_64: 432734265364034452
+      QuickStrike-Anim_65: -5315497667951065609
+      QuickStrike-Anim_66: -2794840042825749496
+      QuickStrike-Anim_67: 6322876926409244204
+      QuickStrike-Anim_68: 5032459919197218681
+      QuickStrike-Anim_69: 9195253905769876859
+      QuickStrike-Anim_7: -818634163558582477
+      QuickStrike-Anim_70: -4065189367285331358
+      QuickStrike-Anim_71: 8075723589754133279
+      QuickStrike-Anim_72: 155142428348735517
+      QuickStrike-Anim_73: 7750122593003227456
+      QuickStrike-Anim_74: 6156659362665300694
+      QuickStrike-Anim_75: 3199918566244671669
+      QuickStrike-Anim_76: -574069455500305987
+      QuickStrike-Anim_77: -4034839912757674669
+      QuickStrike-Anim_78: 4614122942677927242
+      QuickStrike-Anim_79: -1339645382727501127
+      QuickStrike-Anim_8: 6389059899249165559
+      QuickStrike-Anim_9: 5370194823924109663
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

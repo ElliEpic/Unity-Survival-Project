@@ -1,0 +1,2199 @@
+fileFormatVersion: 2
+guid: 4b75ebc8909e7804abd488e4cb718f80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6643591556296248253
+    second: QuickStrike-Shadow_0
+  - first:
+      213: -4404809437343665246
+    second: QuickStrike-Shadow_1
+  - first:
+      213: 8442593057283258650
+    second: QuickStrike-Shadow_2
+  - first:
+      213: 7679338114269895745
+    second: QuickStrike-Shadow_3
+  - first:
+      213: -6379488380004223219
+    second: QuickStrike-Shadow_4
+  - first:
+      213: 1585978724257984405
+    second: QuickStrike-Shadow_5
+  - first:
+      213: -3476431948843276578
+    second: QuickStrike-Shadow_6
+  - first:
+      213: 865335717870897438
+    second: QuickStrike-Shadow_7
+  - first:
+      213: -9027036500669132389
+    second: QuickStrike-Shadow_8
+  - first:
+      213: -8354509021047777687
+    second: QuickStrike-Shadow_9
+  - first:
+      213: 4645686650325641051
+    second: QuickStrike-Shadow_10
+  - first:
+      213: 4362406041232135074
+    second: QuickStrike-Shadow_11
+  - first:
+      213: 6355340039974942024
+    second: QuickStrike-Shadow_12
+  - first:
+      213: 191001760810815432
+    second: QuickStrike-Shadow_13
+  - first:
+      213: -6211231245030582685
+    second: QuickStrike-Shadow_14
+  - first:
+      213: -8410406891523373756
+    second: QuickStrike-Shadow_15
+  - first:
+      213: -3493826946861942315
+    second: QuickStrike-Shadow_16
+  - first:
+      213: -3278459389800193371
+    second: QuickStrike-Shadow_17
+  - first:
+      213: 4810965268467184076
+    second: QuickStrike-Shadow_18
+  - first:
+      213: 8168019712930946520
+    second: QuickStrike-Shadow_19
+  - first:
+      213: 8912963623621692535
+    second: QuickStrike-Shadow_20
+  - first:
+      213: 6646460102801694965
+    second: QuickStrike-Shadow_21
+  - first:
+      213: -7071397110599637732
+    second: QuickStrike-Shadow_22
+  - first:
+      213: 7568305105874418652
+    second: QuickStrike-Shadow_23
+  - first:
+      213: 1726182320000142426
+    second: QuickStrike-Shadow_24
+  - first:
+      213: 2103429912679511711
+    second: QuickStrike-Shadow_25
+  - first:
+      213: -4783721976066884323
+    second: QuickStrike-Shadow_26
+  - first:
+      213: -9157934606254955086
+    second: QuickStrike-Shadow_27
+  - first:
+      213: -3814602167292893093
+    second: QuickStrike-Shadow_28
+  - first:
+      213: -3451134572762815328
+    second: QuickStrike-Shadow_29
+  - first:
+      213: -821773640253535687
+    second: QuickStrike-Shadow_30
+  - first:
+      213: -2162571468990323502
+    second: QuickStrike-Shadow_31
+  - first:
+      213: -3534206092563580026
+    second: QuickStrike-Shadow_32
+  - first:
+      213: 362319934419988582
+    second: QuickStrike-Shadow_33
+  - first:
+      213: -5879705639691975299
+    second: QuickStrike-Shadow_34
+  - first:
+      213: 326598164770595086
+    second: QuickStrike-Shadow_35
+  - first:
+      213: -4783396812022033640
+    second: QuickStrike-Shadow_36
+  - first:
+      213: 4965235073248918998
+    second: QuickStrike-Shadow_37
+  - first:
+      213: 4630187038199957418
+    second: QuickStrike-Shadow_38
+  - first:
+      213: 8083088898830900734
+    second: QuickStrike-Shadow_39
+  - first:
+      213: -2626644678333961068
+    second: QuickStrike-Shadow_40
+  - first:
+      213: -6414901470565856004
+    second: QuickStrike-Shadow_41
+  - first:
+      213: -8545950877067525321
+    second: QuickStrike-Shadow_42
+  - first:
+      213: 6452712119831132896
+    second: QuickStrike-Shadow_43
+  - first:
+      213: 2590295077880445309
+    second: QuickStrike-Shadow_44
+  - first:
+      213: -6313517692176715131
+    second: QuickStrike-Shadow_45
+  - first:
+      213: -2353807980637934108
+    second: QuickStrike-Shadow_46
+  - first:
+      213: 6770512767221180683
+    second: QuickStrike-Shadow_47
+  - first:
+      213: 7471386453073904833
+    second: QuickStrike-Shadow_48
+  - first:
+      213: -1640767625999343719
+    second: QuickStrike-Shadow_49
+  - first:
+      213: -7912091123648712926
+    second: QuickStrike-Shadow_50
+  - first:
+      213: -7697646896075575244
+    second: QuickStrike-Shadow_51
+  - first:
+      213: 2466348400042909717
+    second: QuickStrike-Shadow_52
+  - first:
+      213: -2612530737448879534
+    second: QuickStrike-Shadow_53
+  - first:
+      213: -7270425279568261658
+    second: QuickStrike-Shadow_54
+  - first:
+      213: -8892985736481493108
+    second: QuickStrike-Shadow_55
+  - first:
+      213: -4680661969759688638
+    second: QuickStrike-Shadow_56
+  - first:
+      213: 6261056350068462554
+    second: QuickStrike-Shadow_57
+  - first:
+      213: 6031067518491085123
+    second: QuickStrike-Shadow_58
+  - first:
+      213: 1627091100084182336
+    second: QuickStrike-Shadow_59
+  - first:
+      213: -8533695419356413580
+    second: QuickStrike-Shadow_60
+  - first:
+      213: -408736415681608594
+    second: QuickStrike-Shadow_61
+  - first:
+      213: 8431229333304408828
+    second: QuickStrike-Shadow_62
+  - first:
+      213: -8984849427826050105
+    second: QuickStrike-Shadow_63
+  - first:
+      213: 3924510375236078647
+    second: QuickStrike-Shadow_64
+  - first:
+      213: -7138562383677439354
+    second: QuickStrike-Shadow_65
+  - first:
+      213: -5726808419864223073
+    second: QuickStrike-Shadow_66
+  - first:
+      213: 8935396348860735137
+    second: QuickStrike-Shadow_67
+  - first:
+      213: 3572238278044884890
+    second: QuickStrike-Shadow_68
+  - first:
+      213: 3229443263757975224
+    second: QuickStrike-Shadow_69
+  - first:
+      213: 686016977939109357
+    second: QuickStrike-Shadow_70
+  - first:
+      213: 1387466424301470580
+    second: QuickStrike-Shadow_71
+  - first:
+      213: -7829250975891528017
+    second: QuickStrike-Shadow_72
+  - first:
+      213: 8279649516203814085
+    second: QuickStrike-Shadow_73
+  - first:
+      213: 267827980639402102
+    second: QuickStrike-Shadow_74
+  - first:
+      213: -4567708854908528658
+    second: QuickStrike-Shadow_75
+  - first:
+      213: -7044038570814788778
+    second: QuickStrike-Shadow_76
+  - first:
+      213: 5224090019258241703
+    second: QuickStrike-Shadow_77
+  - first:
+      213: 5989211284073073652
+    second: QuickStrike-Shadow_78
+  - first:
+      213: 1686735899768734088
+    second: QuickStrike-Shadow_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1012
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb82d93257c23c50800000000000000
+      internalID: 6643591556296248253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1013
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3b7d78729fed2c0800000000000000
+      internalID: -4404809437343665246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1011
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a193c82a7ad1a2570800000000000000
+      internalID: 8442593057283258650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1005
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cdc2bf35d729a60800000000000000
+      internalID: 7679338114269895745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 999
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07bd1d4e118777a0800000000000000
+      internalID: -6379488380004223219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 985
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f69b03f37820610800000000000000
+      internalID: 1585978724257984405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 966
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6a06bbf8b31cfc0800000000000000
+      internalID: -3476431948843276578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 966
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19072b204a420c00800000000000000
+      internalID: 865335717870897438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 966
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b919123412689b280800000000000000
+      internalID: -9027036500669132389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 966
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96696a73f42de0c80800000000000000
+      internalID: -8354509021047777687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 876
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b572f62056bc87040800000000000000
+      internalID: 4645686650325641051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 877
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3d8a57e216a8c30800000000000000
+      internalID: 4362406041232135074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 875
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845f5852814b23850800000000000000
+      internalID: 6355340039974942024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 869
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf4a98e61396a200800000000000000
+      internalID: 191001760810815432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 863
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366152657164dc9a0800000000000000
+      internalID: -6211231245030582685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 849
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445804e0e7b384b80800000000000000
+      internalID: -8410406891523373756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 831
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d93b9527ee638fc0800000000000000
+      internalID: -3493826946861942315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 832
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a26a641e829082d0800000000000000
+      internalID: -3278459389800193371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 831
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc17abd0c6bf3c240800000000000000
+      internalID: 4810965268467184076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 832
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd13a327a2aa5170800000000000000
+      internalID: 8168019712930946520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 739
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c03f9513531bb70800000000000000
+      internalID: 8912963623621692535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 739
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f02d41cf38fc3c50800000000000000
+      internalID: 6646460102801694965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 739
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c152cf43bc95ddd90800000000000000
+      internalID: -7071397110599637732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 739
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb7b6b2565080960800000000000000
+      internalID: 7568305105874418652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 739
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c0b21aca1a4f710800000000000000
+      internalID: 1726182320000142426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 739
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9671337c52e03d10800000000000000
+      internalID: 2103429912679511711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 738
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dbd40453ecc9db0800000000000000
+      internalID: -4783721976066884323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 739
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5aae51ffa78e080800000000000000
+      internalID: -9157934606254955086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 738
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58621b1a8fcf0bc0800000000000000
+      internalID: -3814602167292893093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_29
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 739
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a42766146b1b10d0800000000000000
+      internalID: -3451134572762815328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 649
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a88e66a397894f0800000000000000
+      internalID: -821773640253535687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 648
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4ef6de4b00df1e0800000000000000
+      internalID: -2162571468990323502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_32
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 649
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bf9b9a84af3fec0800000000000000
+      internalID: -3534206092563580026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_33
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 648
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660752a8f08370500800000000000000
+      internalID: 362319934419988582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_34
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 631
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d758c4a6fd6176ea0800000000000000
+      internalID: -5879705639691975299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 617
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01227bec4f488400800000000000000
+      internalID: 326598164770595086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_36
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 609
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813d0b761f5fd9db0800000000000000
+      internalID: -4783396812022033640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_37
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 602
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddff4ffdfe08e440800000000000000
+      internalID: 4965235073248918998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 601
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7c687549ab14040800000000000000
+      internalID: 4630187038199957418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 604
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd18b60786ec2070800000000000000
+      internalID: 8083088898830900734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_40
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 513
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cebb4e4984c8bd0800000000000000
+      internalID: -2626644678333961068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_41
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 513
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc8ac1a911b9f6a0800000000000000
+      internalID: -6414901470565856004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_42
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 513
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733c378a4fea66980800000000000000
+      internalID: -8545950877067525321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_43
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 513
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea746c2c73ac8950800000000000000
+      internalID: 6452712119831132896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_44
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 494
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79b18c36a392f320800000000000000
+      internalID: 2590295077880445309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_45
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 479
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582b9a20c11e168a0800000000000000
+      internalID: -6313517692176715131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_46
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 473
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eda894dc18955fd0800000000000000
+      internalID: -2353807980637934108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 466
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0927757d71b5fd50800000000000000
+      internalID: 6770512767221180683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_48
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 465
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4c22bd462bfa760800000000000000
+      internalID: 7471386453073904833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 467
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f195d8982da39e0800000000000000
+      internalID: -1640767625999343719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_50
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 377
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fa5680b0b923290800000000000000
+      internalID: -7912091123648712926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_51
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 376
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430f6019ee67c2590800000000000000
+      internalID: -7697646896075575244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_52
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 377
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51029e47dca3a3220800000000000000
+      internalID: 2466348400042909717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_53
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 376
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25af195d22d6ebbd0800000000000000
+      internalID: -2612530737448879534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_54
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 359
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed40558ab24a1b90800000000000000
+      internalID: -7270425279568261658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_55
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 345
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fa768f694c59480800000000000000
+      internalID: -8892985736481493108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_56
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 337
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2482bcadcb2fa0fb0800000000000000
+      internalID: -4680661969759688638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_57
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 330
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3d880f39db3e650800000000000000
+      internalID: 6261056350068462554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_58
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 329
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349ce0044f7a2b350800000000000000
+      internalID: 6031067518491085123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 332
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d97bd1cb6949610800000000000000
+      internalID: 1627091100084182336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 195
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47102e3ca39329980800000000000000
+      internalID: -8533695419356413580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_61
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 195
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6408804560e35af0800000000000000
+      internalID: -408736415681608594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 195
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa7677786eb10570800000000000000
+      internalID: 8431229333304408828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_63
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 195
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb7e069c076f4380800000000000000
+      internalID: -8984849427826050105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_64
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 195
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c0841b469a67630800000000000000
+      internalID: 3924510375236078647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_65
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 195
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682c0f1755bbeec90800000000000000
+      internalID: -7138562383677439354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_66
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 194
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92e645851a4680b0800000000000000
+      internalID: -5726808419864223073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_67
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 195
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae9a2533a7e00c70800000000000000
+      internalID: 8935396348860735137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_68
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 194
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f1bef89c3239130800000000000000
+      internalID: 3572238278044884890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_69
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 195
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be729eb98941dc20800000000000000
+      internalID: 3229443263757975224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_70
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 60
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de592f78ec8358900800000000000000
+      internalID: 686016977939109357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_71
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 61
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473454e9c55414310800000000000000
+      internalID: 1387466424301470580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 59
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6ea94f7b9e85390800000000000000
+      internalID: -7829250975891528017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_73
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 53
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc20161e5937e270800000000000000
+      internalID: 8279649516203814085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_74
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 47
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678fbee112487b300800000000000000
+      internalID: 267827980639402102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_75
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 33
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee755c94ffc3c90c0800000000000000
+      internalID: -4567708854908528658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_76
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 15
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b2f62ad3c8e3e90800000000000000
+      internalID: -7044038570814788778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_77
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 16
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a21d80b132bf7840800000000000000
+      internalID: 5224090019258241703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_78
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 15
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbcfef3ee3fd1350800000000000000
+      internalID: 5989211284073073652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickStrike-Shadow_79
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 16
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8814d973d5d786710800000000000000
+      internalID: 1686735899768734088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      QuickStrike-Shadow_0: 6643591556296248253
+      QuickStrike-Shadow_1: -4404809437343665246
+      QuickStrike-Shadow_10: 4645686650325641051
+      QuickStrike-Shadow_11: 4362406041232135074
+      QuickStrike-Shadow_12: 6355340039974942024
+      QuickStrike-Shadow_13: 191001760810815432
+      QuickStrike-Shadow_14: -6211231245030582685
+      QuickStrike-Shadow_15: -8410406891523373756
+      QuickStrike-Shadow_16: -3493826946861942315
+      QuickStrike-Shadow_17: -3278459389800193371
+      QuickStrike-Shadow_18: 4810965268467184076
+      QuickStrike-Shadow_19: 8168019712930946520
+      QuickStrike-Shadow_2: 8442593057283258650
+      QuickStrike-Shadow_20: 8912963623621692535
+      QuickStrike-Shadow_21: 6646460102801694965
+      QuickStrike-Shadow_22: -7071397110599637732
+      QuickStrike-Shadow_23: 7568305105874418652
+      QuickStrike-Shadow_24: 1726182320000142426
+      QuickStrike-Shadow_25: 2103429912679511711
+      QuickStrike-Shadow_26: -4783721976066884323
+      QuickStrike-Shadow_27: -9157934606254955086
+      QuickStrike-Shadow_28: -3814602167292893093
+      QuickStrike-Shadow_29: -3451134572762815328
+      QuickStrike-Shadow_3: 7679338114269895745
+      QuickStrike-Shadow_30: -821773640253535687
+      QuickStrike-Shadow_31: -2162571468990323502
+      QuickStrike-Shadow_32: -3534206092563580026
+      QuickStrike-Shadow_33: 362319934419988582
+      QuickStrike-Shadow_34: -5879705639691975299
+      QuickStrike-Shadow_35: 326598164770595086
+      QuickStrike-Shadow_36: -4783396812022033640
+      QuickStrike-Shadow_37: 4965235073248918998
+      QuickStrike-Shadow_38: 4630187038199957418
+      QuickStrike-Shadow_39: 8083088898830900734
+      QuickStrike-Shadow_4: -6379488380004223219
+      QuickStrike-Shadow_40: -2626644678333961068
+      QuickStrike-Shadow_41: -6414901470565856004
+      QuickStrike-Shadow_42: -8545950877067525321
+      QuickStrike-Shadow_43: 6452712119831132896
+      QuickStrike-Shadow_44: 2590295077880445309
+      QuickStrike-Shadow_45: -6313517692176715131
+      QuickStrike-Shadow_46: -2353807980637934108
+      QuickStrike-Shadow_47: 6770512767221180683
+      QuickStrike-Shadow_48: 7471386453073904833
+      QuickStrike-Shadow_49: -1640767625999343719
+      QuickStrike-Shadow_5: 1585978724257984405
+      QuickStrike-Shadow_50: -7912091123648712926
+      QuickStrike-Shadow_51: -7697646896075575244
+      QuickStrike-Shadow_52: 2466348400042909717
+      QuickStrike-Shadow_53: -2612530737448879534
+      QuickStrike-Shadow_54: -7270425279568261658
+      QuickStrike-Shadow_55: -8892985736481493108
+      QuickStrike-Shadow_56: -4680661969759688638
+      QuickStrike-Shadow_57: 6261056350068462554
+      QuickStrike-Shadow_58: 6031067518491085123
+      QuickStrike-Shadow_59: 1627091100084182336
+      QuickStrike-Shadow_6: -3476431948843276578
+      QuickStrike-Shadow_60: -8533695419356413580
+      QuickStrike-Shadow_61: -408736415681608594
+      QuickStrike-Shadow_62: 8431229333304408828
+      QuickStrike-Shadow_63: -8984849427826050105
+      QuickStrike-Shadow_64: 3924510375236078647
+      QuickStrike-Shadow_65: -7138562383677439354
+      QuickStrike-Shadow_66: -5726808419864223073
+      QuickStrike-Shadow_67: 8935396348860735137
+      QuickStrike-Shadow_68: 3572238278044884890
+      QuickStrike-Shadow_69: 3229443263757975224
+      QuickStrike-Shadow_7: 865335717870897438
+      QuickStrike-Shadow_70: 686016977939109357
+      QuickStrike-Shadow_71: 1387466424301470580
+      QuickStrike-Shadow_72: -7829250975891528017
+      QuickStrike-Shadow_73: 8279649516203814085
+      QuickStrike-Shadow_74: 267827980639402102
+      QuickStrike-Shadow_75: -4567708854908528658
+      QuickStrike-Shadow_76: -7044038570814788778
+      QuickStrike-Shadow_77: 5224090019258241703
+      QuickStrike-Shadow_78: 5989211284073073652
+      QuickStrike-Shadow_79: 1686735899768734088
+      QuickStrike-Shadow_8: -9027036500669132389
+      QuickStrike-Shadow_9: -8354509021047777687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

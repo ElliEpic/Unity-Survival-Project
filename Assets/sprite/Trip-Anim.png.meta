@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 8f9a69f9813fc4d4a90cdfa5b8e86a87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5066966587177827673
+    second: Trip-Anim_0
+  - first:
+      213: -8795918723402365650
+    second: Trip-Anim_1
+  - first:
+      213: 2995393270141350569
+    second: Trip-Anim_2
+  - first:
+      213: -5262758847530899469
+    second: Trip-Anim_3
+  - first:
+      213: 4980479642809783809
+    second: Trip-Anim_4
+  - first:
+      213: -5568726799067745175
+    second: Trip-Anim_5
+  - first:
+      213: 558301705583730316
+    second: Trip-Anim_6
+  - first:
+      213: 2065494778814739356
+    second: Trip-Anim_7
+  - first:
+      213: -1220830999238230235
+    second: Trip-Anim_8
+  - first:
+      213: 4539602706410414040
+    second: Trip-Anim_9
+  - first:
+      213: 452110072572816501
+    second: Trip-Anim_10
+  - first:
+      213: -7684441463219294384
+    second: Trip-Anim_11
+  - first:
+      213: -2805862606687738371
+    second: Trip-Anim_12
+  - first:
+      213: -5273733137597335606
+    second: Trip-Anim_13
+  - first:
+      213: 1665749856634272379
+    second: Trip-Anim_14
+  - first:
+      213: 3044709746820652208
+    second: Trip-Anim_15
+  - first:
+      213: 981544801456907360
+    second: Trip-Anim_16
+  - first:
+      213: 1188802170494236605
+    second: Trip-Anim_17
+  - first:
+      213: 3835236640406814829
+    second: Trip-Anim_18
+  - first:
+      213: 7939693800188680235
+    second: Trip-Anim_19
+  - first:
+      213: -1216112660133968902
+    second: Trip-Anim_20
+  - first:
+      213: 4190136010195964704
+    second: Trip-Anim_21
+  - first:
+      213: 801329200640061647
+    second: Trip-Anim_22
+  - first:
+      213: -1084123457697741539
+    second: Trip-Anim_23
+  - first:
+      213: -4444839546635234367
+    second: Trip-Anim_24
+  - first:
+      213: 6647231183023844440
+    second: Trip-Anim_25
+  - first:
+      213: -5084834181583652027
+    second: Trip-Anim_26
+  - first:
+      213: 4830779669744329044
+    second: Trip-Anim_27
+  - first:
+      213: 1734097097817816877
+    second: Trip-Anim_28
+  - first:
+      213: -2644362305419575763
+    second: Trip-Anim_29
+  - first:
+      213: -5496153925202910680
+    second: Trip-Anim_30
+  - first:
+      213: -5120860244874001358
+    second: Trip-Anim_31
+  - first:
+      213: -3167565394625811596
+    second: Trip-Anim_32
+  - first:
+      213: -6145672786153859378
+    second: Trip-Anim_33
+  - first:
+      213: 7577406289555870308
+    second: Trip-Anim_34
+  - first:
+      213: 8930262407724276069
+    second: Trip-Anim_35
+  - first:
+      213: 3054926938956860028
+    second: Trip-Anim_36
+  - first:
+      213: 870547827937539801
+    second: Trip-Anim_37
+  - first:
+      213: 2056612138755349365
+    second: Trip-Anim_38
+  - first:
+      213: -6377202587196421532
+    second: Trip-Anim_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trip-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 293
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a20e722cb48ea9b0800000000000000
+      internalID: -5066966587177827673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 292
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25056a168e9ee580800000000000000
+      internalID: -8795918723402365650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 291
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2fe551f46c19920800000000000000
+      internalID: 2995393270141350569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 292
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7606226bce6f6b0800000000000000
+      internalID: -5262758847530899469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 291
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106ddb0f8d73e1540800000000000000
+      internalID: 4980479642809783809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 253
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9647e5a0b78e7b2b0800000000000000
+      internalID: -5568726799067745175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 252
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e10d6717c7fb700800000000000000
+      internalID: 558301705583730316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 251
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c933da0de8c1aac10800000000000000
+      internalID: 2065494778814739356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 252
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fbe97acacbe0fe0800000000000000
+      internalID: -1220830999238230235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 251
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df9ef01c98effe30800000000000000
+      internalID: 4539602706410414040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 213
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c241337b7364600800000000000000
+      internalID: 452110072572816501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 212
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fe78ff3316b5590800000000000000
+      internalID: -7684441463219294384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 211
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df563d743d29f09d0800000000000000
+      internalID: -2805862606687738371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 212
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7fd4d17afefc6b0800000000000000
+      internalID: -5273733137597335606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 211
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7af7594baeed1710800000000000000
+      internalID: 1665749856634272379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 173
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc1a67126bf04a20800000000000000
+      internalID: 3044709746820652208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 172
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06468f5ebc52f9d00800000000000000
+      internalID: 981544801456907360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 171
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7b58886497f7010800000000000000
+      internalID: 1188802170494236605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 172
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60c20d876f793530800000000000000
+      internalID: 3835236640406814829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 171
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b281e99e1757f2e60800000000000000
+      internalID: 7939693800188680235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af30cd59aff7f1fe0800000000000000
+      internalID: -1216112660133968902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 132
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0239d40408a562a30800000000000000
+      internalID: 4190136010195964704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 131
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc07c4099a4ee1b00800000000000000
+      internalID: 801329200640061647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 132
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15024b857b64f0f0800000000000000
+      internalID: -1084123457697741539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 131
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3d23b6bf1c052c0800000000000000
+      internalID: -4444839546635234367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 93
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c290cda85bf3c50800000000000000
+      internalID: 6647231183023844440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 92
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b31f0a04a0f69b0800000000000000
+      internalID: -5084834181583652027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 91
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4512a4bd3806a0340800000000000000
+      internalID: 4830779669744329044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 92
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f77717f10c01810800000000000000
+      internalID: 1734097097817816877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 91
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e78006e765d4bd0800000000000000
+      internalID: -2644362305419575763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 53
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8226969ff1db9b3b0800000000000000
+      internalID: -5496153925202910680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 52
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2348ddf1dbc0fe8b0800000000000000
+      internalID: -5120860244874001358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b228a5e0c8a04d0800000000000000
+      internalID: -3167565394625811596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 52
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec69383892f26baa0800000000000000
+      internalID: -6145672786153859378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 51
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462d9cf9fda582960800000000000000
+      internalID: 7577406289555870308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5691e63685aaeeb70800000000000000
+      internalID: 8930262407724276069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 12
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a8b438dd7456a20800000000000000
+      internalID: 3054926938956860028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 11
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6743c13aec41c00800000000000000
+      internalID: 870547827937539801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 12
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bd44308dd8a8c10800000000000000
+      internalID: 2056612138755349365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trip-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 11
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a8479e800af77a0800000000000000
+      internalID: -6377202587196421532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Trip-Anim_0: -5066966587177827673
+      Trip-Anim_1: -8795918723402365650
+      Trip-Anim_10: 452110072572816501
+      Trip-Anim_11: -7684441463219294384
+      Trip-Anim_12: -2805862606687738371
+      Trip-Anim_13: -5273733137597335606
+      Trip-Anim_14: 1665749856634272379
+      Trip-Anim_15: 3044709746820652208
+      Trip-Anim_16: 981544801456907360
+      Trip-Anim_17: 1188802170494236605
+      Trip-Anim_18: 3835236640406814829
+      Trip-Anim_19: 7939693800188680235
+      Trip-Anim_2: 2995393270141350569
+      Trip-Anim_20: -1216112660133968902
+      Trip-Anim_21: 4190136010195964704
+      Trip-Anim_22: 801329200640061647
+      Trip-Anim_23: -1084123457697741539
+      Trip-Anim_24: -4444839546635234367
+      Trip-Anim_25: 6647231183023844440
+      Trip-Anim_26: -5084834181583652027
+      Trip-Anim_27: 4830779669744329044
+      Trip-Anim_28: 1734097097817816877
+      Trip-Anim_29: -2644362305419575763
+      Trip-Anim_3: -5262758847530899469
+      Trip-Anim_30: -5496153925202910680
+      Trip-Anim_31: -5120860244874001358
+      Trip-Anim_32: -3167565394625811596
+      Trip-Anim_33: -6145672786153859378
+      Trip-Anim_34: 7577406289555870308
+      Trip-Anim_35: 8930262407724276069
+      Trip-Anim_36: 3054926938956860028
+      Trip-Anim_37: 870547827937539801
+      Trip-Anim_38: 2056612138755349365
+      Trip-Anim_39: -6377202587196421532
+      Trip-Anim_4: 4980479642809783809
+      Trip-Anim_5: -5568726799067745175
+      Trip-Anim_6: 558301705583730316
+      Trip-Anim_7: 2065494778814739356
+      Trip-Anim_8: -1220830999238230235
+      Trip-Anim_9: 4539602706410414040
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

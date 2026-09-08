@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: ad085a5b86bff7245a458a89dc30ae64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6186410574078397456
+    second: Float-Shadow_0
+  - first:
+      213: 6436842596109271953
+    second: Float-Shadow_1
+  - first:
+      213: 3319019806157502094
+    second: Float-Shadow_2
+  - first:
+      213: -2253467173888619148
+    second: Float-Shadow_3
+  - first:
+      213: -5449132782010730095
+    second: Float-Shadow_4
+  - first:
+      213: 7235617317407597842
+    second: Float-Shadow_5
+  - first:
+      213: 9110742743519144381
+    second: Float-Shadow_6
+  - first:
+      213: 5903320964309428288
+    second: Float-Shadow_7
+  - first:
+      213: -7708966961258901303
+    second: Float-Shadow_8
+  - first:
+      213: -7575727419102616670
+    second: Float-Shadow_9
+  - first:
+      213: 8671345599126761910
+    second: Float-Shadow_10
+  - first:
+      213: 1377970953430657173
+    second: Float-Shadow_11
+  - first:
+      213: -9072248777007880834
+    second: Float-Shadow_12
+  - first:
+      213: 9071195756377181572
+    second: Float-Shadow_13
+  - first:
+      213: 4688106797767571161
+    second: Float-Shadow_14
+  - first:
+      213: -3129512274869788314
+    second: Float-Shadow_15
+  - first:
+      213: -207846016242814562
+    second: Float-Shadow_16
+  - first:
+      213: -8129917734892790578
+    second: Float-Shadow_17
+  - first:
+      213: -1099295509622505261
+    second: Float-Shadow_18
+  - first:
+      213: 1657507924109515304
+    second: Float-Shadow_19
+  - first:
+      213: -76322349646531798
+    second: Float-Shadow_20
+  - first:
+      213: 6379597859579519744
+    second: Float-Shadow_21
+  - first:
+      213: -942720342965643950
+    second: Float-Shadow_22
+  - first:
+      213: 384431459651392610
+    second: Float-Shadow_23
+  - first:
+      213: 7159744236219556482
+    second: Float-Shadow_24
+  - first:
+      213: 8275040229585794149
+    second: Float-Shadow_25
+  - first:
+      213: 8552713963235935192
+    second: Float-Shadow_26
+  - first:
+      213: 5192600522975243757
+    second: Float-Shadow_27
+  - first:
+      213: 4962505599425685218
+    second: Float-Shadow_28
+  - first:
+      213: 4568334596842349065
+    second: Float-Shadow_29
+  - first:
+      213: -3655480795205729281
+    second: Float-Shadow_30
+  - first:
+      213: -6944286893835336476
+    second: Float-Shadow_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Float-Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f336512c54752aa0800000000000000
+      internalID: -6186410574078397456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 232
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1934230cc32445950800000000000000
+      internalID: 6436842596109271953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86f084cde68f0e20800000000000000
+      internalID: 3319019806157502094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 230
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d8d537b831ab0e0800000000000000
+      internalID: -2253467173888619148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19970520b9ac064b0800000000000000
+      internalID: -5449132782010730095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 200
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215aebe3d931a6460800000000000000
+      internalID: 7235617317407597842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 199
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db92d63214cdf6e70800000000000000
+      internalID: 9110742743519144381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 198
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048a7c0d32fcce150800000000000000
+      internalID: 5903320964309428288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0d0f0846f340590800000000000000
+      internalID: -7708966961258901303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3a33ddc0c9dd690800000000000000
+      internalID: -7575727419102616670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 167
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1f89031eec65870800000000000000
+      internalID: 8671345599126761910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 166
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5986a0608498f1310800000000000000
+      internalID: 1377970953430657173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75297cddc5e81280800000000000000
+      internalID: -9072248777007880834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 136
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d84eaaa7c53ed70800000000000000
+      internalID: 9071195756377181572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6b70e3b408f0140800000000000000
+      internalID: 4688106797767571161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 134
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6616928ba2db194d0800000000000000
+      internalID: -3129512274869788314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91fdd146259d1df0800000000000000
+      internalID: -207846016242814562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 104
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc119ee4eabc2f80800000000000000
+      internalID: -8129917734892790578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 103
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0c4cdee848eb0f0800000000000000
+      internalID: -1099295509622505261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 102
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a51f4dca6a00710800000000000000
+      internalID: 1657507924109515304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2335e43a39d0fef0800000000000000
+      internalID: -76322349646531798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0036416e372e88850800000000000000
+      internalID: 6379597859579519744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 71
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2559ff2c7d8cae2f0800000000000000
+      internalID: -942720342965643950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 70
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26491013066c55500800000000000000
+      internalID: 384431459651392610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282648ae2758c5360800000000000000
+      internalID: 7159744236219556482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564378aee39d6d270800000000000000
+      internalID: 8275040229585794149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3833c090851b670800000000000000
+      internalID: 8552713963235935192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 38
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded62700aa2df0840800000000000000
+      internalID: 5192600522975243757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6a7a9dc8c5ed440800000000000000
+      internalID: 4962505599425685218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9026aeb9c1cf56f30800000000000000
+      internalID: 4568334596842349065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 7
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff30086959f154dc0800000000000000
+      internalID: -3655480795205729281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e44b8accdfe0af90800000000000000
+      internalID: -6944286893835336476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Float-Shadow_0: -6186410574078397456
+      Float-Shadow_1: 6436842596109271953
+      Float-Shadow_10: 8671345599126761910
+      Float-Shadow_11: 1377970953430657173
+      Float-Shadow_12: -9072248777007880834
+      Float-Shadow_13: 9071195756377181572
+      Float-Shadow_14: 4688106797767571161
+      Float-Shadow_15: -3129512274869788314
+      Float-Shadow_16: -207846016242814562
+      Float-Shadow_17: -8129917734892790578
+      Float-Shadow_18: -1099295509622505261
+      Float-Shadow_19: 1657507924109515304
+      Float-Shadow_2: 3319019806157502094
+      Float-Shadow_20: -76322349646531798
+      Float-Shadow_21: 6379597859579519744
+      Float-Shadow_22: -942720342965643950
+      Float-Shadow_23: 384431459651392610
+      Float-Shadow_24: 7159744236219556482
+      Float-Shadow_25: 8275040229585794149
+      Float-Shadow_26: 8552713963235935192
+      Float-Shadow_27: 5192600522975243757
+      Float-Shadow_28: 4962505599425685218
+      Float-Shadow_29: 4568334596842349065
+      Float-Shadow_3: -2253467173888619148
+      Float-Shadow_30: -3655480795205729281
+      Float-Shadow_31: -6944286893835336476
+      Float-Shadow_4: -5449132782010730095
+      Float-Shadow_5: 7235617317407597842
+      Float-Shadow_6: 9110742743519144381
+      Float-Shadow_7: 5903320964309428288
+      Float-Shadow_8: -7708966961258901303
+      Float-Shadow_9: -7575727419102616670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

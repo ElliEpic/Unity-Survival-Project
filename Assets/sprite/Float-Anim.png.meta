@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: b23e588e8bc7d7742b7111fd9d442500
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8275507563039846408
+    second: Float-Anim_0
+  - first:
+      213: 5564023460821717892
+    second: Float-Anim_1
+  - first:
+      213: 3054839316524916346
+    second: Float-Anim_2
+  - first:
+      213: -3723800905326727809
+    second: Float-Anim_3
+  - first:
+      213: -6433604928746515660
+    second: Float-Anim_4
+  - first:
+      213: 6455527988876158262
+    second: Float-Anim_5
+  - first:
+      213: -3508881726815438363
+    second: Float-Anim_6
+  - first:
+      213: 5248163516137463028
+    second: Float-Anim_7
+  - first:
+      213: 8021493437696077872
+    second: Float-Anim_8
+  - first:
+      213: -1634519916171050725
+    second: Float-Anim_9
+  - first:
+      213: 8306962858840105423
+    second: Float-Anim_10
+  - first:
+      213: -493091255181136230
+    second: Float-Anim_11
+  - first:
+      213: 7039872092162378465
+    second: Float-Anim_12
+  - first:
+      213: -3326426830393468980
+    second: Float-Anim_13
+  - first:
+      213: -2672462645710145230
+    second: Float-Anim_14
+  - first:
+      213: 1719882112106666672
+    second: Float-Anim_15
+  - first:
+      213: 824224488254247287
+    second: Float-Anim_16
+  - first:
+      213: -5786091013109673877
+    second: Float-Anim_17
+  - first:
+      213: -2805995525389485566
+    second: Float-Anim_18
+  - first:
+      213: -4861610249750635047
+    second: Float-Anim_19
+  - first:
+      213: -2183514033558138481
+    second: Float-Anim_20
+  - first:
+      213: -4272455816684950893
+    second: Float-Anim_21
+  - first:
+      213: -2520640174498649465
+    second: Float-Anim_22
+  - first:
+      213: -7263800827113347192
+    second: Float-Anim_23
+  - first:
+      213: -5059523442143809972
+    second: Float-Anim_24
+  - first:
+      213: 1415238974439519462
+    second: Float-Anim_25
+  - first:
+      213: 5516238699692817006
+    second: Float-Anim_26
+  - first:
+      213: -6488284785250129008
+    second: Float-Anim_27
+  - first:
+      213: 8683018890840555409
+    second: Float-Anim_28
+  - first:
+      213: 4848941849329489147
+    second: Float-Anim_29
+  - first:
+      213: 7954025585716204158
+    second: Float-Anim_30
+  - first:
+      213: -6679974723147947748
+    second: Float-Anim_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Float-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8007c07784288d270800000000000000
+      internalID: 8275507563039846408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 225
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483d730bbd1673d40800000000000000
+      internalID: 5564023460821717892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 224
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e5d535c28f46a20800000000000000
+      internalID: 3054839316524916346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 223
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7de8bf5ec6625cc0800000000000000
+      internalID: -3723800905326727809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4339cdc676e37b6a0800000000000000
+      internalID: -6433604928746515660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 193
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6352e86c084a69950800000000000000
+      internalID: 6455527988876158262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 192
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e97e4a09a2fd4fc0800000000000000
+      internalID: -3508881726815438363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 191
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcd98679e835d840800000000000000
+      internalID: 5248163516137463028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030700a28c1125f60800000000000000
+      internalID: 8021493437696077872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 161
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11c25adbc40159e0800000000000000
+      internalID: -1634519916171050725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 160
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1278b35b2484370800000000000000
+      internalID: 8306962858840105423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 159
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ea31dad103829f0800000000000000
+      internalID: -493091255181136230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea46857e56a2b160800000000000000
+      internalID: 7039872092162378465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 129
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc791130c6826d1d0800000000000000
+      internalID: -3326426830393468980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 128
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23932fe026189ead0800000000000000
+      internalID: -2672462645710145230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 127
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba9aab2baf3ed710800000000000000
+      internalID: 1719882112106666672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771929d1ecb307b00800000000000000
+      internalID: 824224488254247287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 97
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60948d21eca3bfa0800000000000000
+      internalID: -5786091013109673877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 96
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20af2dbbfe91f09d0800000000000000
+      internalID: -2805995525389485566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd173b5c37188cb0800000000000000
+      internalID: -4861610249750635047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81dfa32e8992b1e0800000000000000
+      internalID: -2183514033558138481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 65
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a21f7321035b4c0800000000000000
+      internalID: -4272455816684950893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 64
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78aed60cd13e40dd0800000000000000
+      internalID: -2520640174498649465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 63
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88768bc02abc13b90800000000000000
+      internalID: -7263800827113347192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ea1426c36f8c9b0800000000000000
+      internalID: -5059523442143809972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 33
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e471c75950f3a310800000000000000
+      internalID: 1415238974439519462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 32
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6af37ffedd9d8c40800000000000000
+      internalID: 5516238699692817006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 31
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b289d3d5bf4f5a0800000000000000
+      internalID: -6488284785250129008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fbe863da7408870800000000000000
+      internalID: 8683018890840555409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf45fc1dbe6ea4340800000000000000
+      internalID: 4848941849329489147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e729bf2c020626e60800000000000000
+      internalID: 7954025585716204158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Float-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11ad2e9166fb43a0800000000000000
+      internalID: -6679974723147947748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Float-Anim_0: 8275507563039846408
+      Float-Anim_1: 5564023460821717892
+      Float-Anim_10: 8306962858840105423
+      Float-Anim_11: -493091255181136230
+      Float-Anim_12: 7039872092162378465
+      Float-Anim_13: -3326426830393468980
+      Float-Anim_14: -2672462645710145230
+      Float-Anim_15: 1719882112106666672
+      Float-Anim_16: 824224488254247287
+      Float-Anim_17: -5786091013109673877
+      Float-Anim_18: -2805995525389485566
+      Float-Anim_19: -4861610249750635047
+      Float-Anim_2: 3054839316524916346
+      Float-Anim_20: -2183514033558138481
+      Float-Anim_21: -4272455816684950893
+      Float-Anim_22: -2520640174498649465
+      Float-Anim_23: -7263800827113347192
+      Float-Anim_24: -5059523442143809972
+      Float-Anim_25: 1415238974439519462
+      Float-Anim_26: 5516238699692817006
+      Float-Anim_27: -6488284785250129008
+      Float-Anim_28: 8683018890840555409
+      Float-Anim_29: 4848941849329489147
+      Float-Anim_3: -3723800905326727809
+      Float-Anim_30: 7954025585716204158
+      Float-Anim_31: -6679974723147947748
+      Float-Anim_4: -6433604928746515660
+      Float-Anim_5: 6455527988876158262
+      Float-Anim_6: -3508881726815438363
+      Float-Anim_7: 5248163516137463028
+      Float-Anim_8: 8021493437696077872
+      Float-Anim_9: -1634519916171050725
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

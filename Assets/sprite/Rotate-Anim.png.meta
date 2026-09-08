@@ -1,0 +1,1991 @@
+fileFormatVersion: 2
+guid: d5c11db9b788f83468d1f0a42979a838
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3545883160997839156
+    second: Rotate-Anim_0
+  - first:
+      213: 8321893856093053910
+    second: Rotate-Anim_1
+  - first:
+      213: 4885670950523654543
+    second: Rotate-Anim_2
+  - first:
+      213: 5229056097766316163
+    second: Rotate-Anim_3
+  - first:
+      213: 4010565918136704480
+    second: Rotate-Anim_4
+  - first:
+      213: 528382697555820205
+    second: Rotate-Anim_5
+  - first:
+      213: 3853221310205046700
+    second: Rotate-Anim_6
+  - first:
+      213: -3248627673364683149
+    second: Rotate-Anim_7
+  - first:
+      213: 6190191986812891075
+    second: Rotate-Anim_8
+  - first:
+      213: 1662102322705536496
+    second: Rotate-Anim_9
+  - first:
+      213: 6761831460694465250
+    second: Rotate-Anim_10
+  - first:
+      213: 8869825202957476568
+    second: Rotate-Anim_11
+  - first:
+      213: 3641759029030973974
+    second: Rotate-Anim_12
+  - first:
+      213: 7338964250807132965
+    second: Rotate-Anim_13
+  - first:
+      213: -3643648555718196728
+    second: Rotate-Anim_14
+  - first:
+      213: -871393812456334480
+    second: Rotate-Anim_15
+  - first:
+      213: -5975054376250157858
+    second: Rotate-Anim_16
+  - first:
+      213: 4705564931582578246
+    second: Rotate-Anim_17
+  - first:
+      213: -8141244711958196737
+    second: Rotate-Anim_18
+  - first:
+      213: 5050038758942132097
+    second: Rotate-Anim_19
+  - first:
+      213: 4067644971044816239
+    second: Rotate-Anim_20
+  - first:
+      213: 940094673780799545
+    second: Rotate-Anim_21
+  - first:
+      213: -5781316655016496720
+    second: Rotate-Anim_22
+  - first:
+      213: -2271363865856114920
+    second: Rotate-Anim_23
+  - first:
+      213: 4259120210531477402
+    second: Rotate-Anim_24
+  - first:
+      213: -1790323708728878987
+    second: Rotate-Anim_25
+  - first:
+      213: -8772600012773425753
+    second: Rotate-Anim_26
+  - first:
+      213: -7407164665289697452
+    second: Rotate-Anim_27
+  - first:
+      213: -557387969102881205
+    second: Rotate-Anim_28
+  - first:
+      213: -2299154909066051083
+    second: Rotate-Anim_29
+  - first:
+      213: 7274385024613072572
+    second: Rotate-Anim_30
+  - first:
+      213: -8335620162346457562
+    second: Rotate-Anim_31
+  - first:
+      213: 6150277931488700499
+    second: Rotate-Anim_32
+  - first:
+      213: -4582578152760823416
+    second: Rotate-Anim_33
+  - first:
+      213: 7616734727448797685
+    second: Rotate-Anim_34
+  - first:
+      213: -3885584575443689083
+    second: Rotate-Anim_35
+  - first:
+      213: -1914111199784643058
+    second: Rotate-Anim_36
+  - first:
+      213: 5542168147960661130
+    second: Rotate-Anim_37
+  - first:
+      213: -8514639332692785395
+    second: Rotate-Anim_38
+  - first:
+      213: -8361760783651807962
+    second: Rotate-Anim_39
+  - first:
+      213: -8697756128967947093
+    second: Rotate-Anim_40
+  - first:
+      213: -6263720894030115049
+    second: Rotate-Anim_41
+  - first:
+      213: 7733641921577352404
+    second: Rotate-Anim_42
+  - first:
+      213: 5233953012930994312
+    second: Rotate-Anim_43
+  - first:
+      213: 1321370326249212639
+    second: Rotate-Anim_44
+  - first:
+      213: 47112694754948774
+    second: Rotate-Anim_45
+  - first:
+      213: -1310362734151884846
+    second: Rotate-Anim_46
+  - first:
+      213: -2755322556752633378
+    second: Rotate-Anim_47
+  - first:
+      213: -3330526148007742393
+    second: Rotate-Anim_48
+  - first:
+      213: -5468948236850230411
+    second: Rotate-Anim_49
+  - first:
+      213: 5981137960081551814
+    second: Rotate-Anim_50
+  - first:
+      213: 1036551005608656938
+    second: Rotate-Anim_51
+  - first:
+      213: 3270263104237496120
+    second: Rotate-Anim_52
+  - first:
+      213: -4545312155512961940
+    second: Rotate-Anim_53
+  - first:
+      213: 7080505675336644322
+    second: Rotate-Anim_54
+  - first:
+      213: 7261632090049847073
+    second: Rotate-Anim_55
+  - first:
+      213: 8433990467348213479
+    second: Rotate-Anim_56
+  - first:
+      213: 7970503183801448282
+    second: Rotate-Anim_57
+  - first:
+      213: 5740900563166474555
+    second: Rotate-Anim_58
+  - first:
+      213: 8002707189838994484
+    second: Rotate-Anim_59
+  - first:
+      213: -4180468829711273303
+    second: Rotate-Anim_60
+  - first:
+      213: -1270265989691463409
+    second: Rotate-Anim_61
+  - first:
+      213: 7073924115024681299
+    second: Rotate-Anim_62
+  - first:
+      213: 2544657213058972371
+    second: Rotate-Anim_63
+  - first:
+      213: 1264396208103724773
+    second: Rotate-Anim_64
+  - first:
+      213: -9119387376365439716
+    second: Rotate-Anim_65
+  - first:
+      213: 8432011314592150025
+    second: Rotate-Anim_66
+  - first:
+      213: -417616509820546081
+    second: Rotate-Anim_67
+  - first:
+      213: -5641176271345430226
+    second: Rotate-Anim_68
+  - first:
+      213: 5197473982767401066
+    second: Rotate-Anim_69
+  - first:
+      213: -7461444958029229985
+    second: Rotate-Anim_70
+  - first:
+      213: 1742792514082661754
+    second: Rotate-Anim_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rotate-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 294
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce3fad4d0e7acec0800000000000000
+      internalID: -3545883160997839156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 292
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3aeeeee5e4d7370800000000000000
+      internalID: 8321893856093053910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 293
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81586718d36dc340800000000000000
+      internalID: 4885670950523654543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 293
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38893f1f0d6519840800000000000000
+      internalID: 5229056097766316163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 293
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed93d2247468a730800000000000000
+      internalID: 4010565918136704480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 293
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daef6419341355700800000000000000
+      internalID: 528382697555820205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 293
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafacbbcd54697530800000000000000
+      internalID: 3853221310205046700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 292
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3762891d75e8ae2d0800000000000000
+      internalID: -3248627673364683149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 294
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfa371a0daf7e550800000000000000
+      internalID: 6190191986812891075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 252
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5173d9149f01710800000000000000
+      internalID: 1662102322705536496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 254
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea11c543e9d6dd50800000000000000
+      internalID: 6761831460694465250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 252
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2661a1703f71b70800000000000000
+      internalID: 8869825202957476568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 253
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61276f2ca802a8230800000000000000
+      internalID: 3641759029030973974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 253
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52366a44a1d39d560800000000000000
+      internalID: 7338964250807132965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 253
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8024d0681f82f6dc0800000000000000
+      internalID: -3643648555718196728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 253
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b1115c1ff28e3f0800000000000000
+      internalID: -871393812456334480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 253
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed457f5b3b7541da0800000000000000
+      internalID: -5975054376250157858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 252
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ec386cf568d4140800000000000000
+      internalID: 4705564931582578246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 213
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd4432911d740f80800000000000000
+      internalID: -8141244711958196737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 212
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18743b8be77551640800000000000000
+      internalID: 5050038758942132097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 214
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65c783cc8d237830800000000000000
+      internalID: 4067644971044816239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 212
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938f0fdff13eb0d00800000000000000
+      internalID: 940094673780799545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 213
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b131bb0223a4cfa0800000000000000
+      internalID: -5781316655016496720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 213
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ffcf3299e7a70e0800000000000000
+      internalID: -2271363865856114920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 213
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a976a64044f6b1b30800000000000000
+      internalID: 4259120210531477402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 213
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578514c821e7727e0800000000000000
+      internalID: -1790323708728878987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 213
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad7d0284c6714680800000000000000
+      internalID: -8772600012773425753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 173
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45715945bf6743990800000000000000
+      internalID: -7407164665289697452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 173
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4edb836892c348f0800000000000000
+      internalID: -557387969102881205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 172
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1c589aac2c710e0800000000000000
+      internalID: -2299154909066051083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 174
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbebb7773aec3f460800000000000000
+      internalID: 7274385024613072572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 172
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62661c850ade15c80800000000000000
+      internalID: -8335620162346457562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 173
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358ee40713d2a5550800000000000000
+      internalID: 6150277931488700499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 173
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881b93913796760c0800000000000000
+      internalID: -4582578152760823416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 173
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1a7f121e314b960800000000000000
+      internalID: 7616734727448797685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 173
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58121f35a61a31ac0800000000000000
+      internalID: -3885584575443689083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 133
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e065d345106bf65e0800000000000000
+      internalID: -1914111199784643058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 133
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a840ea0219cb9ec40800000000000000
+      internalID: 5542168147960661130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 133
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d070740b3ace5d980800000000000000
+      internalID: -8514639332692785395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 132
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d54a9aede05fb80800000000000000
+      internalID: -8361760783651807962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 134
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac83e522ec5b4780800000000000000
+      internalID: -8697756128967947093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 132
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f8423980bc219a0800000000000000
+      internalID: -6263720894030115049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 133
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcffa36a5a635b60800000000000000
+      internalID: 7733641921577352404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 133
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88066dad88cb2a840800000000000000
+      internalID: 5233953012930994312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_44
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 133
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda83d09f43765210800000000000000
+      internalID: 1321370326249212639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 93
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6b74b0fb067a000800000000000000
+      internalID: 47112694754948774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 93
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df97ff2908a0dde0800000000000000
+      internalID: -1310362734151884846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 93
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed16323abb023c9d0800000000000000
+      internalID: -2755322556752633378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 93
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74439d04d1897c1d0800000000000000
+      internalID: -3330526148007742393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_49
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 92
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b0b87ed846a14b0800000000000000
+      internalID: -5468948236850230411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 94
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1f3470945410350800000000000000
+      internalID: 5981137960081551814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_51
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 92
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20c0e0d5a1926e00800000000000000
+      internalID: 1036551005608656938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_52
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 93
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837642a77fe426d20800000000000000
+      internalID: 3270263104237496120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 93
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6482693daecbe0c0800000000000000
+      internalID: -4545312155512961940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 53
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6f398c562034260800000000000000
+      internalID: 7080505675336644322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 53
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f9ff089ef76c460800000000000000
+      internalID: 7261632090049847073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 53
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee225515ad8b0570800000000000000
+      internalID: 8433990467348213479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_57
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 53
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57fa978a6aec9e60800000000000000
+      internalID: 7970503183801448282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 53
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31b06645a6cbaf40800000000000000
+      internalID: 5740900563166474555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 52
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c51dbf9c35f0f60800000000000000
+      internalID: 8002707189838994484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_60
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 54
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2777a9fbdfbf5c0800000000000000
+      internalID: -4180468829711273303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 52
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f092e2200db1f5ee0800000000000000
+      internalID: -1270265989691463409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_62
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 53
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3599d1cd080ab2260800000000000000
+      internalID: 7073924115024681299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daf38bc040705320800000000000000
+      internalID: 2544657213058972371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_64
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 13
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e69f57f6a90c8110800000000000000
+      internalID: 1264396208103724773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_65
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 13
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c157e8e6f7d617180800000000000000
+      internalID: -9119387376365439716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_66
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 13
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902f65cad95840570800000000000000
+      internalID: 8432011314592150025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 13
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3dec73ff3543af0800000000000000
+      internalID: -417616509820546081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_68
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 13
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21d717c11486b1b0800000000000000
+      internalID: -5641176271345430226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_69
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 12
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a688f28cc03212840800000000000000
+      internalID: 5197473982767401066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_70
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 14
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50d985d75f937890800000000000000
+      internalID: -7461444958029229985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Anim_71
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 12
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a756b1fce84af2810800000000000000
+      internalID: 1742792514082661754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rotate-Anim_0: -3545883160997839156
+      Rotate-Anim_1: 8321893856093053910
+      Rotate-Anim_10: 6761831460694465250
+      Rotate-Anim_11: 8869825202957476568
+      Rotate-Anim_12: 3641759029030973974
+      Rotate-Anim_13: 7338964250807132965
+      Rotate-Anim_14: -3643648555718196728
+      Rotate-Anim_15: -871393812456334480
+      Rotate-Anim_16: -5975054376250157858
+      Rotate-Anim_17: 4705564931582578246
+      Rotate-Anim_18: -8141244711958196737
+      Rotate-Anim_19: 5050038758942132097
+      Rotate-Anim_2: 4885670950523654543
+      Rotate-Anim_20: 4067644971044816239
+      Rotate-Anim_21: 940094673780799545
+      Rotate-Anim_22: -5781316655016496720
+      Rotate-Anim_23: -2271363865856114920
+      Rotate-Anim_24: 4259120210531477402
+      Rotate-Anim_25: -1790323708728878987
+      Rotate-Anim_26: -8772600012773425753
+      Rotate-Anim_27: -7407164665289697452
+      Rotate-Anim_28: -557387969102881205
+      Rotate-Anim_29: -2299154909066051083
+      Rotate-Anim_3: 5229056097766316163
+      Rotate-Anim_30: 7274385024613072572
+      Rotate-Anim_31: -8335620162346457562
+      Rotate-Anim_32: 6150277931488700499
+      Rotate-Anim_33: -4582578152760823416
+      Rotate-Anim_34: 7616734727448797685
+      Rotate-Anim_35: -3885584575443689083
+      Rotate-Anim_36: -1914111199784643058
+      Rotate-Anim_37: 5542168147960661130
+      Rotate-Anim_38: -8514639332692785395
+      Rotate-Anim_39: -8361760783651807962
+      Rotate-Anim_4: 4010565918136704480
+      Rotate-Anim_40: -8697756128967947093
+      Rotate-Anim_41: -6263720894030115049
+      Rotate-Anim_42: 7733641921577352404
+      Rotate-Anim_43: 5233953012930994312
+      Rotate-Anim_44: 1321370326249212639
+      Rotate-Anim_45: 47112694754948774
+      Rotate-Anim_46: -1310362734151884846
+      Rotate-Anim_47: -2755322556752633378
+      Rotate-Anim_48: -3330526148007742393
+      Rotate-Anim_49: -5468948236850230411
+      Rotate-Anim_5: 528382697555820205
+      Rotate-Anim_50: 5981137960081551814
+      Rotate-Anim_51: 1036551005608656938
+      Rotate-Anim_52: 3270263104237496120
+      Rotate-Anim_53: -4545312155512961940
+      Rotate-Anim_54: 7080505675336644322
+      Rotate-Anim_55: 7261632090049847073
+      Rotate-Anim_56: 8433990467348213479
+      Rotate-Anim_57: 7970503183801448282
+      Rotate-Anim_58: 5740900563166474555
+      Rotate-Anim_59: 8002707189838994484
+      Rotate-Anim_6: 3853221310205046700
+      Rotate-Anim_60: -4180468829711273303
+      Rotate-Anim_61: -1270265989691463409
+      Rotate-Anim_62: 7073924115024681299
+      Rotate-Anim_63: 2544657213058972371
+      Rotate-Anim_64: 1264396208103724773
+      Rotate-Anim_65: -9119387376365439716
+      Rotate-Anim_66: 8432011314592150025
+      Rotate-Anim_67: -417616509820546081
+      Rotate-Anim_68: -5641176271345430226
+      Rotate-Anim_69: 5197473982767401066
+      Rotate-Anim_7: -3248627673364683149
+      Rotate-Anim_70: -7461444958029229985
+      Rotate-Anim_71: 1742792514082661754
+      Rotate-Anim_8: 6190191986812891075
+      Rotate-Anim_9: 1662102322705536496
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 8016159c607ad7646b0aeb6f54fef7ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5227900790994695693
+    second: Nod-Shadow_0
+  - first:
+      213: -6117716251728121215
+    second: Nod-Shadow_1
+  - first:
+      213: -4342984012424773626
+    second: Nod-Shadow_2
+  - first:
+      213: -1730212532634631260
+    second: Nod-Shadow_3
+  - first:
+      213: 3662300002559011374
+    second: Nod-Shadow_4
+  - first:
+      213: 7511406208996419435
+    second: Nod-Shadow_5
+  - first:
+      213: -324612918596565659
+    second: Nod-Shadow_6
+  - first:
+      213: -225743106772224732
+    second: Nod-Shadow_7
+  - first:
+      213: -5396814260278006608
+    second: Nod-Shadow_8
+  - first:
+      213: 1986640587054168762
+    second: Nod-Shadow_9
+  - first:
+      213: 3795184022093998976
+    second: Nod-Shadow_10
+  - first:
+      213: 6087795091157968061
+    second: Nod-Shadow_11
+  - first:
+      213: -962695453079476287
+    second: Nod-Shadow_12
+  - first:
+      213: 6984205801702126698
+    second: Nod-Shadow_13
+  - first:
+      213: 8491229256783018738
+    second: Nod-Shadow_14
+  - first:
+      213: -8077222004699206131
+    second: Nod-Shadow_15
+  - first:
+      213: -913907364789528902
+    second: Nod-Shadow_16
+  - first:
+      213: -4368280643612602929
+    second: Nod-Shadow_17
+  - first:
+      213: 4636792820158757056
+    second: Nod-Shadow_18
+  - first:
+      213: -6267752792049881210
+    second: Nod-Shadow_19
+  - first:
+      213: -3238480293562029514
+    second: Nod-Shadow_20
+  - first:
+      213: 7384868183375653277
+    second: Nod-Shadow_21
+  - first:
+      213: 2060844979599732491
+    second: Nod-Shadow_22
+  - first:
+      213: -2345786144046707099
+    second: Nod-Shadow_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nod-Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 351
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06f830221c3d8840800000000000000
+      internalID: 5227900790994695693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 351
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1827c1b6b71891ba0800000000000000
+      internalID: -6117716251728121215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 351
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60088320d0f9ab3c0800000000000000
+      internalID: -4342984012424773626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 303
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3426e5edc0df7e0800000000000000
+      internalID: -1730212532634631260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 303
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a2179d27a13d230800000000000000
+      internalID: 3662300002559011374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 303
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6725e26620ed3860800000000000000
+      internalID: 7511406208996419435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 255
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5658c89354ebe7bf0800000000000000
+      internalID: -324612918596565659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 255
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425395627dffddcf0800000000000000
+      internalID: -225743106772224732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 255
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bced59160aaa15b0800000000000000
+      internalID: -5396814260278006608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 207
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ababcb79617f19b10800000000000000
+      internalID: 1986640587054168762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 207
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ba626a2c33ba430800000000000000
+      internalID: 3795184022093998976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 207
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db466d181613c7450800000000000000
+      internalID: 6087795091157968061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 159
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c760540691d3a2f0800000000000000
+      internalID: -962695453079476287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 159
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a647da83c22ece060800000000000000
+      internalID: 6984205801702126698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 159
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fab4f44508e6d570800000000000000
+      internalID: 8491229256783018738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 111
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e6fe5b161f7ef80800000000000000
+      internalID: -8077222004699206131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 111
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab65b1408162153f0800000000000000
+      internalID: -913907364789528902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 111
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd814616efb063c0800000000000000
+      internalID: -4368280643612602929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 63
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8f4aec082395040800000000000000
+      internalID: 4636792820158757056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 63
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f67e92b087409a0800000000000000
+      internalID: -6267752792049881210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 63
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ae12ac45b9e03d0800000000000000
+      internalID: -3238480293562029514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 15
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99a03f6c725c7660800000000000000
+      internalID: 7384868183375653277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 15
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f60321797999c10800000000000000
+      internalID: 2060844979599732491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 15
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e00153ee7127fd0800000000000000
+      internalID: -2345786144046707099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nod-Shadow_0: 5227900790994695693
+      Nod-Shadow_1: -6117716251728121215
+      Nod-Shadow_10: 3795184022093998976
+      Nod-Shadow_11: 6087795091157968061
+      Nod-Shadow_12: -962695453079476287
+      Nod-Shadow_13: 6984205801702126698
+      Nod-Shadow_14: 8491229256783018738
+      Nod-Shadow_15: -8077222004699206131
+      Nod-Shadow_16: -913907364789528902
+      Nod-Shadow_17: -4368280643612602929
+      Nod-Shadow_18: 4636792820158757056
+      Nod-Shadow_19: -6267752792049881210
+      Nod-Shadow_2: -4342984012424773626
+      Nod-Shadow_20: -3238480293562029514
+      Nod-Shadow_21: 7384868183375653277
+      Nod-Shadow_22: 2060844979599732491
+      Nod-Shadow_23: -2345786144046707099
+      Nod-Shadow_3: -1730212532634631260
+      Nod-Shadow_4: 3662300002559011374
+      Nod-Shadow_5: 7511406208996419435
+      Nod-Shadow_6: -324612918596565659
+      Nod-Shadow_7: -225743106772224732
+      Nod-Shadow_8: -5396814260278006608
+      Nod-Shadow_9: 1986640587054168762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

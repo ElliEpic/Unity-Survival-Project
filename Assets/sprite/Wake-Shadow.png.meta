@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 4e62ec1a26ed0c24f8f0b72a578469f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 815015289222692822
+    second: Wake-Shadow_0
+  - first:
+      213: 3597295216464803171
+    second: Wake-Shadow_1
+  - first:
+      213: -3398900698071411934
+    second: Wake-Shadow_2
+  - first:
+      213: 1591309515835664828
+    second: Wake-Shadow_3
+  - first:
+      213: 6837592964501676372
+    second: Wake-Shadow_4
+  - first:
+      213: 3664809472355694416
+    second: Wake-Shadow_5
+  - first:
+      213: 1131609831340337989
+    second: Wake-Shadow_6
+  - first:
+      213: -2993047990048875779
+    second: Wake-Shadow_7
+  - first:
+      213: -5881061605988912697
+    second: Wake-Shadow_8
+  - first:
+      213: 3964340981322371095
+    second: Wake-Shadow_9
+  - first:
+      213: -1550396957181618263
+    second: Wake-Shadow_10
+  - first:
+      213: -4163217146148385040
+    second: Wake-Shadow_11
+  - first:
+      213: 2534198600445917738
+    second: Wake-Shadow_12
+  - first:
+      213: -5245949084523717298
+    second: Wake-Shadow_13
+  - first:
+      213: 1208241502876210686
+    second: Wake-Shadow_14
+  - first:
+      213: 2454121109749343453
+    second: Wake-Shadow_15
+  - first:
+      213: 8845104658744806761
+    second: Wake-Shadow_16
+  - first:
+      213: 692055862575804119
+    second: Wake-Shadow_17
+  - first:
+      213: -3827386614218587535
+    second: Wake-Shadow_18
+  - first:
+      213: 4033687609661030740
+    second: Wake-Shadow_19
+  - first:
+      213: -1603982243179556916
+    second: Wake-Shadow_20
+  - first:
+      213: -5952002410846138018
+    second: Wake-Shadow_21
+  - first:
+      213: 2511515959296672769
+    second: Wake-Shadow_22
+  - first:
+      213: -863733719574046050
+    second: Wake-Shadow_23
+  - first:
+      213: -1758300319245247626
+    second: Wake-Shadow_24
+  - first:
+      213: 5598575522280633155
+    second: Wake-Shadow_25
+  - first:
+      213: -3706450151057294539
+    second: Wake-Shadow_26
+  - first:
+      213: -5438739078758565584
+    second: Wake-Shadow_27
+  - first:
+      213: 6656595936263245281
+    second: Wake-Shadow_28
+  - first:
+      213: 5619885882432595505
+    second: Wake-Shadow_29
+  - first:
+      213: -4658742664790200634
+    second: Wake-Shadow_30
+  - first:
+      213: 4748989245996260904
+    second: Wake-Shadow_31
+  - first:
+      213: -6053980115261189364
+    second: Wake-Shadow_32
+  - first:
+      213: -6679414188208078187
+    second: Wake-Shadow_33
+  - first:
+      213: 1449909975855981715
+    second: Wake-Shadow_34
+  - first:
+      213: -7456979499209770283
+    second: Wake-Shadow_35
+  - first:
+      213: -731786438271268342
+    second: Wake-Shadow_36
+  - first:
+      213: 3324069543750952267
+    second: Wake-Shadow_37
+  - first:
+      213: 1185489780584363954
+    second: Wake-Shadow_38
+  - first:
+      213: 1686799030447163655
+    second: Wake-Shadow_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wake-Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df71a066148f4b00800000000000000
+      internalID: 815015289222692822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365b899a0f82ce130800000000000000
+      internalID: 3597295216464803171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22350a0c2dda4d0d0800000000000000
+      internalID: -3398900698071411934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb96513d297751610800000000000000
+      internalID: 1591309515835664828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45125d7f29204ee50800000000000000
+      internalID: 6837592964501676372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0577f315cc40cd230800000000000000
+      internalID: 3664809472355694416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b6165652944bf00800000000000000
+      internalID: 1131609831340337989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa907df5be8676d0800000000000000
+      internalID: -2993047990048875779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1b7d8e0a5426ea0800000000000000
+      internalID: -5881061605988912697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7105e385e1b240730800000000000000
+      internalID: 3964340981322371095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7d75a8e22eb7ae0800000000000000
+      internalID: -1550396957181618263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe820130184936c0800000000000000
+      internalID: -4163217146148385040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2afed943384b2320800000000000000
+      internalID: 2534198600445917738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d9d231a15a237b0800000000000000
+      internalID: -5245949084523717298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef512ddce3984c010800000000000000
+      internalID: 1208241502876210686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4a566952ace0220800000000000000
+      internalID: 2454121109749343453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d03a1e2df10ca70800000000000000
+      internalID: 8845104658744806761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7deae8de32daa9900800000000000000
+      internalID: 692055862575804119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1728a69172462eac0800000000000000
+      internalID: -3827386614218587535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4518db472898af730800000000000000
+      internalID: 4033687609661030740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf8f39e5a28db9e0800000000000000
+      internalID: -1603982243179556916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e515f37a75d366da0800000000000000
+      internalID: -5952002410846138018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1044a995572bad220800000000000000
+      internalID: 2511515959296672769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a134022c66304f0800000000000000
+      internalID: -863733719574046050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b5eeeec234997e0800000000000000
+      internalID: -1758300319245247626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343fbb566c222bd40800000000000000
+      internalID: 5598575522280633155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b7988a93b009cc0800000000000000
+      internalID: -3706450151057294539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0397f80af97b584b0800000000000000
+      internalID: -5438739078758565584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed87426cbaf06c50800000000000000
+      internalID: 6656595936263245281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136a0a44f68ddfd40800000000000000
+      internalID: 5619885882432595505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce293dba32d85fb0800000000000000
+      internalID: -4658742664790200634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ed1c9de8cc7e140800000000000000
+      internalID: 4748989245996260904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0314981921fbfba0800000000000000
+      internalID: -6053980115261189364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59247245f24fd43a0800000000000000
+      internalID: -6679414188208078187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394e03be07d1f1410800000000000000
+      internalID: 1449909975855981715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da3b3c77ac738890800000000000000
+      internalID: -7456979499209770283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a846f8c1c28d5f0800000000000000
+      internalID: -731786438271268342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4568fb63a7712e20800000000000000
+      internalID: 3324069543750952267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b73698aca4b37010800000000000000
+      internalID: 1185489780584363954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wake-Shadow_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709c649f7c6b86710800000000000000
+      internalID: 1686799030447163655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wake-Shadow_0: 815015289222692822
+      Wake-Shadow_1: 3597295216464803171
+      Wake-Shadow_10: -1550396957181618263
+      Wake-Shadow_11: -4163217146148385040
+      Wake-Shadow_12: 2534198600445917738
+      Wake-Shadow_13: -5245949084523717298
+      Wake-Shadow_14: 1208241502876210686
+      Wake-Shadow_15: 2454121109749343453
+      Wake-Shadow_16: 8845104658744806761
+      Wake-Shadow_17: 692055862575804119
+      Wake-Shadow_18: -3827386614218587535
+      Wake-Shadow_19: 4033687609661030740
+      Wake-Shadow_2: -3398900698071411934
+      Wake-Shadow_20: -1603982243179556916
+      Wake-Shadow_21: -5952002410846138018
+      Wake-Shadow_22: 2511515959296672769
+      Wake-Shadow_23: -863733719574046050
+      Wake-Shadow_24: -1758300319245247626
+      Wake-Shadow_25: 5598575522280633155
+      Wake-Shadow_26: -3706450151057294539
+      Wake-Shadow_27: -5438739078758565584
+      Wake-Shadow_28: 6656595936263245281
+      Wake-Shadow_29: 5619885882432595505
+      Wake-Shadow_3: 1591309515835664828
+      Wake-Shadow_30: -4658742664790200634
+      Wake-Shadow_31: 4748989245996260904
+      Wake-Shadow_32: -6053980115261189364
+      Wake-Shadow_33: -6679414188208078187
+      Wake-Shadow_34: 1449909975855981715
+      Wake-Shadow_35: -7456979499209770283
+      Wake-Shadow_36: -731786438271268342
+      Wake-Shadow_37: 3324069543750952267
+      Wake-Shadow_38: 1185489780584363954
+      Wake-Shadow_39: 1686799030447163655
+      Wake-Shadow_4: 6837592964501676372
+      Wake-Shadow_5: 3664809472355694416
+      Wake-Shadow_6: 1131609831340337989
+      Wake-Shadow_7: -2993047990048875779
+      Wake-Shadow_8: -5881061605988912697
+      Wake-Shadow_9: 3964340981322371095
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

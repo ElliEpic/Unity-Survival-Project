@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 1db180daaa0aaed4fa7db3a7aae427a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3780095524131232430
+    second: Nod-Anim_0
+  - first:
+      213: 8060954066543199632
+    second: Nod-Anim_1
+  - first:
+      213: -1847277114667883501
+    second: Nod-Anim_2
+  - first:
+      213: 1143596381310595136
+    second: Nod-Anim_3
+  - first:
+      213: 3641694375126101955
+    second: Nod-Anim_4
+  - first:
+      213: -4655324970317497254
+    second: Nod-Anim_5
+  - first:
+      213: 1365758742530225150
+    second: Nod-Anim_6
+  - first:
+      213: -3855410093488739226
+    second: Nod-Anim_7
+  - first:
+      213: 6208799851831221494
+    second: Nod-Anim_8
+  - first:
+      213: -5931530389389652958
+    second: Nod-Anim_9
+  - first:
+      213: 8974306261855816347
+    second: Nod-Anim_10
+  - first:
+      213: -1910080756768690222
+    second: Nod-Anim_11
+  - first:
+      213: 479478398496719407
+    second: Nod-Anim_12
+  - first:
+      213: 1495179293046061976
+    second: Nod-Anim_13
+  - first:
+      213: 1078499043157114183
+    second: Nod-Anim_14
+  - first:
+      213: 4567610096941324497
+    second: Nod-Anim_15
+  - first:
+      213: -1751758137712427252
+    second: Nod-Anim_16
+  - first:
+      213: 7313585051499453153
+    second: Nod-Anim_17
+  - first:
+      213: 8725495877029063299
+    second: Nod-Anim_18
+  - first:
+      213: 6725778485604710635
+    second: Nod-Anim_19
+  - first:
+      213: -6382871587600406840
+    second: Nod-Anim_20
+  - first:
+      213: 8064019902043839634
+    second: Nod-Anim_21
+  - first:
+      213: -4018855438390654537
+    second: Nod-Anim_22
+  - first:
+      213: 7668457779178266161
+    second: Nod-Anim_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nod-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 354
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2552d1b06276a8bc0800000000000000
+      internalID: -3780095524131232430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 354
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0954c07c3034edf60800000000000000
+      internalID: 8060954066543199632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 354
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314238260472d56e0800000000000000
+      internalID: -1847277114667883501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 306
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040b07a89dededf00800000000000000
+      internalID: 1143596381310595136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 306
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfede95db5e98230800000000000000
+      internalID: 3641694375126101955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 306
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c383eba96f46fb0800000000000000
+      internalID: -4655324970317497254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3f569175624f210800000000000000
+      internalID: 1365758742530225150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 257
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ce52262f4de7ac0800000000000000
+      internalID: -3855410093488739226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcd5e1d1961a2650800000000000000
+      internalID: 6208799851831221494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ccef59988feada0800000000000000
+      internalID: -5931530389389652958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 209
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aca7b4ff32b8c70800000000000000
+      internalID: 8974306261855816347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 209
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df2e78fba70e75e0800000000000000
+      internalID: -1910080756768690222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22ced3201377a600800000000000000
+      internalID: 479478398496719407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 161
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bb78d25a1ffb410800000000000000
+      internalID: 1495179293046061976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 161
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d7af56a2997fe00800000000000000
+      internalID: 1078499043157114183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8dca4de29636f30800000000000000
+      internalID: 4567610096941324497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 113
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f3045414180b7e0800000000000000
+      internalID: -1751758137712427252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 113
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea5b35fad21f7560800000000000000
+      internalID: 7313585051499453153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 65
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ae37f3540371970800000000000000
+      internalID: 8725495877029063299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 65
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8fe60e5e3c65d50800000000000000
+      internalID: 6725778485604710635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 65
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6e426eb1c7b67a0800000000000000
+      internalID: -6382871587600406840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 17
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cd00b306729ef60800000000000000
+      internalID: 8064019902043839634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9041785482a38c0800000000000000
+      internalID: -4018855438390654537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nod-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 17
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e500f88b5db6a60800000000000000
+      internalID: 7668457779178266161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nod-Anim_0: -3780095524131232430
+      Nod-Anim_1: 8060954066543199632
+      Nod-Anim_10: 8974306261855816347
+      Nod-Anim_11: -1910080756768690222
+      Nod-Anim_12: 479478398496719407
+      Nod-Anim_13: 1495179293046061976
+      Nod-Anim_14: 1078499043157114183
+      Nod-Anim_15: 4567610096941324497
+      Nod-Anim_16: -1751758137712427252
+      Nod-Anim_17: 7313585051499453153
+      Nod-Anim_18: 8725495877029063299
+      Nod-Anim_19: 6725778485604710635
+      Nod-Anim_2: -1847277114667883501
+      Nod-Anim_20: -6382871587600406840
+      Nod-Anim_21: 8064019902043839634
+      Nod-Anim_22: -4018855438390654537
+      Nod-Anim_23: 7668457779178266161
+      Nod-Anim_3: 1143596381310595136
+      Nod-Anim_4: 3641694375126101955
+      Nod-Anim_5: -4655324970317497254
+      Nod-Anim_6: 1365758742530225150
+      Nod-Anim_7: -3855410093488739226
+      Nod-Anim_8: 6208799851831221494
+      Nod-Anim_9: -5931530389389652958
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 4abbee0de7676f0468986230453341a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5895636149674674143
+    second: Faint-Anim_0
+  - first:
+      213: -8097163639853309862
+    second: Faint-Anim_1
+  - first:
+      213: 1331031804380909118
+    second: Faint-Anim_2
+  - first:
+      213: -1519657490209502331
+    second: Faint-Anim_3
+  - first:
+      213: 1476289071253126468
+    second: Faint-Anim_4
+  - first:
+      213: 3366202063248583886
+    second: Faint-Anim_5
+  - first:
+      213: 7267011436737356143
+    second: Faint-Anim_6
+  - first:
+      213: -7891931717711006624
+    second: Faint-Anim_7
+  - first:
+      213: -2701132149520250871
+    second: Faint-Anim_8
+  - first:
+      213: 1700295286429042554
+    second: Faint-Anim_9
+  - first:
+      213: 8325727631422230212
+    second: Faint-Anim_10
+  - first:
+      213: 8764784009550830008
+    second: Faint-Anim_11
+  - first:
+      213: 5729236762719197861
+    second: Faint-Anim_12
+  - first:
+      213: -584735399433315883
+    second: Faint-Anim_13
+  - first:
+      213: 3590628135058782361
+    second: Faint-Anim_14
+  - first:
+      213: -2676830742809441477
+    second: Faint-Anim_15
+  - first:
+      213: 9059390723509363907
+    second: Faint-Anim_16
+  - first:
+      213: 5066504025143387958
+    second: Faint-Anim_17
+  - first:
+      213: -8085897013147859618
+    second: Faint-Anim_18
+  - first:
+      213: 255812720612183282
+    second: Faint-Anim_19
+  - first:
+      213: -273547111753525177
+    second: Faint-Anim_20
+  - first:
+      213: 7465218386220601376
+    second: Faint-Anim_21
+  - first:
+      213: 4780365284110702166
+    second: Faint-Anim_22
+  - first:
+      213: -347737035932310995
+    second: Faint-Anim_23
+  - first:
+      213: -2961774366138248728
+    second: Faint-Anim_24
+  - first:
+      213: 1570204300313570582
+    second: Faint-Anim_25
+  - first:
+      213: 437026107773064086
+    second: Faint-Anim_26
+  - first:
+      213: 8880530556666092922
+    second: Faint-Anim_27
+  - first:
+      213: -8330469242636097328
+    second: Faint-Anim_28
+  - first:
+      213: 7252660026807057169
+    second: Faint-Anim_29
+  - first:
+      213: -1690271451003683251
+    second: Faint-Anim_30
+  - first:
+      213: 8798536664726298243
+    second: Faint-Anim_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Faint-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 293
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12870b5882e7e2ea0800000000000000
+      internalID: -5895636149674674143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 292
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50a556f19811af80800000000000000
+      internalID: -8097163639853309862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 291
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e0fdcbf56c87210800000000000000
+      internalID: 1331031804380909118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 291
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b0dcb609719eae0800000000000000
+      internalID: -1519657490209502331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 253
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d75dda615dc7410800000000000000
+      internalID: 1476289071253126468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 252
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc6e1e01f627be20800000000000000
+      internalID: 3366202063248583886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 251
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f616e61466c99d460800000000000000
+      internalID: 7267011436737356143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 251
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064723e7ae93a7290800000000000000
+      internalID: -7891931717711006624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 213
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90845780f96a38ad0800000000000000
+      internalID: -2701132149520250871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 212
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77cfd0fd89a89710800000000000000
+      internalID: 1700295286429042554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 211
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce839f4b2dea8370800000000000000
+      internalID: 8325727631422230212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 211
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b91d4e6e94c2a970800000000000000
+      internalID: 8764784009550830008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 173
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa9cfb1b76528f40800000000000000
+      internalID: 5729236762719197861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 172
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d95e25904a92e7f0800000000000000
+      internalID: -584735399433315883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 171
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998b3bec34974d130800000000000000
+      internalID: 3590628135058782361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 171
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b8ff23f9cf9dad0800000000000000
+      internalID: -2676830742809441477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 133
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4ae344ddb69bd70800000000000000
+      internalID: 9059390723509363907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 132
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63722cf3196df4640800000000000000
+      internalID: 5066504025143387958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 131
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e550ee8e18f19cf80800000000000000
+      internalID: -8085897013147859618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 131
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc8d156054dc8300800000000000000
+      internalID: 255812720612183282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 93
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748d896e95a243cf0800000000000000
+      internalID: -273547111753525177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 92
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020d461e198c99760800000000000000
+      internalID: 7465218386220601376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 91
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656170006e4475240800000000000000
+      internalID: 4780365284110702166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 91
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22e10a12079c2bf0800000000000000
+      internalID: -347737035932310995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 53
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1d879f7e9a5e6d0800000000000000
+      internalID: -2961774366138248728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 52
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d2bf8ed7c7ac510800000000000000
+      internalID: 1570204300313570582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 51
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6939267fde0a01600800000000000000
+      internalID: 437026107773064086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 51
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d951f7d7bfd3b70800000000000000
+      internalID: 8880530556666092922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 13
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8ab5c4c5a346c80800000000000000
+      internalID: -8330469242636097328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 12
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b728e3edf96a460800000000000000
+      internalID: 7252660026807057169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 11
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ef0fc1213fa88e0800000000000000
+      internalID: -1690271451003683251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 11
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ed24cda7eaa1a70800000000000000
+      internalID: 8798536664726298243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Faint-Anim_0: -5895636149674674143
+      Faint-Anim_1: -8097163639853309862
+      Faint-Anim_10: 8325727631422230212
+      Faint-Anim_11: 8764784009550830008
+      Faint-Anim_12: 5729236762719197861
+      Faint-Anim_13: -584735399433315883
+      Faint-Anim_14: 3590628135058782361
+      Faint-Anim_15: -2676830742809441477
+      Faint-Anim_16: 9059390723509363907
+      Faint-Anim_17: 5066504025143387958
+      Faint-Anim_18: -8085897013147859618
+      Faint-Anim_19: 255812720612183282
+      Faint-Anim_2: 1331031804380909118
+      Faint-Anim_20: -273547111753525177
+      Faint-Anim_21: 7465218386220601376
+      Faint-Anim_22: 4780365284110702166
+      Faint-Anim_23: -347737035932310995
+      Faint-Anim_24: -2961774366138248728
+      Faint-Anim_25: 1570204300313570582
+      Faint-Anim_26: 437026107773064086
+      Faint-Anim_27: 8880530556666092922
+      Faint-Anim_28: -8330469242636097328
+      Faint-Anim_29: 7252660026807057169
+      Faint-Anim_3: -1519657490209502331
+      Faint-Anim_30: -1690271451003683251
+      Faint-Anim_31: 8798536664726298243
+      Faint-Anim_4: 1476289071253126468
+      Faint-Anim_5: 3366202063248583886
+      Faint-Anim_6: 7267011436737356143
+      Faint-Anim_7: -7891931717711006624
+      Faint-Anim_8: -2701132149520250871
+      Faint-Anim_9: 1700295286429042554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

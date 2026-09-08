@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 7355fef7374b37340bae505cc24c9720
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4921601623598328244
+    second: Hurt-Shadow_0
+  - first:
+      213: 770726408723457963
+    second: Hurt-Shadow_1
+  - first:
+      213: 6319023758684354185
+    second: Hurt-Shadow_2
+  - first:
+      213: -1727767950071605133
+    second: Hurt-Shadow_3
+  - first:
+      213: -7119090943433036299
+    second: Hurt-Shadow_4
+  - first:
+      213: 3563070990304570627
+    second: Hurt-Shadow_5
+  - first:
+      213: 2242798136236729669
+    second: Hurt-Shadow_6
+  - first:
+      213: -4793177988162599450
+    second: Hurt-Shadow_7
+  - first:
+      213: -5875828654485697936
+    second: Hurt-Shadow_8
+  - first:
+      213: -5389168316194954165
+    second: Hurt-Shadow_9
+  - first:
+      213: -993258711785714875
+    second: Hurt-Shadow_10
+  - first:
+      213: 5811750274045524809
+    second: Hurt-Shadow_11
+  - first:
+      213: -9066816796566974992
+    second: Hurt-Shadow_12
+  - first:
+      213: -8343967770546487255
+    second: Hurt-Shadow_13
+  - first:
+      213: -4504159703847627251
+    second: Hurt-Shadow_14
+  - first:
+      213: -7084382933893853600
+    second: Hurt-Shadow_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hurt-Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 474
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b96094d99a0d4440800000000000000
+      internalID: 4921601623598328244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 475
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba769f2d59b22ba00800000000000000
+      internalID: 770726408723457963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 410
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98672aff0aea1b750800000000000000
+      internalID: 6319023758684354185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 411
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3785da9143cb508e0800000000000000
+      internalID: -1727767950071605133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd29f86188e33d90800000000000000
+      internalID: -7119090943433036299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d6a9e0032927130800000000000000
+      internalID: 3563070990304570627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 276
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5456c45a505002f10800000000000000
+      internalID: 2242798136236729669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 275
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5c85ed3063b7db0800000000000000
+      internalID: -4793177988162599450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 212
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a815068fcd47ea0800000000000000
+      internalID: -5875828654485697936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44e86e28f3d535b0800000000000000
+      internalID: -5389168316194954165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 148
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b43f1d67c3732f0800000000000000
+      internalID: -993258711785714875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 147
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b33cf051c77a050800000000000000
+      internalID: 5811750274045524809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd841d59223c2280800000000000000
+      internalID: -9066816796566974992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920c44b5585443c80800000000000000
+      internalID: -8343967770546487255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 26
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0698880d920e71c0800000000000000
+      internalID: -4504159703847627251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt-Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 27
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eca6c91473fad90800000000000000
+      internalID: -7084382933893853600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hurt-Shadow_0: 4921601623598328244
+      Hurt-Shadow_1: 770726408723457963
+      Hurt-Shadow_10: -993258711785714875
+      Hurt-Shadow_11: 5811750274045524809
+      Hurt-Shadow_12: -9066816796566974992
+      Hurt-Shadow_13: -8343967770546487255
+      Hurt-Shadow_14: -4504159703847627251
+      Hurt-Shadow_15: -7084382933893853600
+      Hurt-Shadow_2: 6319023758684354185
+      Hurt-Shadow_3: -1727767950071605133
+      Hurt-Shadow_4: -7119090943433036299
+      Hurt-Shadow_5: 3563070990304570627
+      Hurt-Shadow_6: 2242798136236729669
+      Hurt-Shadow_7: -4793177988162599450
+      Hurt-Shadow_8: -5875828654485697936
+      Hurt-Shadow_9: -5389168316194954165
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

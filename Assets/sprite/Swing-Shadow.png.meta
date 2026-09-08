@@ -1,0 +1,1991 @@
+fileFormatVersion: 2
+guid: 760dac79482818849968358ec67812d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5244413424482125712
+    second: Swing-Shadow_0
+  - first:
+      213: 3815410398705126880
+    second: Swing-Shadow_1
+  - first:
+      213: 5027882657717476140
+    second: Swing-Shadow_2
+  - first:
+      213: 3265458599686470968
+    second: Swing-Shadow_3
+  - first:
+      213: 2033770525909827451
+    second: Swing-Shadow_4
+  - first:
+      213: 8702167283068678918
+    second: Swing-Shadow_5
+  - first:
+      213: -8039503278585099384
+    second: Swing-Shadow_6
+  - first:
+      213: 6392634603341707542
+    second: Swing-Shadow_7
+  - first:
+      213: 5540027700453999748
+    second: Swing-Shadow_8
+  - first:
+      213: 7176001930600837340
+    second: Swing-Shadow_9
+  - first:
+      213: 1775722673189432952
+    second: Swing-Shadow_10
+  - first:
+      213: -4580601608866066350
+    second: Swing-Shadow_11
+  - first:
+      213: -2743092585041277555
+    second: Swing-Shadow_12
+  - first:
+      213: -9071459628228799664
+    second: Swing-Shadow_13
+  - first:
+      213: -2153559390620279360
+    second: Swing-Shadow_14
+  - first:
+      213: 7757191118458493171
+    second: Swing-Shadow_15
+  - first:
+      213: 8664917529886990011
+    second: Swing-Shadow_16
+  - first:
+      213: 4121438636815827288
+    second: Swing-Shadow_17
+  - first:
+      213: 8530640925551578283
+    second: Swing-Shadow_18
+  - first:
+      213: 5361162774323778650
+    second: Swing-Shadow_19
+  - first:
+      213: -1621579072813030000
+    second: Swing-Shadow_20
+  - first:
+      213: 4643035088639036191
+    second: Swing-Shadow_21
+  - first:
+      213: -8356049746180235550
+    second: Swing-Shadow_22
+  - first:
+      213: 990672458643718468
+    second: Swing-Shadow_23
+  - first:
+      213: 8493783056247049166
+    second: Swing-Shadow_24
+  - first:
+      213: -7573161493556385098
+    second: Swing-Shadow_25
+  - first:
+      213: -8285843440593030440
+    second: Swing-Shadow_26
+  - first:
+      213: -3308733758774702386
+    second: Swing-Shadow_27
+  - first:
+      213: 129318852788242072
+    second: Swing-Shadow_28
+  - first:
+      213: 4878145981554204284
+    second: Swing-Shadow_29
+  - first:
+      213: -2765735913153479396
+    second: Swing-Shadow_30
+  - first:
+      213: -362865368062771188
+    second: Swing-Shadow_31
+  - first:
+      213: 8087994531363909169
+    second: Swing-Shadow_32
+  - first:
+      213: -4267352848436594537
+    second: Swing-Shadow_33
+  - first:
+      213: 2711070399889689438
+    second: Swing-Shadow_34
+  - first:
+      213: 1359772107892007109
+    second: Swing-Shadow_35
+  - first:
+      213: -1433474486265610660
+    second: Swing-Shadow_36
+  - first:
+      213: 7664211037969925477
+    second: Swing-Shadow_37
+  - first:
+      213: 1555744058022929461
+    second: Swing-Shadow_38
+  - first:
+      213: 3509809359381745502
+    second: Swing-Shadow_39
+  - first:
+      213: -7825361338418865264
+    second: Swing-Shadow_40
+  - first:
+      213: -797442169595135663
+    second: Swing-Shadow_41
+  - first:
+      213: 9144418213666425139
+    second: Swing-Shadow_42
+  - first:
+      213: -5029336383580415346
+    second: Swing-Shadow_43
+  - first:
+      213: 8439257197068497678
+    second: Swing-Shadow_44
+  - first:
+      213: -5431149540041361236
+    second: Swing-Shadow_45
+  - first:
+      213: 394093188257639828
+    second: Swing-Shadow_46
+  - first:
+      213: 3078129141196974205
+    second: Swing-Shadow_47
+  - first:
+      213: 1698741395879153012
+    second: Swing-Shadow_48
+  - first:
+      213: -422360101958288913
+    second: Swing-Shadow_49
+  - first:
+      213: 5594472135380770390
+    second: Swing-Shadow_50
+  - first:
+      213: 2531309507972865624
+    second: Swing-Shadow_51
+  - first:
+      213: 8611603275505076733
+    second: Swing-Shadow_52
+  - first:
+      213: -416180989712164570
+    second: Swing-Shadow_53
+  - first:
+      213: 3034513071085976996
+    second: Swing-Shadow_54
+  - first:
+      213: 5474475887468604591
+    second: Swing-Shadow_55
+  - first:
+      213: -7619797618767816000
+    second: Swing-Shadow_56
+  - first:
+      213: 208595026371149405
+    second: Swing-Shadow_57
+  - first:
+      213: 885377119806306479
+    second: Swing-Shadow_58
+  - first:
+      213: -2446966855081516766
+    second: Swing-Shadow_59
+  - first:
+      213: 8672073158256849784
+    second: Swing-Shadow_60
+  - first:
+      213: -2214303695437242691
+    second: Swing-Shadow_61
+  - first:
+      213: -5029230566194220834
+    second: Swing-Shadow_62
+  - first:
+      213: 2094490500976142686
+    second: Swing-Shadow_63
+  - first:
+      213: -7207720396168575437
+    second: Swing-Shadow_64
+  - first:
+      213: 5306594434864790947
+    second: Swing-Shadow_65
+  - first:
+      213: -1450974228457272817
+    second: Swing-Shadow_66
+  - first:
+      213: 7616677804333162429
+    second: Swing-Shadow_67
+  - first:
+      213: -1566738056432694216
+    second: Swing-Shadow_68
+  - first:
+      213: -7949997294254506263
+    second: Swing-Shadow_69
+  - first:
+      213: -3759472971101206864
+    second: Swing-Shadow_70
+  - first:
+      213: 42048413383038888
+    second: Swing-Shadow_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swing-Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 711
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0970c853936e7c840800000000000000
+      internalID: 5244413424482125712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 707
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed862fea8f03f430800000000000000
+      internalID: 3815410398705126880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 702
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bd89963a0a6c540800000000000000
+      internalID: 5027882657717476140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 702
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d7e079b4d315d20800000000000000
+      internalID: 3265458599686470968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 707
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fb3879487693c10800000000000000
+      internalID: 2033770525909827451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 711
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603b553b90f44c870800000000000000
+      internalID: 8702167283068678918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 693
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bc85dfc52fd6090800000000000000
+      internalID: -8039503278585099384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 690
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6197d075d4337b850800000000000000
+      internalID: 6392634603341707542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 693
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484826b57d122ec40800000000000000
+      internalID: 5540027700453999748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 615
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0fafc5cb7469360800000000000000
+      internalID: 7176001930600837340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 615
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e2013fc52a4a810800000000000000
+      internalID: 1775722673189432952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 612
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25094f51b1f6e60c0800000000000000
+      internalID: -4580601608866066350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 606
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d4b92d3d39ee9d0800000000000000
+      internalID: -2743092585041277555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 608
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0531021e783bb1280800000000000000
+      internalID: -9071459628228799664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 615
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd1f5fe4250d12e0800000000000000
+      internalID: -2153559390620279360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 594
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8988e093417ab60800000000000000
+      internalID: 7757191118458493171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 594
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe18f0b598ff3870800000000000000
+      internalID: 8664917529886990011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 603
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8514af69a9a423930800000000000000
+      internalID: 4121438636815827288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 519
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac49e979bce26670800000000000000
+      internalID: 8530640925551578283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 523
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54dd9a732da66a40800000000000000
+      internalID: 5361162774323778650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 525
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095a5cdbc6efe79e0800000000000000
+      internalID: -1621579072813030000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 523
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b010230df5f6040800000000000000
+      internalID: 4643035088639036191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 518
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee1f613709590c80800000000000000
+      internalID: -8356049746180235550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 519
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441c8323a539fbd00800000000000000
+      internalID: 990672458643718468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 514
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb46da00baffd570800000000000000
+      internalID: 8493783056247049166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 512
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baa7e5feb9b6e690800000000000000
+      internalID: -7573161493556385098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 514
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2b3f28a45c20d80800000000000000
+      internalID: -8285843440593030440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 439
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece04e34d240512d0800000000000000
+      internalID: -3308733758774702386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 445
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896443bbfce6bc100800000000000000
+      internalID: 129318852788242072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_29
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 445
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e9909bce7a2b340800000000000000
+      internalID: 4878145981554204284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 435
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d32f927d12e99d0800000000000000
+      internalID: -2765735913153479396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 423
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00c35bced7d6faf0800000000000000
+      internalID: -362865368062771188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 429
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e6f3b9c245e3070800000000000000
+      internalID: 8087994531363909169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_33
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 429
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7987fa9913157c4c0800000000000000
+      internalID: -4267352848436594537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_34
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 424
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b40823a28af9520800000000000000
+      internalID: 2711070399889689438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_35
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 423
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0236a1781eed210800000000000000
+      internalID: 1359772107892007109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_36
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 346
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e7d83bc864b1ce0800000000000000
+      internalID: -1433474486265610660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_37
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 351
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56543d1155fbc5a60800000000000000
+      internalID: 7664211037969925477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_38
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 346
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534a1e36afc179510800000000000000
+      internalID: 1555744058022929461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_39
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 327
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f4a4f340955b030800000000000000
+      internalID: 3509809359381745502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_40
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 331
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bd770c25bb66390800000000000000
+      internalID: -7825361338418865264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 337
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1597d50629aeee4f0800000000000000
+      internalID: -797442169595135663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_42
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 335
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33903378aef77ee70800000000000000
+      internalID: 9144418213666425139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_43
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 331
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8addb8a435343ab0800000000000000
+      internalID: -5029336383580415346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_44
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 327
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e033d6725b34e1570800000000000000
+      internalID: 8439257197068497678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_45
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 247
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8fecfc44ea0a4b0800000000000000
+      internalID: -5431149540041361236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_46
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 253
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d6f7eaaa9187500800000000000000
+      internalID: 394093188257639828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_47
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 253
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78e2d13526b7ba20800000000000000
+      internalID: 3078129141196974205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_48
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 243
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dc0aa9c44239710800000000000000
+      internalID: 1698741395879153012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_49
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe97a7b99b9732af0800000000000000
+      internalID: -422360101958288913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 237
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e113f24ce83ad40800000000000000
+      internalID: 5594472135380770390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_51
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 237
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e9a470694012320800000000000000
+      internalID: 2531309507972865624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_52
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 232
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df902178d8f828770800000000000000
+      internalID: 8611603275505076733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_53
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6299fe9489d693af0800000000000000
+      internalID: -416180989712164570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_54
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adfb548f81cc1a20800000000000000
+      internalID: 3034513071085976996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_55
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 139
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: face10c80de39fb40800000000000000
+      internalID: 5474475887468604591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_56
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 141
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca1af8ef6a014690800000000000000
+      internalID: -7619797618767816000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_57
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 139
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ef3c0421415e200800000000000000
+      internalID: 208595026371149405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_58
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 134
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8305eaccd794c00800000000000000
+      internalID: 885377119806306479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_59
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22126b12c90aa0ed0800000000000000
+      internalID: -2446966855081516766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_60
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 130
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87379104794695870800000000000000
+      internalID: 8672073158256849784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_61
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 128
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbed0a855863541e0800000000000000
+      internalID: -2214303695437242691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_62
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 130
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0f4703275943ab0800000000000000
+      internalID: -5029230566194220834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_63
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59ec187300211d10800000000000000
+      internalID: 2094490500976142686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336c802ec7809fb90800000000000000
+      internalID: -7207720396168575437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_65
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 36
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad3e21e58fc4a940800000000000000
+      internalID: 5306594434864790947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_66
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 30
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ace8670aa1ddbe0800000000000000
+      internalID: -1450974228457272817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_67
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 32
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf51efab10e3b960800000000000000
+      internalID: 7616677804333162429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_68
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c4e32e904d14ae0800000000000000
+      internalID: -1566738056432694216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_69
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 23
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeb4aee49feba190800000000000000
+      internalID: -7949997294254506263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_70
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 23
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b684d6504ba3dbc0800000000000000
+      internalID: -3759472971101206864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing-Shadow_71
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 27
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a790172fc2659000800000000000000
+      internalID: 42048413383038888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Swing-Shadow_0: 5244413424482125712
+      Swing-Shadow_1: 3815410398705126880
+      Swing-Shadow_10: 1775722673189432952
+      Swing-Shadow_11: -4580601608866066350
+      Swing-Shadow_12: -2743092585041277555
+      Swing-Shadow_13: -9071459628228799664
+      Swing-Shadow_14: -2153559390620279360
+      Swing-Shadow_15: 7757191118458493171
+      Swing-Shadow_16: 8664917529886990011
+      Swing-Shadow_17: 4121438636815827288
+      Swing-Shadow_18: 8530640925551578283
+      Swing-Shadow_19: 5361162774323778650
+      Swing-Shadow_2: 5027882657717476140
+      Swing-Shadow_20: -1621579072813030000
+      Swing-Shadow_21: 4643035088639036191
+      Swing-Shadow_22: -8356049746180235550
+      Swing-Shadow_23: 990672458643718468
+      Swing-Shadow_24: 8493783056247049166
+      Swing-Shadow_25: -7573161493556385098
+      Swing-Shadow_26: -8285843440593030440
+      Swing-Shadow_27: -3308733758774702386
+      Swing-Shadow_28: 129318852788242072
+      Swing-Shadow_29: 4878145981554204284
+      Swing-Shadow_3: 3265458599686470968
+      Swing-Shadow_30: -2765735913153479396
+      Swing-Shadow_31: -362865368062771188
+      Swing-Shadow_32: 8087994531363909169
+      Swing-Shadow_33: -4267352848436594537
+      Swing-Shadow_34: 2711070399889689438
+      Swing-Shadow_35: 1359772107892007109
+      Swing-Shadow_36: -1433474486265610660
+      Swing-Shadow_37: 7664211037969925477
+      Swing-Shadow_38: 1555744058022929461
+      Swing-Shadow_39: 3509809359381745502
+      Swing-Shadow_4: 2033770525909827451
+      Swing-Shadow_40: -7825361338418865264
+      Swing-Shadow_41: -797442169595135663
+      Swing-Shadow_42: 9144418213666425139
+      Swing-Shadow_43: -5029336383580415346
+      Swing-Shadow_44: 8439257197068497678
+      Swing-Shadow_45: -5431149540041361236
+      Swing-Shadow_46: 394093188257639828
+      Swing-Shadow_47: 3078129141196974205
+      Swing-Shadow_48: 1698741395879153012
+      Swing-Shadow_49: -422360101958288913
+      Swing-Shadow_5: 8702167283068678918
+      Swing-Shadow_50: 5594472135380770390
+      Swing-Shadow_51: 2531309507972865624
+      Swing-Shadow_52: 8611603275505076733
+      Swing-Shadow_53: -416180989712164570
+      Swing-Shadow_54: 3034513071085976996
+      Swing-Shadow_55: 5474475887468604591
+      Swing-Shadow_56: -7619797618767816000
+      Swing-Shadow_57: 208595026371149405
+      Swing-Shadow_58: 885377119806306479
+      Swing-Shadow_59: -2446966855081516766
+      Swing-Shadow_6: -8039503278585099384
+      Swing-Shadow_60: 8672073158256849784
+      Swing-Shadow_61: -2214303695437242691
+      Swing-Shadow_62: -5029230566194220834
+      Swing-Shadow_63: 2094490500976142686
+      Swing-Shadow_64: -7207720396168575437
+      Swing-Shadow_65: 5306594434864790947
+      Swing-Shadow_66: -1450974228457272817
+      Swing-Shadow_67: 7616677804333162429
+      Swing-Shadow_68: -1566738056432694216
+      Swing-Shadow_69: -7949997294254506263
+      Swing-Shadow_7: 6392634603341707542
+      Swing-Shadow_70: -3759472971101206864
+      Swing-Shadow_71: 42048413383038888
+      Swing-Shadow_8: 5540027700453999748
+      Swing-Shadow_9: 7176001930600837340
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

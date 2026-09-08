@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 2ec811ad4f3929844ba8d3d474cc77dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9054692188418681141
+    second: Pose-Shadow_0
+  - first:
+      213: 2679447045956701779
+    second: Pose-Shadow_1
+  - first:
+      213: -3373294615711116827
+    second: Pose-Shadow_2
+  - first:
+      213: -2844876118712687098
+    second: Pose-Shadow_3
+  - first:
+      213: -3185249899386466776
+    second: Pose-Shadow_4
+  - first:
+      213: 7308066292167311038
+    second: Pose-Shadow_5
+  - first:
+      213: -5343978546040777523
+    second: Pose-Shadow_6
+  - first:
+      213: 6686094397667017044
+    second: Pose-Shadow_7
+  - first:
+      213: -8861516628486564588
+    second: Pose-Shadow_8
+  - first:
+      213: 1718185363456768010
+    second: Pose-Shadow_9
+  - first:
+      213: 3835198484713810539
+    second: Pose-Shadow_10
+  - first:
+      213: -5389200470314899782
+    second: Pose-Shadow_11
+  - first:
+      213: 3362194524364351754
+    second: Pose-Shadow_12
+  - first:
+      213: -1068212747729126938
+    second: Pose-Shadow_13
+  - first:
+      213: -313447201339320910
+    second: Pose-Shadow_14
+  - first:
+      213: 453247647184889418
+    second: Pose-Shadow_15
+  - first:
+      213: -508311383317813539
+    second: Pose-Shadow_16
+  - first:
+      213: -129080942099755236
+    second: Pose-Shadow_17
+  - first:
+      213: 8271453095532387159
+    second: Pose-Shadow_18
+  - first:
+      213: -4439058484644287335
+    second: Pose-Shadow_19
+  - first:
+      213: -7618891914836700318
+    second: Pose-Shadow_20
+  - first:
+      213: -1929639215752810923
+    second: Pose-Shadow_21
+  - first:
+      213: -6602643097821503850
+    second: Pose-Shadow_22
+  - first:
+      213: 7862895317050348030
+    second: Pose-Shadow_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pose-Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5392331529ab8ad70800000000000000
+      internalID: 9054692188418681141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e08b854ee4f2520800000000000000
+      internalID: 2679447045956701779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e11dc36b66af21d0800000000000000
+      internalID: -3373294615711116827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606632a2e38f488d0800000000000000
+      internalID: -2844876118712687098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e883ab718bbc3d0800000000000000
+      internalID: -3185249899386466776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe73aba2977b6560800000000000000
+      internalID: 7308066292167311038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc45ee373df56d5b0800000000000000
+      internalID: -5343978546040777523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4510ca32e67c9cc50800000000000000
+      internalID: 6686094397667017044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41557d3a391950580800000000000000
+      internalID: -8861516628486564588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08bd171c7838d710800000000000000
+      internalID: 1718185363456768010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6aab7cb3bc593530800000000000000
+      internalID: 3835198484713810539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab62387b9b6b535b0800000000000000
+      internalID: -5389200470314899782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0920823b1ae8ae20800000000000000
+      internalID: 3362194524364351754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9bf036a22fc21f0800000000000000
+      internalID: -1068212747729126938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5545c5e6966abf0800000000000000
+      internalID: -313447201339320910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46acbd65524a4600800000000000000
+      internalID: 453247647184889418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6ed027d7d12f8f0800000000000000
+      internalID: -508311383317813539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f0fda2199653ef0800000000000000
+      internalID: -129080942099755236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b538f24ca1ac270800000000000000
+      internalID: 8271453095532387159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ce79dc3db4562c0800000000000000
+      internalID: -4439058484644287335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263101a8b22444690800000000000000
+      internalID: -7618891914836700318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ee3606b5b8835e0800000000000000
+      internalID: -1929639215752810923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e1aa7b513be54a0800000000000000
+      internalID: -6602643097821503850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef15ed6a1ad9e1d60800000000000000
+      internalID: 7862895317050348030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pose-Shadow_0: 9054692188418681141
+      Pose-Shadow_1: 2679447045956701779
+      Pose-Shadow_10: 3835198484713810539
+      Pose-Shadow_11: -5389200470314899782
+      Pose-Shadow_12: 3362194524364351754
+      Pose-Shadow_13: -1068212747729126938
+      Pose-Shadow_14: -313447201339320910
+      Pose-Shadow_15: 453247647184889418
+      Pose-Shadow_16: -508311383317813539
+      Pose-Shadow_17: -129080942099755236
+      Pose-Shadow_18: 8271453095532387159
+      Pose-Shadow_19: -4439058484644287335
+      Pose-Shadow_2: -3373294615711116827
+      Pose-Shadow_20: -7618891914836700318
+      Pose-Shadow_21: -1929639215752810923
+      Pose-Shadow_22: -6602643097821503850
+      Pose-Shadow_23: 7862895317050348030
+      Pose-Shadow_3: -2844876118712687098
+      Pose-Shadow_4: -3185249899386466776
+      Pose-Shadow_5: 7308066292167311038
+      Pose-Shadow_6: -5343978546040777523
+      Pose-Shadow_7: 6686094397667017044
+      Pose-Shadow_8: -8861516628486564588
+      Pose-Shadow_9: 1718185363456768010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

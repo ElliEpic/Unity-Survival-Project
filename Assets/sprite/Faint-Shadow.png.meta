@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 0304eb52b47b4104b9efb56fe54a7ab3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -765757672162360376
+    second: Faint-Shadow_0
+  - first:
+      213: -5170964790467335186
+    second: Faint-Shadow_1
+  - first:
+      213: -1413196996559228603
+    second: Faint-Shadow_2
+  - first:
+      213: -1178625569024276004
+    second: Faint-Shadow_3
+  - first:
+      213: 8027128680830703513
+    second: Faint-Shadow_4
+  - first:
+      213: 3791585874320823707
+    second: Faint-Shadow_5
+  - first:
+      213: 7136208581911165417
+    second: Faint-Shadow_6
+  - first:
+      213: -251140462794365889
+    second: Faint-Shadow_7
+  - first:
+      213: -6586860390704516781
+    second: Faint-Shadow_8
+  - first:
+      213: 7306176726556725559
+    second: Faint-Shadow_9
+  - first:
+      213: 9033910728643811160
+    second: Faint-Shadow_10
+  - first:
+      213: 2461701277454065663
+    second: Faint-Shadow_11
+  - first:
+      213: -1872530309012963494
+    second: Faint-Shadow_12
+  - first:
+      213: 6563417691316875554
+    second: Faint-Shadow_13
+  - first:
+      213: 5522969749439690261
+    second: Faint-Shadow_14
+  - first:
+      213: -5468284624991541140
+    second: Faint-Shadow_15
+  - first:
+      213: -7607413515909327829
+    second: Faint-Shadow_16
+  - first:
+      213: -5474871848494920660
+    second: Faint-Shadow_17
+  - first:
+      213: -160041205121860872
+    second: Faint-Shadow_18
+  - first:
+      213: 7347109033402384702
+    second: Faint-Shadow_19
+  - first:
+      213: 5112499864034341224
+    second: Faint-Shadow_20
+  - first:
+      213: -4303505680631567117
+    second: Faint-Shadow_21
+  - first:
+      213: 2773255209343214860
+    second: Faint-Shadow_22
+  - first:
+      213: 1664781103814198870
+    second: Faint-Shadow_23
+  - first:
+      213: -4458698479865525443
+    second: Faint-Shadow_24
+  - first:
+      213: -285052437143524933
+    second: Faint-Shadow_25
+  - first:
+      213: 1077442950955755967
+    second: Faint-Shadow_26
+  - first:
+      213: 881608851703267346
+    second: Faint-Shadow_27
+  - first:
+      213: 7212282412585243890
+    second: Faint-Shadow_28
+  - first:
+      213: 8228360681809090751
+    second: Faint-Shadow_29
+  - first:
+      213: 2189373678700052624
+    second: Faint-Shadow_30
+  - first:
+      213: 7786410168176532212
+    second: Faint-Shadow_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Faint-Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c38bbe447b7f55f0800000000000000
+      internalID: -765757672162360376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb64268bea0d38b0800000000000000
+      internalID: -5170964790467335186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541307ea1d0536ce0800000000000000
+      internalID: -1413196996559228603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd98d132a4ea4afe0800000000000000
+      internalID: -1178625569024276004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99793437107166f60800000000000000
+      internalID: 8027128680830703513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b951846934b6e9430800000000000000
+      internalID: 3791585874320823707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9b8ef55e7e80360800000000000000
+      internalID: 7136208581911165417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f342a666415c38cf0800000000000000
+      internalID: -251140462794365889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35177f29f55c694a0800000000000000
+      internalID: -6586860390704516781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731d3a4e501c46560800000000000000
+      internalID: 7306176726556725559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8579769a1f5ee5d70800000000000000
+      internalID: 9033910728643811160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff56c9e448b92220800000000000000
+      internalID: 2461701277454065663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f3124ea9f6306e0800000000000000
+      internalID: -1872530309012963494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221f473ad91f51b50800000000000000
+      internalID: 6563417691316875554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516b494a9b785ac40800000000000000
+      internalID: 5522969749439690261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6826a41b10cc14b0800000000000000
+      internalID: -5468284624991541140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2418bc86b90d6690800000000000000
+      internalID: -7607413515909327829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c8ca79f095504b0800000000000000
+      internalID: -5474871848494920660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa39433f5b67cdf0800000000000000
+      internalID: -160041205121860872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31430e3dbc26f560800000000000000
+      internalID: 7347109033402384702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861fff50a8f33f640800000000000000
+      internalID: 5112499864034341224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc64196260e644c0800000000000000
+      internalID: -4303505680631567117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0567686be49c7620800000000000000
+      internalID: 2773255209343214860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656c0a1f79d7a1710800000000000000
+      internalID: 1664781103814198870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b8a031b558f12c0800000000000000
+      internalID: -4458698479865525443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb963b5915a4b0cf0800000000000000
+      internalID: -285052437143524933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb96775c7a8d3fe00800000000000000
+      internalID: 1077442950955755967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2100d94649a1c3c00800000000000000
+      internalID: 881608851703267346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4d0f554ac271460800000000000000
+      internalID: 7212282412585243890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb89503c172013270800000000000000
+      internalID: 8228360681809090751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090c18fc2c7326e10800000000000000
+      internalID: 2189373678700052624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint-Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fad6a53bc2ee0c60800000000000000
+      internalID: 7786410168176532212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Faint-Shadow_0: -765757672162360376
+      Faint-Shadow_1: -5170964790467335186
+      Faint-Shadow_10: 9033910728643811160
+      Faint-Shadow_11: 2461701277454065663
+      Faint-Shadow_12: -1872530309012963494
+      Faint-Shadow_13: 6563417691316875554
+      Faint-Shadow_14: 5522969749439690261
+      Faint-Shadow_15: -5468284624991541140
+      Faint-Shadow_16: -7607413515909327829
+      Faint-Shadow_17: -5474871848494920660
+      Faint-Shadow_18: -160041205121860872
+      Faint-Shadow_19: 7347109033402384702
+      Faint-Shadow_2: -1413196996559228603
+      Faint-Shadow_20: 5112499864034341224
+      Faint-Shadow_21: -4303505680631567117
+      Faint-Shadow_22: 2773255209343214860
+      Faint-Shadow_23: 1664781103814198870
+      Faint-Shadow_24: -4458698479865525443
+      Faint-Shadow_25: -285052437143524933
+      Faint-Shadow_26: 1077442950955755967
+      Faint-Shadow_27: 881608851703267346
+      Faint-Shadow_28: 7212282412585243890
+      Faint-Shadow_29: 8228360681809090751
+      Faint-Shadow_3: -1178625569024276004
+      Faint-Shadow_30: 2189373678700052624
+      Faint-Shadow_31: 7786410168176532212
+      Faint-Shadow_4: 8027128680830703513
+      Faint-Shadow_5: 3791585874320823707
+      Faint-Shadow_6: 7136208581911165417
+      Faint-Shadow_7: -251140462794365889
+      Faint-Shadow_8: -6586860390704516781
+      Faint-Shadow_9: 7306176726556725559
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
