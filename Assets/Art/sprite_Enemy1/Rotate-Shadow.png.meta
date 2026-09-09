@@ -1,0 +1,1991 @@
+fileFormatVersion: 2
+guid: 555a4a48d5e454409bc227a1104f6aa6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8682207012018076039
+    second: Rotate-Shadow_0
+  - first:
+      213: -6110380345700980820
+    second: Rotate-Shadow_1
+  - first:
+      213: 6732131918707115960
+    second: Rotate-Shadow_2
+  - first:
+      213: -5301996223751523635
+    second: Rotate-Shadow_3
+  - first:
+      213: 3331347367679369741
+    second: Rotate-Shadow_4
+  - first:
+      213: 5995147534289650180
+    second: Rotate-Shadow_5
+  - first:
+      213: 7382509182522272538
+    second: Rotate-Shadow_6
+  - first:
+      213: -7293778555109267682
+    second: Rotate-Shadow_7
+  - first:
+      213: 3773863968342673144
+    second: Rotate-Shadow_8
+  - first:
+      213: 7315018694056498996
+    second: Rotate-Shadow_9
+  - first:
+      213: 218398206250136762
+    second: Rotate-Shadow_10
+  - first:
+      213: -8196374349350253342
+    second: Rotate-Shadow_11
+  - first:
+      213: 3960920790214358158
+    second: Rotate-Shadow_12
+  - first:
+      213: -4040918556235971463
+    second: Rotate-Shadow_13
+  - first:
+      213: -5001050095033237230
+    second: Rotate-Shadow_14
+  - first:
+      213: 2601217164175470753
+    second: Rotate-Shadow_15
+  - first:
+      213: -936632278924482510
+    second: Rotate-Shadow_16
+  - first:
+      213: -335750036188481044
+    second: Rotate-Shadow_17
+  - first:
+      213: 2011823006554028992
+    second: Rotate-Shadow_18
+  - first:
+      213: -6614748153999408877
+    second: Rotate-Shadow_19
+  - first:
+      213: 784834425570640098
+    second: Rotate-Shadow_20
+  - first:
+      213: -8044073806662141410
+    second: Rotate-Shadow_21
+  - first:
+      213: 3256978052454786739
+    second: Rotate-Shadow_22
+  - first:
+      213: 6959981456999214131
+    second: Rotate-Shadow_23
+  - first:
+      213: 4460581856643322801
+    second: Rotate-Shadow_24
+  - first:
+      213: -1622562556436346672
+    second: Rotate-Shadow_25
+  - first:
+      213: 1886335033858849105
+    second: Rotate-Shadow_26
+  - first:
+      213: -4186401856913709555
+    second: Rotate-Shadow_27
+  - first:
+      213: 739112324179089349
+    second: Rotate-Shadow_28
+  - first:
+      213: 7668476439238617986
+    second: Rotate-Shadow_29
+  - first:
+      213: -4640742174445607410
+    second: Rotate-Shadow_30
+  - first:
+      213: -6131037237946021142
+    second: Rotate-Shadow_31
+  - first:
+      213: 7586731589324208974
+    second: Rotate-Shadow_32
+  - first:
+      213: -8420855691400830700
+    second: Rotate-Shadow_33
+  - first:
+      213: -1192511271615920552
+    second: Rotate-Shadow_34
+  - first:
+      213: -364169301118823768
+    second: Rotate-Shadow_35
+  - first:
+      213: 7347242373010765215
+    second: Rotate-Shadow_36
+  - first:
+      213: -1832865508552124355
+    second: Rotate-Shadow_37
+  - first:
+      213: 4923816387972921453
+    second: Rotate-Shadow_38
+  - first:
+      213: 2366747363290581137
+    second: Rotate-Shadow_39
+  - first:
+      213: -8534063654895479409
+    second: Rotate-Shadow_40
+  - first:
+      213: -3331955964784402172
+    second: Rotate-Shadow_41
+  - first:
+      213: -490814824495870836
+    second: Rotate-Shadow_42
+  - first:
+      213: 9025265865044210803
+    second: Rotate-Shadow_43
+  - first:
+      213: -3107296469761817816
+    second: Rotate-Shadow_44
+  - first:
+      213: 1323905393945948009
+    second: Rotate-Shadow_45
+  - first:
+      213: 8601108066381824059
+    second: Rotate-Shadow_46
+  - first:
+      213: -1994048240180502467
+    second: Rotate-Shadow_47
+  - first:
+      213: -5914684040206438706
+    second: Rotate-Shadow_48
+  - first:
+      213: -8098067481417624588
+    second: Rotate-Shadow_49
+  - first:
+      213: -7943471671445031741
+    second: Rotate-Shadow_50
+  - first:
+      213: -8143272923264682787
+    second: Rotate-Shadow_51
+  - first:
+      213: -8051952923901576182
+    second: Rotate-Shadow_52
+  - first:
+      213: -681251605433292971
+    second: Rotate-Shadow_53
+  - first:
+      213: -8492214312639747918
+    second: Rotate-Shadow_54
+  - first:
+      213: -1694517639636028253
+    second: Rotate-Shadow_55
+  - first:
+      213: 8343540157614000631
+    second: Rotate-Shadow_56
+  - first:
+      213: -1222099205897515980
+    second: Rotate-Shadow_57
+  - first:
+      213: 3818568065306929636
+    second: Rotate-Shadow_58
+  - first:
+      213: 7402259141950550667
+    second: Rotate-Shadow_59
+  - first:
+      213: 795997750190297734
+    second: Rotate-Shadow_60
+  - first:
+      213: 9195765044768212949
+    second: Rotate-Shadow_61
+  - first:
+      213: -5469010403979375225
+    second: Rotate-Shadow_62
+  - first:
+      213: -3089030803253588264
+    second: Rotate-Shadow_63
+  - first:
+      213: 1633968694738951328
+    second: Rotate-Shadow_64
+  - first:
+      213: 1310981347196538637
+    second: Rotate-Shadow_65
+  - first:
+      213: 9053258296439277827
+    second: Rotate-Shadow_66
+  - first:
+      213: 6048300436884242349
+    second: Rotate-Shadow_67
+  - first:
+      213: -8702450416476030052
+    second: Rotate-Shadow_68
+  - first:
+      213: -7797428132154484028
+    second: Rotate-Shadow_69
+  - first:
+      213: -3507236997885801805
+    second: Rotate-Shadow_70
+  - first:
+      213: -3833682575904730332
+    second: Rotate-Shadow_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rotate-Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 351
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7893eb1f6456d7870800000000000000
+      internalID: 8682207012018076039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 351
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7e6f32371933ba0800000000000000
+      internalID: -6110380345700980820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 351
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b74b9bcf465d6d50800000000000000
+      internalID: 6732131918707115960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 351
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2f3d296868b66b0800000000000000
+      internalID: -5301996223751523635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 351
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0226f9d7c25b3e20800000000000000
+      internalID: 3331347367679369741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 351
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402c4653bea033350800000000000000
+      internalID: 5995147534289650180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 351
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bac4fbcf0f37660800000000000000
+      internalID: 7382509182522272538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 351
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17a9585c0b47ca90800000000000000
+      internalID: -7293778555109267682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 351
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f606bfc8457f5430800000000000000
+      internalID: 3773863968342673144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 303
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4375490eeba248560800000000000000
+      internalID: 7315018694056498996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 303
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab43f1fe208e70300800000000000000
+      internalID: 218398206250136762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 303
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eccadc94f0a04e80800000000000000
+      internalID: -8196374349350253342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 303
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84bf2c097408f630800000000000000
+      internalID: 3960920790214358158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 303
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97445499bf5cbe7c0800000000000000
+      internalID: -4040918556235971463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 303
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2114c9d6f63b89ab0800000000000000
+      internalID: -5001050095033237230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 303
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0f35e9a31691420800000000000000
+      internalID: 2601217164175470753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 303
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238aa81a7e96003f0800000000000000
+      internalID: -936632278924482510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 303
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce939a7fe1d275bf0800000000000000
+      internalID: -335750036188481044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 255
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb7c988d5e6beb10800000000000000
+      internalID: 2011823006554028992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 255
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311c132b991b334a0800000000000000
+      internalID: -6614748153999408877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 255
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0c2a770ca44ea00800000000000000
+      internalID: 784834425570640098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 255
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1af0eefd75bd5090800000000000000
+      internalID: -8044073806662141410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 255
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6afc1584c133d20800000000000000
+      internalID: 3256978052454786739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 255
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c6eb37242d69060800000000000000
+      internalID: 6959981456999214131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 255
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b317c0c09b27ed30800000000000000
+      internalID: 4460581856643322801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 255
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d803cd93ff7b79e0800000000000000
+      internalID: -1622562556436346672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 255
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159f78418bb9d2a10800000000000000
+      internalID: 1886335033858849105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 207
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d066f9f01b9e6e5c0800000000000000
+      internalID: -4186401856913709555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 207
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7decb2ebad14a00800000000000000
+      internalID: 739112324179089349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 207
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b254131b6eb6a60800000000000000
+      internalID: 7668476439238617986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 207
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06eefd7495c89fb0800000000000000
+      internalID: -4640742174445607410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 207
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea098f9d1e2aeaa0800000000000000
+      internalID: -6131037237946021142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 207
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b77eb2f2c794960800000000000000
+      internalID: 7586731589324208974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 207
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4112a314d5c132b80800000000000000
+      internalID: -8420855691400830700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_34
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 207
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8560fa01159537fe0800000000000000
+      internalID: -1192511271615920552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_35
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 207
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2d5b833f532faf0800000000000000
+      internalID: -364169301118823768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 159
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95310ac206a6f560800000000000000
+      internalID: 7347242373010765215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 159
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d385fa9e78a5096e0800000000000000
+      internalID: -1832865508552124355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 159
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d687f58dae8e45440800000000000000
+      internalID: 4923816387972921453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 159
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1980706ff2068d020800000000000000
+      internalID: 2366747363290581137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 159
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85126f325ae09980800000000000000
+      internalID: -8534063654895479409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 159
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40128c714b382c1d0800000000000000
+      internalID: -3331955964784402172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 159
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c8d6f74864039f0800000000000000
+      internalID: -490814824495870836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 159
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3743b618c7f204d70800000000000000
+      internalID: 9025265865044210803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 159
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823850ce25aa0e4d0800000000000000
+      internalID: -3107296469761817816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 111
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f2f5201f47f5210800000000000000
+      internalID: 1323905393945948009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 111
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b308f6b37364d5770800000000000000
+      internalID: 8601108066381824059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_47
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 111
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d306c03c0b7b354e0800000000000000
+      internalID: -1994048240180502467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_48
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 111
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecea2d8e332daeda0800000000000000
+      internalID: -5914684040206438706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_49
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 111
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3d5f2f782ed9f80800000000000000
+      internalID: -8098067481417624588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 111
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4f324e99e13c190800000000000000
+      internalID: -7943471671445031741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_51
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 111
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd470c3db684dfe80800000000000000
+      internalID: -8143272923264682787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_52
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 111
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cbdae0a77b14090800000000000000
+      internalID: -8051952923901576182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 111
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557eb773645bb86f0800000000000000
+      internalID: -681251605433292971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 63
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8ae9a8318952a80800000000000000
+      internalID: -8492214312639747918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_55
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 63
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a47cd74f2ddb78e0800000000000000
+      internalID: -1694517639636028253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 63
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f90acf31953ac370800000000000000
+      internalID: 8343540157614000631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 63
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c01384f3b3a0fe0800000000000000
+      internalID: -1222099205897515980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 63
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9254b7c674ef430800000000000000
+      internalID: 3818568065306929636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 63
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82b953887b1ab660800000000000000
+      internalID: 7402259141950550667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_60
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 63
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6825a168cb3fb0b00800000000000000
+      internalID: 795997750190297734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_61
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 63
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d70d53469bed9f70800000000000000
+      internalID: 9195765044768212949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_62
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 63
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dc4ed730c2a14b0800000000000000
+      internalID: -5469010403979375225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 15
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de84dfc9de8125d0800000000000000
+      internalID: -3089030803253588264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_64
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 15
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac1608eed50da610800000000000000
+      internalID: 1633968694738951328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_65
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 15
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f00d2e69a813210800000000000000
+      internalID: 1310981347196538637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 15
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3090f135472a3ad70800000000000000
+      internalID: 9053258296439277827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_67
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 15
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf335bb331efe350800000000000000
+      internalID: 6048300436884242349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_68
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 15
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bfe7a247faa3780800000000000000
+      internalID: -8702450416476030052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_69
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 15
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca5b452d68f9c390800000000000000
+      internalID: -7797428132154484028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_70
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 15
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bac8e5588ac35fc0800000000000000
+      internalID: -3507236997885801805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotate-Shadow_71
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 15
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423189942060ccac0800000000000000
+      internalID: -3833682575904730332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rotate-Shadow_0: 8682207012018076039
+      Rotate-Shadow_1: -6110380345700980820
+      Rotate-Shadow_10: 218398206250136762
+      Rotate-Shadow_11: -8196374349350253342
+      Rotate-Shadow_12: 3960920790214358158
+      Rotate-Shadow_13: -4040918556235971463
+      Rotate-Shadow_14: -5001050095033237230
+      Rotate-Shadow_15: 2601217164175470753
+      Rotate-Shadow_16: -936632278924482510
+      Rotate-Shadow_17: -335750036188481044
+      Rotate-Shadow_18: 2011823006554028992
+      Rotate-Shadow_19: -6614748153999408877
+      Rotate-Shadow_2: 6732131918707115960
+      Rotate-Shadow_20: 784834425570640098
+      Rotate-Shadow_21: -8044073806662141410
+      Rotate-Shadow_22: 3256978052454786739
+      Rotate-Shadow_23: 6959981456999214131
+      Rotate-Shadow_24: 4460581856643322801
+      Rotate-Shadow_25: -1622562556436346672
+      Rotate-Shadow_26: 1886335033858849105
+      Rotate-Shadow_27: -4186401856913709555
+      Rotate-Shadow_28: 739112324179089349
+      Rotate-Shadow_29: 7668476439238617986
+      Rotate-Shadow_3: -5301996223751523635
+      Rotate-Shadow_30: -4640742174445607410
+      Rotate-Shadow_31: -6131037237946021142
+      Rotate-Shadow_32: 7586731589324208974
+      Rotate-Shadow_33: -8420855691400830700
+      Rotate-Shadow_34: -1192511271615920552
+      Rotate-Shadow_35: -364169301118823768
+      Rotate-Shadow_36: 7347242373010765215
+      Rotate-Shadow_37: -1832865508552124355
+      Rotate-Shadow_38: 4923816387972921453
+      Rotate-Shadow_39: 2366747363290581137
+      Rotate-Shadow_4: 3331347367679369741
+      Rotate-Shadow_40: -8534063654895479409
+      Rotate-Shadow_41: -3331955964784402172
+      Rotate-Shadow_42: -490814824495870836
+      Rotate-Shadow_43: 9025265865044210803
+      Rotate-Shadow_44: -3107296469761817816
+      Rotate-Shadow_45: 1323905393945948009
+      Rotate-Shadow_46: 8601108066381824059
+      Rotate-Shadow_47: -1994048240180502467
+      Rotate-Shadow_48: -5914684040206438706
+      Rotate-Shadow_49: -8098067481417624588
+      Rotate-Shadow_5: 5995147534289650180
+      Rotate-Shadow_50: -7943471671445031741
+      Rotate-Shadow_51: -8143272923264682787
+      Rotate-Shadow_52: -8051952923901576182
+      Rotate-Shadow_53: -681251605433292971
+      Rotate-Shadow_54: -8492214312639747918
+      Rotate-Shadow_55: -1694517639636028253
+      Rotate-Shadow_56: 8343540157614000631
+      Rotate-Shadow_57: -1222099205897515980
+      Rotate-Shadow_58: 3818568065306929636
+      Rotate-Shadow_59: 7402259141950550667
+      Rotate-Shadow_6: 7382509182522272538
+      Rotate-Shadow_60: 795997750190297734
+      Rotate-Shadow_61: 9195765044768212949
+      Rotate-Shadow_62: -5469010403979375225
+      Rotate-Shadow_63: -3089030803253588264
+      Rotate-Shadow_64: 1633968694738951328
+      Rotate-Shadow_65: 1310981347196538637
+      Rotate-Shadow_66: 9053258296439277827
+      Rotate-Shadow_67: 6048300436884242349
+      Rotate-Shadow_68: -8702450416476030052
+      Rotate-Shadow_69: -7797428132154484028
+      Rotate-Shadow_7: -7293778555109267682
+      Rotate-Shadow_70: -3507236997885801805
+      Rotate-Shadow_71: -3833682575904730332
+      Rotate-Shadow_8: 3773863968342673144
+      Rotate-Shadow_9: 7315018694056498996
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

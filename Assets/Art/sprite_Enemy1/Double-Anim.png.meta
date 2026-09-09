@@ -1,0 +1,3447 @@
+fileFormatVersion: 2
+guid: 306029e6684fe40f2a68c14e6e0075bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6850676390618260495
+    second: Double-Anim_0
+  - first:
+      213: -8241745986295295495
+    second: Double-Anim_1
+  - first:
+      213: 6930859784818753554
+    second: Double-Anim_2
+  - first:
+      213: 2099839394754086738
+    second: Double-Anim_3
+  - first:
+      213: 5567992148323728830
+    second: Double-Anim_4
+  - first:
+      213: -565967871840215295
+    second: Double-Anim_5
+  - first:
+      213: 926518650284334400
+    second: Double-Anim_6
+  - first:
+      213: 4036479809555595572
+    second: Double-Anim_7
+  - first:
+      213: -2825504251631468340
+    second: Double-Anim_8
+  - first:
+      213: 1441772718498667870
+    second: Double-Anim_9
+  - first:
+      213: 4689565493159020291
+    second: Double-Anim_10
+  - first:
+      213: 3322262884425390871
+    second: Double-Anim_11
+  - first:
+      213: -6883974182700604573
+    second: Double-Anim_12
+  - first:
+      213: -8624883683053583336
+    second: Double-Anim_13
+  - first:
+      213: 1147627594774968197
+    second: Double-Anim_14
+  - first:
+      213: -3423574756305252363
+    second: Double-Anim_15
+  - first:
+      213: -4798591499120344198
+    second: Double-Anim_16
+  - first:
+      213: -8279993528070189459
+    second: Double-Anim_17
+  - first:
+      213: -6577159092378831256
+    second: Double-Anim_18
+  - first:
+      213: -8103414868354431392
+    second: Double-Anim_19
+  - first:
+      213: -4612670853913259040
+    second: Double-Anim_20
+  - first:
+      213: 1947561751819963721
+    second: Double-Anim_21
+  - first:
+      213: -2653730599223502460
+    second: Double-Anim_22
+  - first:
+      213: -4321967146075554852
+    second: Double-Anim_23
+  - first:
+      213: 2137101316511868759
+    second: Double-Anim_24
+  - first:
+      213: 4650212509551898308
+    second: Double-Anim_25
+  - first:
+      213: -7269293996067531355
+    second: Double-Anim_26
+  - first:
+      213: 1147988526310821808
+    second: Double-Anim_27
+  - first:
+      213: -149532921231409202
+    second: Double-Anim_28
+  - first:
+      213: 9200187138403416360
+    second: Double-Anim_29
+  - first:
+      213: -6420895308201462465
+    second: Double-Anim_30
+  - first:
+      213: -3241317293187784318
+    second: Double-Anim_31
+  - first:
+      213: -2984498507708586453
+    second: Double-Anim_32
+  - first:
+      213: -5989967272411187226
+    second: Double-Anim_33
+  - first:
+      213: 2301513187415567308
+    second: Double-Anim_34
+  - first:
+      213: -4377205105386431985
+    second: Double-Anim_35
+  - first:
+      213: 7355421625164137416
+    second: Double-Anim_36
+  - first:
+      213: -3029694155716322570
+    second: Double-Anim_37
+  - first:
+      213: -7445395617790849718
+    second: Double-Anim_38
+  - first:
+      213: 9117822348056272259
+    second: Double-Anim_39
+  - first:
+      213: -8987761230450526600
+    second: Double-Anim_40
+  - first:
+      213: -6450718403131187059
+    second: Double-Anim_41
+  - first:
+      213: -2540764526623255830
+    second: Double-Anim_42
+  - first:
+      213: -1713935353711391079
+    second: Double-Anim_43
+  - first:
+      213: 8559986768263181227
+    second: Double-Anim_44
+  - first:
+      213: 1806081408940787129
+    second: Double-Anim_45
+  - first:
+      213: 8930696383189137474
+    second: Double-Anim_46
+  - first:
+      213: 8082618210158374507
+    second: Double-Anim_47
+  - first:
+      213: -5040958076769882624
+    second: Double-Anim_48
+  - first:
+      213: 5627697555991269310
+    second: Double-Anim_49
+  - first:
+      213: -5572057935809076911
+    second: Double-Anim_50
+  - first:
+      213: -7104808179723207879
+    second: Double-Anim_51
+  - first:
+      213: -7823540238474093883
+    second: Double-Anim_52
+  - first:
+      213: 4476482006492069413
+    second: Double-Anim_53
+  - first:
+      213: -2259995403880715285
+    second: Double-Anim_54
+  - first:
+      213: -8068879180535655812
+    second: Double-Anim_55
+  - first:
+      213: 4191803657536556849
+    second: Double-Anim_56
+  - first:
+      213: -1242767350494555819
+    second: Double-Anim_57
+  - first:
+      213: -7154720152457052898
+    second: Double-Anim_58
+  - first:
+      213: 1841335019508189152
+    second: Double-Anim_59
+  - first:
+      213: 6985149785564147465
+    second: Double-Anim_60
+  - first:
+      213: -5391384774030552696
+    second: Double-Anim_61
+  - first:
+      213: -7263651759865256208
+    second: Double-Anim_62
+  - first:
+      213: 2382669215172351975
+    second: Double-Anim_63
+  - first:
+      213: 592371142969769970
+    second: Double-Anim_64
+  - first:
+      213: 4726817075882534703
+    second: Double-Anim_65
+  - first:
+      213: -6342479303404899485
+    second: Double-Anim_66
+  - first:
+      213: 6332257959525423412
+    second: Double-Anim_67
+  - first:
+      213: -2148859463126735124
+    second: Double-Anim_68
+  - first:
+      213: -4472990576753188792
+    second: Double-Anim_69
+  - first:
+      213: -8489667125850029114
+    second: Double-Anim_70
+  - first:
+      213: 3496429891429879460
+    second: Double-Anim_71
+  - first:
+      213: 235655791761570121
+    second: Double-Anim_72
+  - first:
+      213: -5282204853438634857
+    second: Double-Anim_73
+  - first:
+      213: -1203433633577759429
+    second: Double-Anim_74
+  - first:
+      213: 2975266685734443537
+    second: Double-Anim_75
+  - first:
+      213: 3503292207118907397
+    second: Double-Anim_76
+  - first:
+      213: -7989230119381259480
+    second: Double-Anim_77
+  - first:
+      213: 828972357389199791
+    second: Double-Anim_78
+  - first:
+      213: -7854929070217982489
+    second: Double-Anim_79
+  - first:
+      213: -5094261594698700610
+    second: Double-Anim_80
+  - first:
+      213: -9222689927410502393
+    second: Double-Anim_81
+  - first:
+      213: 2891692398335283626
+    second: Double-Anim_82
+  - first:
+      213: -3537330311144214315
+    second: Double-Anim_83
+  - first:
+      213: 2642750766552889535
+    second: Double-Anim_84
+  - first:
+      213: -2292010063943460325
+    second: Double-Anim_85
+  - first:
+      213: 4290469350684456694
+    second: Double-Anim_86
+  - first:
+      213: -1644544317952507080
+    second: Double-Anim_87
+  - first:
+      213: 2123694375175606513
+    second: Double-Anim_88
+  - first:
+      213: 8372614491543115073
+    second: Double-Anim_89
+  - first:
+      213: -1753866684989844792
+    second: Double-Anim_90
+  - first:
+      213: 1484545166210690025
+    second: Double-Anim_91
+  - first:
+      213: 3429996798195959637
+    second: Double-Anim_92
+  - first:
+      213: 8163301351348593768
+    second: Double-Anim_93
+  - first:
+      213: -3217682203352469529
+    second: Double-Anim_94
+  - first:
+      213: -3670930366681441332
+    second: Double-Anim_95
+  - first:
+      213: -5265431670797410938
+    second: Double-Anim_96
+  - first:
+      213: 1520962822714135864
+    second: Double-Anim_97
+  - first:
+      213: 769367910568681912
+    second: Double-Anim_98
+  - first:
+      213: 7533849861558582068
+    second: Double-Anim_99
+  - first:
+      213: -7218732047577130154
+    second: Double-Anim_100
+  - first:
+      213: -6074922697531233956
+    second: Double-Anim_101
+  - first:
+      213: 3865396948932956813
+    second: Double-Anim_102
+  - first:
+      213: -3964889418114474674
+    second: Double-Anim_103
+  - first:
+      213: -4961223328418395099
+    second: Double-Anim_104
+  - first:
+      213: 5182337735207984846
+    second: Double-Anim_105
+  - first:
+      213: -2810911015485384297
+    second: Double-Anim_106
+  - first:
+      213: -3451471862629278846
+    second: Double-Anim_107
+  - first:
+      213: 5761658377200271192
+    second: Double-Anim_108
+  - first:
+      213: 8253721232737098179
+    second: Double-Anim_109
+  - first:
+      213: -6722127027472578939
+    second: Double-Anim_110
+  - first:
+      213: 6097133776195938507
+    second: Double-Anim_111
+  - first:
+      213: -5891270639553228302
+    second: Double-Anim_112
+  - first:
+      213: 5817934299264822404
+    second: Double-Anim_113
+  - first:
+      213: -473276294684547382
+    second: Double-Anim_114
+  - first:
+      213: 6624033302807550439
+    second: Double-Anim_115
+  - first:
+      213: -2259333420638321160
+    second: Double-Anim_116
+  - first:
+      213: -4522003138185955627
+    second: Double-Anim_117
+  - first:
+      213: 1293680337719910924
+    second: Double-Anim_118
+  - first:
+      213: 3429577490252755525
+    second: Double-Anim_119
+  - first:
+      213: 7795578555068388624
+    second: Double-Anim_120
+  - first:
+      213: 6429874900611996197
+    second: Double-Anim_121
+  - first:
+      213: 8387009450216961198
+    second: Double-Anim_122
+  - first:
+      213: -6474723158805325399
+    second: Double-Anim_123
+  - first:
+      213: -3924437957531929682
+    second: Double-Anim_124
+  - first:
+      213: -3604281769835452527
+    second: Double-Anim_125
+  - first:
+      213: -8240460383719603172
+    second: Double-Anim_126
+  - first:
+      213: 6477192772730597446
+    second: Double-Anim_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Double-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04e4fd71ed721f50800000000000000
+      internalID: 6850676390618260495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f11edd21bf6f9d80800000000000000
+      internalID: -8241745986295295495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2108926c04c5f2060800000000000000
+      internalID: 6930859784818753554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25740b9ddc0242d10800000000000000
+      internalID: 2099839394754086738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdfff0cb5b754d40800000000000000
+      internalID: 5567992148323728830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f1eac18374528f0800000000000000
+      internalID: -565967871840215295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dd8f3bdc7abdc00800000000000000
+      internalID: 926518650284334400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43109972005740830800000000000000
+      internalID: 4036479809555595572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc086227adac9c8d0800000000000000
+      internalID: -2825504251631468340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d56fc06a4320410800000000000000
+      internalID: 1441772718498667870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3074caa38fea41140800000000000000
+      internalID: 4689565493159020291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bd3a4cd7c0b1e20800000000000000
+      internalID: 3322262884425390871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363ab2524f53770a0800000000000000
+      internalID: -6883974182700604573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8144782acf14e4880800000000000000
+      internalID: -8624883683053583336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5877ff097313def00800000000000000
+      internalID: 1147627594774968197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 601
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff4e64e5e40d70d0800000000000000
+      internalID: -3423574756305252363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 522
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7309b0a47af76db0800000000000000
+      internalID: -4798591499120344198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 528
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ec7d861cd871d80800000000000000
+      internalID: -8279993528070189459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 516
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866778b17ac39b4a0800000000000000
+      internalID: -6577159092378831256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 532
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0668d186c13ea8f80800000000000000
+      internalID: -8103414868354431392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 512
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3d3be1c408cffb0800000000000000
+      internalID: -4612670853913259040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 534
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dcd5b3811270b10800000000000000
+      internalID: 1947561751819963721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 535
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489d2bf741e0c2bd0800000000000000
+      internalID: -2653730599223502460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 534
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbf14787c94504c0800000000000000
+      internalID: -4321967146075554852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 532
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757a5b3135288ad10800000000000000
+      internalID: 2137101316511868759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 512
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce2be9b3afd88040800000000000000
+      internalID: 4650212509551898308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 528
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5d38cff974e1b90800000000000000
+      internalID: -7269293996067531355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 516
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf0bfc7b797eef00800000000000000
+      internalID: 1147988526310821808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 522
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf76c3b990ccedf0800000000000000
+      internalID: -149532921231409202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 510
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82937ab2571adaf70800000000000000
+      internalID: 9200187138403416360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 509
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35fdae8cb564e6a0800000000000000
+      internalID: -6420895308201462465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 510
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281263758178403d0800000000000000
+      internalID: -3241317293187784318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 441
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26a8577b6ee496d0800000000000000
+      internalID: -2984498507708586453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 447
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e737bf708c5fdca0800000000000000
+      internalID: -5989967272411187226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 435
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb28cdcc0e90ff10800000000000000
+      internalID: 2301513187415567308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 451
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a5a68e52b0143c0800000000000000
+      internalID: -4377205105386431985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 431
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c382255ff4b31660800000000000000
+      internalID: 7355421625164137416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 453
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa9376a73d54f5d0800000000000000
+      internalID: -3029694155716322570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 454
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d835d0224aca890800000000000000
+      internalID: -7445395617790849718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 453
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d13050e13098e70800000000000000
+      internalID: 9117822348056272259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 451
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876f7f4b7ce054380800000000000000
+      internalID: -8987761230450526600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_41
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 431
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d806a4b2ac17a76a0800000000000000
+      internalID: -6450718403131187059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 447
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae215b4ef146dbcd0800000000000000
+      internalID: -2540764526623255830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 435
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e8c0a60e0e638e0800000000000000
+      internalID: -1713935353711391079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_44
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 441
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3fe5cec9e2bc670800000000000000
+      internalID: 8559986768263181227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 429
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b54a5fe87d701910800000000000000
+      internalID: 1806081408940787129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 428
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248badc2b0530fb70800000000000000
+      internalID: 8930696383189137474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 429
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ee797407a3b2070800000000000000
+      internalID: 8082618210158374507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 362
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eae7a565bea0ab0800000000000000
+      internalID: -5040958076769882624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 368
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf81304c19991e40800000000000000
+      internalID: 5627697555991269310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 356
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151243454d21ca2b0800000000000000
+      internalID: -5572057935809076911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_51
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 372
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bfe4a7a96a66d90800000000000000
+      internalID: -7104808179723207879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_52
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 352
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cad6cf9a933d6390800000000000000
+      internalID: -7823540238474093883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_53
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 374
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e3360eaa8af1e30800000000000000
+      internalID: 4476482006492069413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 375
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebaca57722e2a0e0800000000000000
+      internalID: -2259995403880715285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 374
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7290a4d225950090800000000000000
+      internalID: -8068879180535655812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_56
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 372
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f46a7a7374c2a30800000000000000
+      internalID: 4191803657536556849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_57
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 352
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551915fddadc0cee0800000000000000
+      internalID: -1242767350494555819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_58
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 368
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1df77dbde355bc90800000000000000
+      internalID: -7154720152457052898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_59
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 356
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7c546c17cbd8910800000000000000
+      internalID: 1841335019508189152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_60
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 362
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f627798bc30f060800000000000000
+      internalID: 6985149785564147465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_61
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 350
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8819570ec14fd25b0800000000000000
+      internalID: -5391384774030552696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_62
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 349
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f627197533523b90800000000000000
+      internalID: -7263651759865256208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_63
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 350
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e75b9bf601f01120800000000000000
+      internalID: 2382669215172351975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffb7ef7a66883800800000000000000
+      internalID: 592371142969769970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27aa363617099140800000000000000
+      internalID: 4726817075882534703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_66
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363b84d6dacfaf7a0800000000000000
+      internalID: -6342479303404899485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_67
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43917af7013b0e750800000000000000
+      internalID: 6332257959525423412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_68
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6281414b7bd22e0800000000000000
+      internalID: -2148859463126735124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_69
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840e4f4f4cebce1c0800000000000000
+      internalID: -4472990576753188792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_70
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3c56eaab4ae2a80800000000000000
+      internalID: -8489667125850029114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_71
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae4cbc1670d58030800000000000000
+      internalID: 3496429891429879460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_72
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949363da1b7354300800000000000000
+      internalID: 235655791761570121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_73
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79422ff0ca6d1b6b0800000000000000
+      internalID: -5282204853438634857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_74
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d07df7c7b8c4fe0800000000000000
+      internalID: -1203433633577759429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_75
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a514b79454a4920800000000000000
+      internalID: 2975266685734443537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_76
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50877bd73b13e9030800000000000000
+      internalID: 3503292207118907397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_77
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bad61098d802190800000000000000
+      internalID: -7989230119381259480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_78
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa92dca87f9118b00800000000000000
+      internalID: 828972357389199791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_79
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed84c9b0afadf290800000000000000
+      internalID: -7854929070217982489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_80
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 202
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8a117f11c8d49b0800000000000000
+      internalID: -5094261594698700610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705bf1bff5c620080800000000000000
+      internalID: -9222689927410502393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_82
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 196
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1d87a5aea512820800000000000000
+      internalID: 2891692398335283626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_83
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 212
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0f607d2d0e8eec0800000000000000
+      internalID: -3537330311144214315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_84
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 192
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8b64ef1dfeca420800000000000000
+      internalID: 2642750766552889535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_85
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 214
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a970d8df42130e0800000000000000
+      internalID: -2292010063943460325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_86
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 215
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f67f3f742fca8b30800000000000000
+      internalID: 4290469350684456694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_87
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 214
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833cd0fe7a76d29e0800000000000000
+      internalID: -1644544317952507080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_88
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 212
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f056db48c0e87d10800000000000000
+      internalID: 2123694375175606513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_89
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 192
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14517b12580813470800000000000000
+      internalID: 8372614491543115073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_90
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 208
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2d9c9da8309a7e0800000000000000
+      internalID: -1753866684989844792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_91
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 196
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebe20596f92a9410800000000000000
+      internalID: 1484545166210690025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_92
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 202
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55782314aebc99f20800000000000000
+      internalID: 3429996798195959637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_93
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 190
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8646999f35fd94170800000000000000
+      internalID: 8163301351348593768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_94
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 189
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef6415851f7853d0800000000000000
+      internalID: -3217682203352469529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_95
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 190
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb12cae74c3e0dc0800000000000000
+      internalID: -3670930366681441332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_96
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 121
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d5709facd6de6b0800000000000000
+      internalID: -5265431670797410938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_97
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 127
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835937cf0ab8b1510800000000000000
+      internalID: 1520962822714135864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_98
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 115
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1e703d9085daa00800000000000000
+      internalID: 769367910568681912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_99
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 131
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b3355788c9d8860800000000000000
+      internalID: 7533849861558582068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_100
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 111
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bdf6ff279e1db90800000000000000
+      internalID: -7218732047577130154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_101
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 133
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5961bf2ef981bba0800000000000000
+      internalID: -6074922697531233956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_102
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 134
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8217099b06a4a530800000000000000
+      internalID: 3865396948932956813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_103
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 133
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dd493c412e9f8c0800000000000000
+      internalID: -3964889418114474674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_104
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 131
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c8d322ba1362bb0800000000000000
+      internalID: -4961223328418395099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_105
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 111
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece9c2586bc5be740800000000000000
+      internalID: 5182337735207984846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_106
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 127
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799d2c20353adf8d0800000000000000
+      internalID: -2810911015485384297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_107
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 115
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bd9bba0a8e910d0800000000000000
+      internalID: -3451471862629278846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_108
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 121
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ffc2a74c585ff40800000000000000
+      internalID: 5761658377200271192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_109
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 109
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9d4682bbb1b8270800000000000000
+      internalID: 8253721232737098179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_110
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 108
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586c178751536b2a0800000000000000
+      internalID: -6722127027472578939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_111
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 109
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8e13e8dde5d9450800000000000000
+      internalID: 6097133776195938507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_112
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 42
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1ddbd01900e3ea0800000000000000
+      internalID: -5891270639553228302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_113
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 48
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cad32ab647db050800000000000000
+      internalID: 5817934299264822404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_114
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 36
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6e6bea7b59e69f0800000000000000
+      internalID: -473276294684547382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_115
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 52
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9933a713b4deb50800000000000000
+      internalID: 6624033302807550439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_116
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 32
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f54fa1793c35a0e0800000000000000
+      internalID: -2259333420638321160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_117
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 54
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6793bba1e9e31c0800000000000000
+      internalID: -4522003138185955627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_118
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 55
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02e3b6b96314f110800000000000000
+      internalID: 1293680337719910924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_119
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 54
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542f0348e8e489f20800000000000000
+      internalID: 3429577490252755525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_120
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 52
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0151181a4657f2c60800000000000000
+      internalID: 7795578555068388624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_121
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 32
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a9d29b7218b3950800000000000000
+      internalID: 6429874900611996197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_122
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 48
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4b600a8a4a46470800000000000000
+      internalID: 8387009450216961198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_123
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 36
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9d96477992526a0800000000000000
+      internalID: -6474723158805325399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_124
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 42
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3ff3e58789989c0800000000000000
+      internalID: -3924437957531929682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_125
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 30
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197aa8e93d40bfdc0800000000000000
+      internalID: -3604281769835452527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_126
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 29
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14c6bad0f004ad80800000000000000
+      internalID: -8240460383719603172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Anim_127
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 30
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640b558528c93e950800000000000000
+      internalID: 6477192772730597446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Double-Anim_0: 6850676390618260495
+      Double-Anim_1: -8241745986295295495
+      Double-Anim_10: 4689565493159020291
+      Double-Anim_100: -7218732047577130154
+      Double-Anim_101: -6074922697531233956
+      Double-Anim_102: 3865396948932956813
+      Double-Anim_103: -3964889418114474674
+      Double-Anim_104: -4961223328418395099
+      Double-Anim_105: 5182337735207984846
+      Double-Anim_106: -2810911015485384297
+      Double-Anim_107: -3451471862629278846
+      Double-Anim_108: 5761658377200271192
+      Double-Anim_109: 8253721232737098179
+      Double-Anim_11: 3322262884425390871
+      Double-Anim_110: -6722127027472578939
+      Double-Anim_111: 6097133776195938507
+      Double-Anim_112: -5891270639553228302
+      Double-Anim_113: 5817934299264822404
+      Double-Anim_114: -473276294684547382
+      Double-Anim_115: 6624033302807550439
+      Double-Anim_116: -2259333420638321160
+      Double-Anim_117: -4522003138185955627
+      Double-Anim_118: 1293680337719910924
+      Double-Anim_119: 3429577490252755525
+      Double-Anim_12: -6883974182700604573
+      Double-Anim_120: 7795578555068388624
+      Double-Anim_121: 6429874900611996197
+      Double-Anim_122: 8387009450216961198
+      Double-Anim_123: -6474723158805325399
+      Double-Anim_124: -3924437957531929682
+      Double-Anim_125: -3604281769835452527
+      Double-Anim_126: -8240460383719603172
+      Double-Anim_127: 6477192772730597446
+      Double-Anim_13: -8624883683053583336
+      Double-Anim_14: 1147627594774968197
+      Double-Anim_15: -3423574756305252363
+      Double-Anim_16: -4798591499120344198
+      Double-Anim_17: -8279993528070189459
+      Double-Anim_18: -6577159092378831256
+      Double-Anim_19: -8103414868354431392
+      Double-Anim_2: 6930859784818753554
+      Double-Anim_20: -4612670853913259040
+      Double-Anim_21: 1947561751819963721
+      Double-Anim_22: -2653730599223502460
+      Double-Anim_23: -4321967146075554852
+      Double-Anim_24: 2137101316511868759
+      Double-Anim_25: 4650212509551898308
+      Double-Anim_26: -7269293996067531355
+      Double-Anim_27: 1147988526310821808
+      Double-Anim_28: -149532921231409202
+      Double-Anim_29: 9200187138403416360
+      Double-Anim_3: 2099839394754086738
+      Double-Anim_30: -6420895308201462465
+      Double-Anim_31: -3241317293187784318
+      Double-Anim_32: -2984498507708586453
+      Double-Anim_33: -5989967272411187226
+      Double-Anim_34: 2301513187415567308
+      Double-Anim_35: -4377205105386431985
+      Double-Anim_36: 7355421625164137416
+      Double-Anim_37: -3029694155716322570
+      Double-Anim_38: -7445395617790849718
+      Double-Anim_39: 9117822348056272259
+      Double-Anim_4: 5567992148323728830
+      Double-Anim_40: -8987761230450526600
+      Double-Anim_41: -6450718403131187059
+      Double-Anim_42: -2540764526623255830
+      Double-Anim_43: -1713935353711391079
+      Double-Anim_44: 8559986768263181227
+      Double-Anim_45: 1806081408940787129
+      Double-Anim_46: 8930696383189137474
+      Double-Anim_47: 8082618210158374507
+      Double-Anim_48: -5040958076769882624
+      Double-Anim_49: 5627697555991269310
+      Double-Anim_5: -565967871840215295
+      Double-Anim_50: -5572057935809076911
+      Double-Anim_51: -7104808179723207879
+      Double-Anim_52: -7823540238474093883
+      Double-Anim_53: 4476482006492069413
+      Double-Anim_54: -2259995403880715285
+      Double-Anim_55: -8068879180535655812
+      Double-Anim_56: 4191803657536556849
+      Double-Anim_57: -1242767350494555819
+      Double-Anim_58: -7154720152457052898
+      Double-Anim_59: 1841335019508189152
+      Double-Anim_6: 926518650284334400
+      Double-Anim_60: 6985149785564147465
+      Double-Anim_61: -5391384774030552696
+      Double-Anim_62: -7263651759865256208
+      Double-Anim_63: 2382669215172351975
+      Double-Anim_64: 592371142969769970
+      Double-Anim_65: 4726817075882534703
+      Double-Anim_66: -6342479303404899485
+      Double-Anim_67: 6332257959525423412
+      Double-Anim_68: -2148859463126735124
+      Double-Anim_69: -4472990576753188792
+      Double-Anim_7: 4036479809555595572
+      Double-Anim_70: -8489667125850029114
+      Double-Anim_71: 3496429891429879460
+      Double-Anim_72: 235655791761570121
+      Double-Anim_73: -5282204853438634857
+      Double-Anim_74: -1203433633577759429
+      Double-Anim_75: 2975266685734443537
+      Double-Anim_76: 3503292207118907397
+      Double-Anim_77: -7989230119381259480
+      Double-Anim_78: 828972357389199791
+      Double-Anim_79: -7854929070217982489
+      Double-Anim_8: -2825504251631468340
+      Double-Anim_80: -5094261594698700610
+      Double-Anim_81: -9222689927410502393
+      Double-Anim_82: 2891692398335283626
+      Double-Anim_83: -3537330311144214315
+      Double-Anim_84: 2642750766552889535
+      Double-Anim_85: -2292010063943460325
+      Double-Anim_86: 4290469350684456694
+      Double-Anim_87: -1644544317952507080
+      Double-Anim_88: 2123694375175606513
+      Double-Anim_89: 8372614491543115073
+      Double-Anim_9: 1441772718498667870
+      Double-Anim_90: -1753866684989844792
+      Double-Anim_91: 1484545166210690025
+      Double-Anim_92: 3429996798195959637
+      Double-Anim_93: 8163301351348593768
+      Double-Anim_94: -3217682203352469529
+      Double-Anim_95: -3670930366681441332
+      Double-Anim_96: -5265431670797410938
+      Double-Anim_97: 1520962822714135864
+      Double-Anim_98: 769367910568681912
+      Double-Anim_99: 7533849861558582068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

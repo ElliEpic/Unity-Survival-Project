@@ -1,0 +1,2199 @@
+fileFormatVersion: 2
+guid: eae0b55fe868a4228a0c6860e72c4c6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -808141910282024277
+    second: Hop-Shadow_0
+  - first:
+      213: 3520293036710089084
+    second: Hop-Shadow_1
+  - first:
+      213: -1742636247951097535
+    second: Hop-Shadow_2
+  - first:
+      213: 1128844470741663301
+    second: Hop-Shadow_3
+  - first:
+      213: -4422158821365869521
+    second: Hop-Shadow_4
+  - first:
+      213: -2690716456047961941
+    second: Hop-Shadow_5
+  - first:
+      213: 5188936165414193464
+    second: Hop-Shadow_6
+  - first:
+      213: 2875174433001531872
+    second: Hop-Shadow_7
+  - first:
+      213: 8364277966881615980
+    second: Hop-Shadow_8
+  - first:
+      213: 9149178609101102504
+    second: Hop-Shadow_9
+  - first:
+      213: -7957543710632884293
+    second: Hop-Shadow_10
+  - first:
+      213: 5569349416340998448
+    second: Hop-Shadow_11
+  - first:
+      213: -1771595965588196972
+    second: Hop-Shadow_12
+  - first:
+      213: 2206364188155985072
+    second: Hop-Shadow_13
+  - first:
+      213: -8212468188782567596
+    second: Hop-Shadow_14
+  - first:
+      213: -2431824502418222630
+    second: Hop-Shadow_15
+  - first:
+      213: 3427840603922998986
+    second: Hop-Shadow_16
+  - first:
+      213: 4234535163562214198
+    second: Hop-Shadow_17
+  - first:
+      213: -6802877542672621396
+    second: Hop-Shadow_18
+  - first:
+      213: -2103433616222235311
+    second: Hop-Shadow_19
+  - first:
+      213: -4523764107202357704
+    second: Hop-Shadow_20
+  - first:
+      213: 7644811592947195889
+    second: Hop-Shadow_21
+  - first:
+      213: 3797289410938430493
+    second: Hop-Shadow_22
+  - first:
+      213: 6764956549434645626
+    second: Hop-Shadow_23
+  - first:
+      213: -4670905780564494126
+    second: Hop-Shadow_24
+  - first:
+      213: 6557443123869751964
+    second: Hop-Shadow_25
+  - first:
+      213: -1306441876578946652
+    second: Hop-Shadow_26
+  - first:
+      213: 8214709254598387774
+    second: Hop-Shadow_27
+  - first:
+      213: -3394439960112759860
+    second: Hop-Shadow_28
+  - first:
+      213: -2575241656645298944
+    second: Hop-Shadow_29
+  - first:
+      213: -1920321661941994059
+    second: Hop-Shadow_30
+  - first:
+      213: -7071655839230504127
+    second: Hop-Shadow_31
+  - first:
+      213: -1906395141122991535
+    second: Hop-Shadow_32
+  - first:
+      213: -5521947689148305141
+    second: Hop-Shadow_33
+  - first:
+      213: 6490970039323443973
+    second: Hop-Shadow_34
+  - first:
+      213: -5473229743498453622
+    second: Hop-Shadow_35
+  - first:
+      213: -8441359232639924720
+    second: Hop-Shadow_36
+  - first:
+      213: -2404924415427200458
+    second: Hop-Shadow_37
+  - first:
+      213: -947176031104703175
+    second: Hop-Shadow_38
+  - first:
+      213: -6329443438791467118
+    second: Hop-Shadow_39
+  - first:
+      213: -134119692536934760
+    second: Hop-Shadow_40
+  - first:
+      213: -6319042294339120011
+    second: Hop-Shadow_41
+  - first:
+      213: 4129316401059785933
+    second: Hop-Shadow_42
+  - first:
+      213: 8136569274197656172
+    second: Hop-Shadow_43
+  - first:
+      213: -2266553697710747492
+    second: Hop-Shadow_44
+  - first:
+      213: -7611660797702833481
+    second: Hop-Shadow_45
+  - first:
+      213: 6372499176185106678
+    second: Hop-Shadow_46
+  - first:
+      213: -6480516756026142493
+    second: Hop-Shadow_47
+  - first:
+      213: -9111220663134312909
+    second: Hop-Shadow_48
+  - first:
+      213: -389448880558691954
+    second: Hop-Shadow_49
+  - first:
+      213: -5768731281403774038
+    second: Hop-Shadow_50
+  - first:
+      213: 8156490265648414722
+    second: Hop-Shadow_51
+  - first:
+      213: -3623012202472472517
+    second: Hop-Shadow_52
+  - first:
+      213: -3644140900602297644
+    second: Hop-Shadow_53
+  - first:
+      213: -8073622557544901690
+    second: Hop-Shadow_54
+  - first:
+      213: 5601133379460315795
+    second: Hop-Shadow_55
+  - first:
+      213: 5113513688112582434
+    second: Hop-Shadow_56
+  - first:
+      213: -8387595184297639009
+    second: Hop-Shadow_57
+  - first:
+      213: 3652047059520865464
+    second: Hop-Shadow_58
+  - first:
+      213: 8303351931727743507
+    second: Hop-Shadow_59
+  - first:
+      213: 6038236159759668601
+    second: Hop-Shadow_60
+  - first:
+      213: -8331467925890477014
+    second: Hop-Shadow_61
+  - first:
+      213: 4237267202718335643
+    second: Hop-Shadow_62
+  - first:
+      213: -3347232692542230888
+    second: Hop-Shadow_63
+  - first:
+      213: 4931808059374708216
+    second: Hop-Shadow_64
+  - first:
+      213: -3951902001875305118
+    second: Hop-Shadow_65
+  - first:
+      213: -3925929915793809747
+    second: Hop-Shadow_66
+  - first:
+      213: -8897164300000915096
+    second: Hop-Shadow_67
+  - first:
+      213: 874564141801144920
+    second: Hop-Shadow_68
+  - first:
+      213: -1271236787185976753
+    second: Hop-Shadow_69
+  - first:
+      213: 6193420383348192588
+    second: Hop-Shadow_70
+  - first:
+      213: -1108383584610356234
+    second: Hop-Shadow_71
+  - first:
+      213: 8474299047301589884
+    second: Hop-Shadow_72
+  - first:
+      213: 9091639297589404837
+    second: Hop-Shadow_73
+  - first:
+      213: 3010960109171264725
+    second: Hop-Shadow_74
+  - first:
+      213: 9190188341254525276
+    second: Hop-Shadow_75
+  - first:
+      213: -3932214413987026490
+    second: Hop-Shadow_76
+  - first:
+      213: -5700942507787444468
+    second: Hop-Shadow_77
+  - first:
+      213: -3867303155426129502
+    second: Hop-Shadow_78
+  - first:
+      213: 3870368790931250020
+    second: Hop-Shadow_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hop-Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 711
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baac88dd637e8c4f0800000000000000
+      internalID: -808141910282024277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 711
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71d2669dd79ad030800000000000000
+      internalID: 3520293036710089084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 711
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141c72cb099e0d7e0800000000000000
+      internalID: -1742636247951097535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 711
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e7835b0167aaf00800000000000000
+      internalID: 1128844470741663301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 711
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2490284bf551a2c0800000000000000
+      internalID: -4422158821365869521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 711
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba896f5a3a7a8aad0800000000000000
+      internalID: -2690716456047961941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 711
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839c0b543fdc20840800000000000000
+      internalID: 5188936165414193464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 711
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9675ad9eba6e720800000000000000
+      internalID: 2875174433001531872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 711
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60fa9abe72e31470800000000000000
+      internalID: 8364277966881615980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 711
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8add216787968fe70800000000000000
+      internalID: 9149178609101102504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 615
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb74513f720219190800000000000000
+      internalID: -7957543710632884293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 615
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039c80759cd4a4d40800000000000000
+      internalID: 5569349416340998448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 615
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491b9990bd60a67e0800000000000000
+      internalID: -1771595965588196972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 615
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc3e201a849e9e10800000000000000
+      internalID: 2206364188155985072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 615
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f5b6e91b3770e80800000000000000
+      internalID: -8212468188782567596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 615
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad15549df7c604ed0800000000000000
+      internalID: -2431824502418222630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 615
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6ad772ed2229f20800000000000000
+      internalID: 3427840603922998986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 615
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633c605bb4714ca30800000000000000
+      internalID: 4234535163562214198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 615
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0248a0be25791a0800000000000000
+      internalID: -6802877542672621396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 615
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1555570454a1fc2e0800000000000000
+      internalID: -2103433616222235311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 519
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8369a8e238c5831c0800000000000000
+      internalID: -4523764107202357704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 519
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffd76cc3a3d71a60800000000000000
+      internalID: 7644811592947195889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 519
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d146650b99ea2b430800000000000000
+      internalID: 3797289410938430493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 519
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c1102b324f1ed50800000000000000
+      internalID: 6764956549434645626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 519
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8722aa0fb9d2fb0800000000000000
+      internalID: -4670905780564494126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 519
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a951147c7b00b50800000000000000
+      internalID: 6557443123869751964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 519
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a131daf8069edde0800000000000000
+      internalID: -1306441876578946652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 519
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38637d2b82800270800000000000000
+      internalID: 8214709254598387774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 519
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb761e37d684e0d0800000000000000
+      internalID: -3394439960112759860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 519
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0055ed48b57e24cd0800000000000000
+      internalID: -2575241656645298944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 423
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bda57d6f95a955e0800000000000000
+      internalID: -1920321661941994059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 423
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14359d04b7e6cdd90800000000000000
+      internalID: -7071655839230504127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 423
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a55db38bf1b85e0800000000000000
+      internalID: -1906395141122991535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 423
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01b60055d91e53b0800000000000000
+      internalID: -5521947689148305141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 423
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503c3913cde841a50800000000000000
+      internalID: 6490970039323443973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 423
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d1ca4fb8e2b04b0800000000000000
+      internalID: -5473229743498453622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 423
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016880d80844ada80800000000000000
+      internalID: -8441359232639924720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 423
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a3cca6cfdff9ed0800000000000000
+      internalID: -2404924415427200458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 423
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9356d360b64fad2f0800000000000000
+      internalID: -947176031104703175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_39
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 423
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f58ec2abc4928a0800000000000000
+      internalID: -6329443438791467118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 327
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e83f8a9d2832ef0800000000000000
+      internalID: -134119692536934760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 327
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5745f3553804e48a0800000000000000
+      internalID: -6319042294339120011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 327
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccec5283674e4930800000000000000
+      internalID: 4129316401059785933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 327
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62c8ee35a6eae070800000000000000
+      internalID: 8136569274197656172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_44
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 327
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c905a9fab659b80e0800000000000000
+      internalID: -2266553697710747492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_45
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 327
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baf72235d2fd5690800000000000000
+      internalID: -7611660797702833481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_46
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 327
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f09bffdc3aaf6850800000000000000
+      internalID: 6372499176185106678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_47
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 327
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0581c78549016a0800000000000000
+      internalID: -6480516756026142493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_48
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 327
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3362ea784117e8180800000000000000
+      internalID: -9111220663134312909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 327
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8920287e46689af0800000000000000
+      internalID: -389448880558691954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab7e3fa67951ffa0800000000000000
+      internalID: -5768731281403774038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200c7e18eaca13170800000000000000
+      internalID: 8156490265648414722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_52
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3009bee89978bdc0800000000000000
+      internalID: -3623012202472472517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2c02c88296d6dc0800000000000000
+      internalID: -3644140900602297644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c394fe4f0bb4ff80800000000000000
+      internalID: -8073622557544901690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ab05ee1293bbd40800000000000000
+      internalID: 5601133379460315795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_56
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f4c065b99d6f640800000000000000
+      internalID: 5113513688112582434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_57
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9389288e96499b80800000000000000
+      internalID: -8387595184297639009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_58
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b440c5837daea230800000000000000
+      internalID: 3652047059520865464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_59
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 231
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a8fafb69e6b3370800000000000000
+      internalID: 8303351931727743507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975d46c9bcf1cc350800000000000000
+      internalID: 6038236159759668601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_61
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24dcbb301ea06c80800000000000000
+      internalID: -8331467925890477014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b928074221ccdca30800000000000000
+      internalID: 4237267202718335643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e227cb99d3c81d0800000000000000
+      internalID: -3347232692542230888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f52077dc4d417440800000000000000
+      internalID: 4931808059374708216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_65
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d311f31160829c0800000000000000
+      internalID: -3951902001875305118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_66
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daed704ca8b4489c0800000000000000
+      internalID: -3925929915793809747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_67
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8619826553ce68480800000000000000
+      internalID: -8897164300000915096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_68
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8520a5d0473132c00800000000000000
+      internalID: 874564141801144920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_69
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 135
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4afe5a90e8ab5ee0800000000000000
+      internalID: -1271236787185976753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45f126460373f550800000000000000
+      internalID: 6193420383348192588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_71
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3fc64900b3e90f0800000000000000
+      internalID: -1108383584610356234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_72
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ba7d2b512ca9570800000000000000
+      internalID: 8474299047301589884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_73
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a46cc685cdfb2e70800000000000000
+      internalID: 9091639297589404837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_74
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc460c344419c920800000000000000
+      internalID: 3010960109171264725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_75
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51996bca9b1a8f70800000000000000
+      internalID: 9190188341254525276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9e1a103d7fd69c0800000000000000
+      internalID: -3932214413987026490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_77
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f976a7efe22e0b0800000000000000
+      internalID: -5700942507787444468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_78
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9041e1544945ac0800000000000000
+      internalID: -3867303155426129502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Shadow_79
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 39
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b1735c8ef46b530800000000000000
+      internalID: 3870368790931250020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hop-Shadow_0: -808141910282024277
+      Hop-Shadow_1: 3520293036710089084
+      Hop-Shadow_10: -7957543710632884293
+      Hop-Shadow_11: 5569349416340998448
+      Hop-Shadow_12: -1771595965588196972
+      Hop-Shadow_13: 2206364188155985072
+      Hop-Shadow_14: -8212468188782567596
+      Hop-Shadow_15: -2431824502418222630
+      Hop-Shadow_16: 3427840603922998986
+      Hop-Shadow_17: 4234535163562214198
+      Hop-Shadow_18: -6802877542672621396
+      Hop-Shadow_19: -2103433616222235311
+      Hop-Shadow_2: -1742636247951097535
+      Hop-Shadow_20: -4523764107202357704
+      Hop-Shadow_21: 7644811592947195889
+      Hop-Shadow_22: 3797289410938430493
+      Hop-Shadow_23: 6764956549434645626
+      Hop-Shadow_24: -4670905780564494126
+      Hop-Shadow_25: 6557443123869751964
+      Hop-Shadow_26: -1306441876578946652
+      Hop-Shadow_27: 8214709254598387774
+      Hop-Shadow_28: -3394439960112759860
+      Hop-Shadow_29: -2575241656645298944
+      Hop-Shadow_3: 1128844470741663301
+      Hop-Shadow_30: -1920321661941994059
+      Hop-Shadow_31: -7071655839230504127
+      Hop-Shadow_32: -1906395141122991535
+      Hop-Shadow_33: -5521947689148305141
+      Hop-Shadow_34: 6490970039323443973
+      Hop-Shadow_35: -5473229743498453622
+      Hop-Shadow_36: -8441359232639924720
+      Hop-Shadow_37: -2404924415427200458
+      Hop-Shadow_38: -947176031104703175
+      Hop-Shadow_39: -6329443438791467118
+      Hop-Shadow_4: -4422158821365869521
+      Hop-Shadow_40: -134119692536934760
+      Hop-Shadow_41: -6319042294339120011
+      Hop-Shadow_42: 4129316401059785933
+      Hop-Shadow_43: 8136569274197656172
+      Hop-Shadow_44: -2266553697710747492
+      Hop-Shadow_45: -7611660797702833481
+      Hop-Shadow_46: 6372499176185106678
+      Hop-Shadow_47: -6480516756026142493
+      Hop-Shadow_48: -9111220663134312909
+      Hop-Shadow_49: -389448880558691954
+      Hop-Shadow_5: -2690716456047961941
+      Hop-Shadow_50: -5768731281403774038
+      Hop-Shadow_51: 8156490265648414722
+      Hop-Shadow_52: -3623012202472472517
+      Hop-Shadow_53: -3644140900602297644
+      Hop-Shadow_54: -8073622557544901690
+      Hop-Shadow_55: 5601133379460315795
+      Hop-Shadow_56: 5113513688112582434
+      Hop-Shadow_57: -8387595184297639009
+      Hop-Shadow_58: 3652047059520865464
+      Hop-Shadow_59: 8303351931727743507
+      Hop-Shadow_6: 5188936165414193464
+      Hop-Shadow_60: 6038236159759668601
+      Hop-Shadow_61: -8331467925890477014
+      Hop-Shadow_62: 4237267202718335643
+      Hop-Shadow_63: -3347232692542230888
+      Hop-Shadow_64: 4931808059374708216
+      Hop-Shadow_65: -3951902001875305118
+      Hop-Shadow_66: -3925929915793809747
+      Hop-Shadow_67: -8897164300000915096
+      Hop-Shadow_68: 874564141801144920
+      Hop-Shadow_69: -1271236787185976753
+      Hop-Shadow_7: 2875174433001531872
+      Hop-Shadow_70: 6193420383348192588
+      Hop-Shadow_71: -1108383584610356234
+      Hop-Shadow_72: 8474299047301589884
+      Hop-Shadow_73: 9091639297589404837
+      Hop-Shadow_74: 3010960109171264725
+      Hop-Shadow_75: 9190188341254525276
+      Hop-Shadow_76: -3932214413987026490
+      Hop-Shadow_77: -5700942507787444468
+      Hop-Shadow_78: -3867303155426129502
+      Hop-Shadow_79: 3870368790931250020
+      Hop-Shadow_8: 8364277966881615980
+      Hop-Shadow_9: 9149178609101102504
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

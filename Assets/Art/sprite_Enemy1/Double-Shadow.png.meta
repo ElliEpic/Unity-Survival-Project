@@ -1,0 +1,3447 @@
+fileFormatVersion: 2
+guid: e91e5d80ad3ef4da19989625f5af8c38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5613964858977046590
+    second: Double-Shadow_0
+  - first:
+      213: -451782698633282468
+    second: Double-Shadow_1
+  - first:
+      213: 8448746480935851392
+    second: Double-Shadow_2
+  - first:
+      213: -2580363495290468265
+    second: Double-Shadow_3
+  - first:
+      213: 3975974756524072394
+    second: Double-Shadow_4
+  - first:
+      213: -2802440657957186619
+    second: Double-Shadow_5
+  - first:
+      213: 5132264722724945870
+    second: Double-Shadow_6
+  - first:
+      213: -3680094172774994966
+    second: Double-Shadow_7
+  - first:
+      213: -1990604156138677512
+    second: Double-Shadow_8
+  - first:
+      213: 5534370926261432171
+    second: Double-Shadow_9
+  - first:
+      213: -3373466787540707208
+    second: Double-Shadow_10
+  - first:
+      213: 8243391857151878974
+    second: Double-Shadow_11
+  - first:
+      213: -2685161151909318115
+    second: Double-Shadow_12
+  - first:
+      213: -7533707293259627910
+    second: Double-Shadow_13
+  - first:
+      213: -5612530707996896162
+    second: Double-Shadow_14
+  - first:
+      213: 4595302092965043628
+    second: Double-Shadow_15
+  - first:
+      213: -2020043973336197441
+    second: Double-Shadow_16
+  - first:
+      213: 5623506010426105089
+    second: Double-Shadow_17
+  - first:
+      213: -7118399320270102488
+    second: Double-Shadow_18
+  - first:
+      213: -3530593807354123615
+    second: Double-Shadow_19
+  - first:
+      213: 6248993032552027389
+    second: Double-Shadow_20
+  - first:
+      213: -5928104197285414406
+    second: Double-Shadow_21
+  - first:
+      213: -6914361026476282306
+    second: Double-Shadow_22
+  - first:
+      213: -3710037114447609012
+    second: Double-Shadow_23
+  - first:
+      213: 872528299146923272
+    second: Double-Shadow_24
+  - first:
+      213: 4689186327483329656
+    second: Double-Shadow_25
+  - first:
+      213: 3146417289959399880
+    second: Double-Shadow_26
+  - first:
+      213: -6189588372121787200
+    second: Double-Shadow_27
+  - first:
+      213: 6448614987958576215
+    second: Double-Shadow_28
+  - first:
+      213: 2578671756407055739
+    second: Double-Shadow_29
+  - first:
+      213: 8461263108072025059
+    second: Double-Shadow_30
+  - first:
+      213: -853439943727917370
+    second: Double-Shadow_31
+  - first:
+      213: -6455671368148077054
+    second: Double-Shadow_32
+  - first:
+      213: -4096232257257139513
+    second: Double-Shadow_33
+  - first:
+      213: -7695744609332112999
+    second: Double-Shadow_34
+  - first:
+      213: -8197792184355130939
+    second: Double-Shadow_35
+  - first:
+      213: 637213744293709259
+    second: Double-Shadow_36
+  - first:
+      213: 3736179257096555667
+    second: Double-Shadow_37
+  - first:
+      213: -2246058201816167608
+    second: Double-Shadow_38
+  - first:
+      213: -3677828240508560673
+    second: Double-Shadow_39
+  - first:
+      213: 7858034930891873021
+    second: Double-Shadow_40
+  - first:
+      213: -3693287199146678552
+    second: Double-Shadow_41
+  - first:
+      213: -1068007258152333767
+    second: Double-Shadow_42
+  - first:
+      213: 1676985044507944075
+    second: Double-Shadow_43
+  - first:
+      213: 2755074310940370911
+    second: Double-Shadow_44
+  - first:
+      213: -946249217351030628
+    second: Double-Shadow_45
+  - first:
+      213: -8392713126060370036
+    second: Double-Shadow_46
+  - first:
+      213: -5183314347878417685
+    second: Double-Shadow_47
+  - first:
+      213: 2731577240318952520
+    second: Double-Shadow_48
+  - first:
+      213: -4392473017723274341
+    second: Double-Shadow_49
+  - first:
+      213: 8618170219852436646
+    second: Double-Shadow_50
+  - first:
+      213: -8066040475051102441
+    second: Double-Shadow_51
+  - first:
+      213: 4659473937619602340
+    second: Double-Shadow_52
+  - first:
+      213: -318095789074040879
+    second: Double-Shadow_53
+  - first:
+      213: 7846563780715101339
+    second: Double-Shadow_54
+  - first:
+      213: -4646504350608901030
+    second: Double-Shadow_55
+  - first:
+      213: -2728373938650143584
+    second: Double-Shadow_56
+  - first:
+      213: -4896928860251007572
+    second: Double-Shadow_57
+  - first:
+      213: -229377842344560383
+    second: Double-Shadow_58
+  - first:
+      213: 8562647430388434677
+    second: Double-Shadow_59
+  - first:
+      213: -6024130013716887215
+    second: Double-Shadow_60
+  - first:
+      213: 1646135589669520911
+    second: Double-Shadow_61
+  - first:
+      213: -6399459509254258815
+    second: Double-Shadow_62
+  - first:
+      213: -3033667707714197914
+    second: Double-Shadow_63
+  - first:
+      213: 6031943885568022447
+    second: Double-Shadow_64
+  - first:
+      213: 3277077932946507352
+    second: Double-Shadow_65
+  - first:
+      213: 2535389822000165398
+    second: Double-Shadow_66
+  - first:
+      213: -3756746171669487106
+    second: Double-Shadow_67
+  - first:
+      213: -1902712654136689661
+    second: Double-Shadow_68
+  - first:
+      213: 6821111915966902789
+    second: Double-Shadow_69
+  - first:
+      213: 2928859412512775075
+    second: Double-Shadow_70
+  - first:
+      213: 1121114566423169414
+    second: Double-Shadow_71
+  - first:
+      213: -1594447726401391340
+    second: Double-Shadow_72
+  - first:
+      213: -3505764789260601565
+    second: Double-Shadow_73
+  - first:
+      213: 373273402986242778
+    second: Double-Shadow_74
+  - first:
+      213: 1798645142521259643
+    second: Double-Shadow_75
+  - first:
+      213: 244247489870899837
+    second: Double-Shadow_76
+  - first:
+      213: 1901176631594846321
+    second: Double-Shadow_77
+  - first:
+      213: -696487898935623422
+    second: Double-Shadow_78
+  - first:
+      213: 5945223288230517494
+    second: Double-Shadow_79
+  - first:
+      213: -1961291458845904212
+    second: Double-Shadow_80
+  - first:
+      213: -4942273503873955223
+    second: Double-Shadow_81
+  - first:
+      213: 6165667838257114769
+    second: Double-Shadow_82
+  - first:
+      213: 4614290721648478897
+    second: Double-Shadow_83
+  - first:
+      213: -8482002103700191958
+    second: Double-Shadow_84
+  - first:
+      213: 1025876371837148663
+    second: Double-Shadow_85
+  - first:
+      213: -3744713344895115470
+    second: Double-Shadow_86
+  - first:
+      213: -1981775682295897813
+    second: Double-Shadow_87
+  - first:
+      213: 2603876256275749792
+    second: Double-Shadow_88
+  - first:
+      213: -3093863585989132797
+    second: Double-Shadow_89
+  - first:
+      213: -1805928933086449478
+    second: Double-Shadow_90
+  - first:
+      213: 865855901604003917
+    second: Double-Shadow_91
+  - first:
+      213: -4245833550594573975
+    second: Double-Shadow_92
+  - first:
+      213: 1093429159362979617
+    second: Double-Shadow_93
+  - first:
+      213: 6856101141037448425
+    second: Double-Shadow_94
+  - first:
+      213: -6782571588128271120
+    second: Double-Shadow_95
+  - first:
+      213: -3699115689973958244
+    second: Double-Shadow_96
+  - first:
+      213: -176263380002915603
+    second: Double-Shadow_97
+  - first:
+      213: -1511248777154991052
+    second: Double-Shadow_98
+  - first:
+      213: -6376837958448507592
+    second: Double-Shadow_99
+  - first:
+      213: 7937754912572971012
+    second: Double-Shadow_100
+  - first:
+      213: -8184591358952258748
+    second: Double-Shadow_101
+  - first:
+      213: -8494595771912604991
+    second: Double-Shadow_102
+  - first:
+      213: 5199114096997912922
+    second: Double-Shadow_103
+  - first:
+      213: -7263044001651891046
+    second: Double-Shadow_104
+  - first:
+      213: -1070400153545670992
+    second: Double-Shadow_105
+  - first:
+      213: -7710438981121168466
+    second: Double-Shadow_106
+  - first:
+      213: 8320175388341988898
+    second: Double-Shadow_107
+  - first:
+      213: -645540998543622536
+    second: Double-Shadow_108
+  - first:
+      213: -2283172288746602134
+    second: Double-Shadow_109
+  - first:
+      213: -7917028361150015081
+    second: Double-Shadow_110
+  - first:
+      213: -6079310964229327686
+    second: Double-Shadow_111
+  - first:
+      213: 860652423744670372
+    second: Double-Shadow_112
+  - first:
+      213: -4980778700419907863
+    second: Double-Shadow_113
+  - first:
+      213: -6083947784077496388
+    second: Double-Shadow_114
+  - first:
+      213: -1810677238320726900
+    second: Double-Shadow_115
+  - first:
+      213: 4221025115007354450
+    second: Double-Shadow_116
+  - first:
+      213: -915647475017200583
+    second: Double-Shadow_117
+  - first:
+      213: -1019796460473718308
+    second: Double-Shadow_118
+  - first:
+      213: -4552131051884770187
+    second: Double-Shadow_119
+  - first:
+      213: -9101103246959533092
+    second: Double-Shadow_120
+  - first:
+      213: -4492463584429981387
+    second: Double-Shadow_121
+  - first:
+      213: 1958499374063374181
+    second: Double-Shadow_122
+  - first:
+      213: -5339866013832335170
+    second: Double-Shadow_123
+  - first:
+      213: -5584206056650654501
+    second: Double-Shadow_124
+  - first:
+      213: 2597069677784940165
+    second: Double-Shadow_125
+  - first:
+      213: 655964198474106998
+    second: Double-Shadow_126
+  - first:
+      213: 360145245305087238
+    second: Double-Shadow_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Double-Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfa52f64b03712b0800000000000000
+      internalID: -5613964858977046590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cbb4c7702fab9f0800000000000000
+      internalID: -451782698633282468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0855389392aff3570800000000000000
+      internalID: 8448746480935851392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75883d78215b03cd0800000000000000
+      internalID: -2580363495290468265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd9986b9ff7d2730800000000000000
+      internalID: 3975974756524072394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3995ec11bbb19d0800000000000000
+      internalID: -2802440657957186619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecff94bc297793740800000000000000
+      internalID: 5132264722724945870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebe2cb09ddadecc0800000000000000
+      internalID: -3680094172774994966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa10f01114ff54e0800000000000000
+      internalID: -1990604156138677512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fef0bf8090ecc40800000000000000
+      internalID: 5534370926261432171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878de0384d90f21d0800000000000000
+      internalID: -3373466787540707208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37a2edf739666270800000000000000
+      internalID: 8243391857151878974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1234cfa8246cbad0800000000000000
+      internalID: -2685161151909318115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a728d7fc125e27790800000000000000
+      internalID: -7533707293259627910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e549fdabe094c12b0800000000000000
+      internalID: -5612530707996896162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 591
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad5ac618eac5cf30800000000000000
+      internalID: 4595302092965043628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 517
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb690aa75bc57f3e0800000000000000
+      internalID: -2020043973336197441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 521
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dd8bffbe4ba0e40800000000000000
+      internalID: 5623506010426105089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 523
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8202be9788d563d90800000000000000
+      internalID: -7118399320270102488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 524
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaa67a53afc00fc0800000000000000
+      internalID: -3530593807354123615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 523
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df49725fd02e8b650800000000000000
+      internalID: 6248993032552027389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 521
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9fc4914a42bbda0800000000000000
+      internalID: -5928104197285414406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 517
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e6310c7414b00a0800000000000000
+      internalID: -6914361026476282306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 511
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43c5d9a6ec438cc0800000000000000
+      internalID: -3710037114447609012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 505
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dc02f7dd7db1c00800000000000000
+      internalID: 872528299146923272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 501
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c2347de16531140800000000000000
+      internalID: 4689186327483329656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 501
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c16d23dad15aab20800000000000000
+      internalID: 3146417289959399880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 505
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4eacd5b2a2a1aa0800000000000000
+      internalID: -6189588372121787200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 511
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754e7825a251e7950800000000000000
+      internalID: 6448614987958576215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 499
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75a9f0dc4849c320800000000000000
+      internalID: 2578671756407055739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 498
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb20c397f17c6570800000000000000
+      internalID: 8461263108072025059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 499
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6d7f494e8f724f0800000000000000
+      internalID: -853439943727917370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 437
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206bfd22819d866a0800000000000000
+      internalID: -6455671368148077054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_33
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 441
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c211bcf6724727c0800000000000000
+      internalID: -4096232257257139513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 443
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991d1a63d09333590800000000000000
+      internalID: -7695744609332112999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_35
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 444
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1f90d21779b3e80800000000000000
+      internalID: -8197792184355130939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_36
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 443
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc58f9a3686d7d800800000000000000
+      internalID: 637213744293709259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_37
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 441
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c4c6c3d3399d330800000000000000
+      internalID: 3736179257096555667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_38
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 437
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b05ef27f564d0e0800000000000000
+      internalID: -2246058201816167608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 431
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda569383bab5fcc0800000000000000
+      internalID: -3677828240508560673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 425
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfadb60d2295d0d60800000000000000
+      internalID: 7858034930891873021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 421
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e66d593cdecebcc0800000000000000
+      internalID: -3693287199146678552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_42
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 421
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e8a48ae0dad21f0800000000000000
+      internalID: -1068007258152333767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_43
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 425
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84e98f4309d54710800000000000000
+      internalID: 1676985044507944075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_44
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 431
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7a7612d7dfb3620800000000000000
+      internalID: 2755074310940370911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_45
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 419
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98eccaa95f3ed2f0800000000000000
+      internalID: -946249217351030628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_46
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 418
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87d96bd0e7178b80800000000000000
+      internalID: -8392713126060370036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 419
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea758f101b2118b0800000000000000
+      internalID: -5183314347878417685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_48
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 357
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844c0cd070388e520800000000000000
+      internalID: 2731577240318952520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_49
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 361
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bbd1d001dca03c0800000000000000
+      internalID: -4392473017723274341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_50
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 363
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a497286724e99770800000000000000
+      internalID: 8618170219852436646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_51
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 364
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fe7a47ceaaf0090800000000000000
+      internalID: -8066040475051102441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_52
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 363
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abc10cfbd6c9a040800000000000000
+      internalID: 4659473937619602340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_53
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 361
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7b1bfa095e59bf0800000000000000
+      internalID: -318095789074040879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_54
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 357
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c38f88f2894ec60800000000000000
+      internalID: 7846563780715101339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 351
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c36ae49ec448fb0800000000000000
+      internalID: -4646504350608901030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_56
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 345
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4235cbb5ed22ad0800000000000000
+      internalID: -2728373938650143584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_57
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 341
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5516a852d9a0cb0800000000000000
+      internalID: -4896928860251007572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_58
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 341
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109f4b3511611dcf0800000000000000
+      internalID: -229377842344560383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_59
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 345
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6c6399872a4d670800000000000000
+      internalID: 8562647430388434677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_60
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 351
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159c2a37badf56ca0800000000000000
+      internalID: -6024130013716887215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_61
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 339
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f064162e89f38d610800000000000000
+      internalID: 1646135589669520911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_62
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 338
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f776c6b7d8037a0800000000000000
+      internalID: -6399459509254258815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_63
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 339
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6662f1bfa4f36e5d0800000000000000
+      internalID: -3033667707714197914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa71f5c5105c5b350800000000000000
+      internalID: 6031943885568022447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_65
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8564c8e64058a7d20800000000000000
+      internalID: 3277077932946507352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_66
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612f57b2c938f2320800000000000000
+      internalID: 2535389822000165398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_67
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1e45ec24b5ddbc0800000000000000
+      internalID: -3756746171669487106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_68
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cba8c0ce43895e0800000000000000
+      internalID: -1902712654136689661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_69
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5023464d52579ae50800000000000000
+      internalID: 6821111915966902789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_70
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab12ef2e1665a820800000000000000
+      internalID: 2928859412512775075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_71
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6894b2c12cffe8f00800000000000000
+      internalID: 1121114566423169414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_72
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4157ae69d326fd9e0800000000000000
+      internalID: -1594447726401391340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_73
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327bc0e9f75095fc0800000000000000
+      internalID: -3505764789260601565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_74
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2a81dae222e2500800000000000000
+      internalID: 373273402986242778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_75
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7626fc3a3216f810800000000000000
+      internalID: 1798645142521259643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_76
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a29074ccdb36300800000000000000
+      internalID: 244247489870899837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_77
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1780c75d216526a10800000000000000
+      internalID: 1901176631594846321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_78
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201859132f39556f0800000000000000
+      internalID: -696487898935623422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_79
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 271
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa1c5dd41da18250800000000000000
+      internalID: 5945223288230517494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_80
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 197
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca27b7e3fc718c4e0800000000000000
+      internalID: -1961291458845904212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_81
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 201
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a84cafe64896bb0800000000000000
+      internalID: -4942273503873955223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_82
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 203
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ead565b3ad09550800000000000000
+      internalID: 6165667838257114769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_83
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 204
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba0d3ab6f0490040800000000000000
+      internalID: 4614290721648478897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_84
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 203
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2585d8b600e94a80800000000000000
+      internalID: -8482002103700191958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_85
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 201
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdd1d6ff15ac3e00800000000000000
+      internalID: 1025876371837148663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_86
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 197
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f9cdb9d0b180cc0800000000000000
+      internalID: -3744713344895115470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_87
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21ee3054815f74e0800000000000000
+      internalID: -1981775682295897813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_88
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 185
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abd36eb8a3d22420800000000000000
+      internalID: 2603876256275749792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_89
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 181
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ef995e5736015d0800000000000000
+      internalID: -3093863585989132797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_90
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 181
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab038cd143d00f6e0800000000000000
+      internalID: -1805928933086449478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_91
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 185
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4048c1ea53240c00800000000000000
+      internalID: 865855901604003917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_92
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 191
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969ff5191e4c315c0800000000000000
+      internalID: -4245833550594573975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_93
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 179
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12762e6f604ac2f00800000000000000
+      internalID: 1093429159362979617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_94
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 178
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecffaf99a3c52f50800000000000000
+      internalID: 6856101141037448425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_95
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 179
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f415f183177fd1a0800000000000000
+      internalID: -6782571588128271120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_96
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 117
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c993704f0e91aacc0800000000000000
+      internalID: -3699115689973958244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_97
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 121
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea3408c369cd8df0800000000000000
+      internalID: -176263380002915603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_98
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 123
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cee6e7e37f60be0800000000000000
+      internalID: -1511248777154991052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_99
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 124
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8351378a9abe087a0800000000000000
+      internalID: -6376837958448507592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_100
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 123
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40816067902982e60800000000000000
+      internalID: 7937754912572971012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_101
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 121
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4434be9d58d7a6e80800000000000000
+      internalID: -8184591358952258748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_102
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 117
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c23d98d6222d1a80800000000000000
+      internalID: -8494595771912604991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a515942a9b6f62840800000000000000
+      internalID: 5199114096997912922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 105
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94e18536fb743b90800000000000000
+      internalID: -7263044001651891046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_105
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 101
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bef2684bbc2521f0800000000000000
+      internalID: -1070400153545670992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_106
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 101
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaba2fb29940ff490800000000000000
+      internalID: -7710438981121168466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_107
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 105
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e621bfe63377370800000000000000
+      internalID: 8320175388341988898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_108
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 111
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e3bddc1e39a07f0800000000000000
+      internalID: -645540998543622536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_109
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 99
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a614e3076ea8050e0800000000000000
+      internalID: -2283172288746602134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_110
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 98
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799d5f8d6a0112290800000000000000
+      internalID: -7917028361150015081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_111
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 99
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab439f933e2f1aba0800000000000000
+      internalID: -6079310964229327686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_112
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 37
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa4168c1d6a1fb00800000000000000
+      internalID: 860652423744670372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_113
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 41
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeb3a84928b0eab0800000000000000
+      internalID: -4980778700419907863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_114
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 43
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf290a79b9719ba0800000000000000
+      internalID: -6083947784077496388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_115
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 44
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cf10725ae2fd6e0800000000000000
+      internalID: -1810677238320726900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_116
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 43
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25604086af7149a30800000000000000
+      internalID: 4221025115007354450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_117
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 41
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ccd180977fa43f0800000000000000
+      internalID: -915647475017200583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_118
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 37
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd96346b584f8d1f0800000000000000
+      internalID: -1019796460473718308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c02613de493d0c0800000000000000
+      internalID: -4552131051884770187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_120
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 25
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3a2dc01d262b180800000000000000
+      internalID: -9101103246959533092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_121
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 21
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5314cab0c2097a1c0800000000000000
+      internalID: -4492463584429981387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_122
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 21
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f4fdbddccfd2b10800000000000000
+      internalID: 1958499374063374181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_123
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 25
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0b759f62cf4e5b0800000000000000
+      internalID: -5339866013832335170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_124
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 31
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcb0c88d2ae082b0800000000000000
+      internalID: -5584206056650654501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_125
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 19
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e3f41bc15aa0420800000000000000
+      internalID: 2597069677784940165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_126
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 18
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6784c6b86f37a1900800000000000000
+      internalID: 655964198474106998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Double-Shadow_127
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 19
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605a4f5413e7ff400800000000000000
+      internalID: 360145245305087238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Double-Shadow_0: -5613964858977046590
+      Double-Shadow_1: -451782698633282468
+      Double-Shadow_10: -3373466787540707208
+      Double-Shadow_100: 7937754912572971012
+      Double-Shadow_101: -8184591358952258748
+      Double-Shadow_102: -8494595771912604991
+      Double-Shadow_103: 5199114096997912922
+      Double-Shadow_104: -7263044001651891046
+      Double-Shadow_105: -1070400153545670992
+      Double-Shadow_106: -7710438981121168466
+      Double-Shadow_107: 8320175388341988898
+      Double-Shadow_108: -645540998543622536
+      Double-Shadow_109: -2283172288746602134
+      Double-Shadow_11: 8243391857151878974
+      Double-Shadow_110: -7917028361150015081
+      Double-Shadow_111: -6079310964229327686
+      Double-Shadow_112: 860652423744670372
+      Double-Shadow_113: -4980778700419907863
+      Double-Shadow_114: -6083947784077496388
+      Double-Shadow_115: -1810677238320726900
+      Double-Shadow_116: 4221025115007354450
+      Double-Shadow_117: -915647475017200583
+      Double-Shadow_118: -1019796460473718308
+      Double-Shadow_119: -4552131051884770187
+      Double-Shadow_12: -2685161151909318115
+      Double-Shadow_120: -9101103246959533092
+      Double-Shadow_121: -4492463584429981387
+      Double-Shadow_122: 1958499374063374181
+      Double-Shadow_123: -5339866013832335170
+      Double-Shadow_124: -5584206056650654501
+      Double-Shadow_125: 2597069677784940165
+      Double-Shadow_126: 655964198474106998
+      Double-Shadow_127: 360145245305087238
+      Double-Shadow_13: -7533707293259627910
+      Double-Shadow_14: -5612530707996896162
+      Double-Shadow_15: 4595302092965043628
+      Double-Shadow_16: -2020043973336197441
+      Double-Shadow_17: 5623506010426105089
+      Double-Shadow_18: -7118399320270102488
+      Double-Shadow_19: -3530593807354123615
+      Double-Shadow_2: 8448746480935851392
+      Double-Shadow_20: 6248993032552027389
+      Double-Shadow_21: -5928104197285414406
+      Double-Shadow_22: -6914361026476282306
+      Double-Shadow_23: -3710037114447609012
+      Double-Shadow_24: 872528299146923272
+      Double-Shadow_25: 4689186327483329656
+      Double-Shadow_26: 3146417289959399880
+      Double-Shadow_27: -6189588372121787200
+      Double-Shadow_28: 6448614987958576215
+      Double-Shadow_29: 2578671756407055739
+      Double-Shadow_3: -2580363495290468265
+      Double-Shadow_30: 8461263108072025059
+      Double-Shadow_31: -853439943727917370
+      Double-Shadow_32: -6455671368148077054
+      Double-Shadow_33: -4096232257257139513
+      Double-Shadow_34: -7695744609332112999
+      Double-Shadow_35: -8197792184355130939
+      Double-Shadow_36: 637213744293709259
+      Double-Shadow_37: 3736179257096555667
+      Double-Shadow_38: -2246058201816167608
+      Double-Shadow_39: -3677828240508560673
+      Double-Shadow_4: 3975974756524072394
+      Double-Shadow_40: 7858034930891873021
+      Double-Shadow_41: -3693287199146678552
+      Double-Shadow_42: -1068007258152333767
+      Double-Shadow_43: 1676985044507944075
+      Double-Shadow_44: 2755074310940370911
+      Double-Shadow_45: -946249217351030628
+      Double-Shadow_46: -8392713126060370036
+      Double-Shadow_47: -5183314347878417685
+      Double-Shadow_48: 2731577240318952520
+      Double-Shadow_49: -4392473017723274341
+      Double-Shadow_5: -2802440657957186619
+      Double-Shadow_50: 8618170219852436646
+      Double-Shadow_51: -8066040475051102441
+      Double-Shadow_52: 4659473937619602340
+      Double-Shadow_53: -318095789074040879
+      Double-Shadow_54: 7846563780715101339
+      Double-Shadow_55: -4646504350608901030
+      Double-Shadow_56: -2728373938650143584
+      Double-Shadow_57: -4896928860251007572
+      Double-Shadow_58: -229377842344560383
+      Double-Shadow_59: 8562647430388434677
+      Double-Shadow_6: 5132264722724945870
+      Double-Shadow_60: -6024130013716887215
+      Double-Shadow_61: 1646135589669520911
+      Double-Shadow_62: -6399459509254258815
+      Double-Shadow_63: -3033667707714197914
+      Double-Shadow_64: 6031943885568022447
+      Double-Shadow_65: 3277077932946507352
+      Double-Shadow_66: 2535389822000165398
+      Double-Shadow_67: -3756746171669487106
+      Double-Shadow_68: -1902712654136689661
+      Double-Shadow_69: 6821111915966902789
+      Double-Shadow_7: -3680094172774994966
+      Double-Shadow_70: 2928859412512775075
+      Double-Shadow_71: 1121114566423169414
+      Double-Shadow_72: -1594447726401391340
+      Double-Shadow_73: -3505764789260601565
+      Double-Shadow_74: 373273402986242778
+      Double-Shadow_75: 1798645142521259643
+      Double-Shadow_76: 244247489870899837
+      Double-Shadow_77: 1901176631594846321
+      Double-Shadow_78: -696487898935623422
+      Double-Shadow_79: 5945223288230517494
+      Double-Shadow_8: -1990604156138677512
+      Double-Shadow_80: -1961291458845904212
+      Double-Shadow_81: -4942273503873955223
+      Double-Shadow_82: 6165667838257114769
+      Double-Shadow_83: 4614290721648478897
+      Double-Shadow_84: -8482002103700191958
+      Double-Shadow_85: 1025876371837148663
+      Double-Shadow_86: -3744713344895115470
+      Double-Shadow_87: -1981775682295897813
+      Double-Shadow_88: 2603876256275749792
+      Double-Shadow_89: -3093863585989132797
+      Double-Shadow_9: 5534370926261432171
+      Double-Shadow_90: -1805928933086449478
+      Double-Shadow_91: 865855901604003917
+      Double-Shadow_92: -4245833550594573975
+      Double-Shadow_93: 1093429159362979617
+      Double-Shadow_94: 6856101141037448425
+      Double-Shadow_95: -6782571588128271120
+      Double-Shadow_96: -3699115689973958244
+      Double-Shadow_97: -176263380002915603
+      Double-Shadow_98: -1511248777154991052
+      Double-Shadow_99: -6376837958448507592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
