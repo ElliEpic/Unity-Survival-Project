@@ -1,5 +1,5 @@
 using UnityEngine;
-
+// Script for making the camera follow the player
 public class CameraFollow : MonoBehaviour
 {
     public Transform player;
@@ -13,3 +13,5 @@ public class CameraFollow : MonoBehaviour
         );
     }
 }
+
+// Connecting my script to the camera in unity
