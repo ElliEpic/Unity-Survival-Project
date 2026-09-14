@@ -5,7 +5,7 @@ public class PlayerMovement : MonoBehaviour
 {
 
 
-    // Connecting my Unity components to my code
+    // Connecting my Unity components to my code even w1hen it's private
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Animator animator;
     [SerializeField] private float movespeed = 2.0f;
