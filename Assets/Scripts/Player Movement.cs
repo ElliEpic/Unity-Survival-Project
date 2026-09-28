@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    public static PlayerMovement Instance; 
 
 
     // Connecting my Unity components to my code even w1hen it's private
@@ -11,10 +12,20 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float movespeed = 2.0f;
     public Vector3 playerMoveDirection;
 
-    void Start()
+   /* void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-    }
+    }*/
+
+    void Awake()
+        {
+            if (Instance != null && Instance != this){
+                Destroy(this);
+            } else {
+                Instance = this;
+            }
+            
+        }
 
     void Update()
     {

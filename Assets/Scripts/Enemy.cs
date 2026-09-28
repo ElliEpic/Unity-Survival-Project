@@ -1,18 +1,29 @@
+using Unity.AppUI.UI;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
 
     [SerializeField] private SpriteRenderer spriteRenderer; 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    [SerializeField] private Rigidbody2D rb;
+    private Vector3 direction;
+    [SerializeField] private float movespeed;
 
-    // Update is called once per frame
-    void Update()
+  
+    void FixedUpdate()
     {
+        // Face the player
+        if(PlayerMovement.Instance.transform.position.x > transform.position.x)
+        {
+            spriteRenderer.flipX = true; 
+        }
+        else
+        {
+            spriteRenderer.flipX = false; 
+        }
+        //Move towards the player
+        direction = (PlayerMovement.Instance.transform.position - transform.position).normalized;
+        rb.linearVelocity = new Vector2(direction.x * movespeed, direction.y * movespeed);
         
     }
 }
