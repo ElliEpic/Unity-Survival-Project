@@ -1,0 +1,3239 @@
+fileFormatVersion: 2
+guid: 2e08bb6c35fcea74abca50b91e72dc13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 747906407973494992
+    second: Hover-Anim_0
+  - first:
+      213: -6330120746316848053
+    second: Hover-Anim_1
+  - first:
+      213: -4883608046066924517
+    second: Hover-Anim_2
+  - first:
+      213: -2737668617214470933
+    second: Hover-Anim_3
+  - first:
+      213: -1860754835504543897
+    second: Hover-Anim_4
+  - first:
+      213: 2406330655325430318
+    second: Hover-Anim_5
+  - first:
+      213: 38454416711958033
+    second: Hover-Anim_6
+  - first:
+      213: 1492031218338830806
+    second: Hover-Anim_7
+  - first:
+      213: -5279725271641435263
+    second: Hover-Anim_8
+  - first:
+      213: -6601701548568136201
+    second: Hover-Anim_9
+  - first:
+      213: 7832690741381128212
+    second: Hover-Anim_10
+  - first:
+      213: 766259712136035670
+    second: Hover-Anim_11
+  - first:
+      213: 557247168506353897
+    second: Hover-Anim_12
+  - first:
+      213: 6600383990012886729
+    second: Hover-Anim_13
+  - first:
+      213: 1851694012597906144
+    second: Hover-Anim_14
+  - first:
+      213: -227142653279764893
+    second: Hover-Anim_15
+  - first:
+      213: 9102686507616312850
+    second: Hover-Anim_16
+  - first:
+      213: 5994779827558056216
+    second: Hover-Anim_17
+  - first:
+      213: 8241957265389468118
+    second: Hover-Anim_18
+  - first:
+      213: 5397249680571884049
+    second: Hover-Anim_19
+  - first:
+      213: -4922726116240877486
+    second: Hover-Anim_20
+  - first:
+      213: -6958709579118238438
+    second: Hover-Anim_21
+  - first:
+      213: 9147631990954859955
+    second: Hover-Anim_22
+  - first:
+      213: 4528227395682043761
+    second: Hover-Anim_23
+  - first:
+      213: 7182003209409130477
+    second: Hover-Anim_24
+  - first:
+      213: 1121037399647577539
+    second: Hover-Anim_25
+  - first:
+      213: 9076515285641479842
+    second: Hover-Anim_26
+  - first:
+      213: -8713020110074558538
+    second: Hover-Anim_27
+  - first:
+      213: 5223769056080090040
+    second: Hover-Anim_28
+  - first:
+      213: -2417529326879349555
+    second: Hover-Anim_29
+  - first:
+      213: -520945535745793163
+    second: Hover-Anim_30
+  - first:
+      213: -8682950125002936125
+    second: Hover-Anim_31
+  - first:
+      213: -8106851380441490732
+    second: Hover-Anim_32
+  - first:
+      213: 1741455244163182346
+    second: Hover-Anim_33
+  - first:
+      213: -1416351678702810690
+    second: Hover-Anim_34
+  - first:
+      213: -3852906908986830941
+    second: Hover-Anim_35
+  - first:
+      213: -8872886296399635481
+    second: Hover-Anim_36
+  - first:
+      213: -4935484796688729936
+    second: Hover-Anim_37
+  - first:
+      213: 5559263238217443136
+    second: Hover-Anim_38
+  - first:
+      213: -4198488140608417915
+    second: Hover-Anim_39
+  - first:
+      213: 3266852436148921920
+    second: Hover-Anim_40
+  - first:
+      213: 98808771816457475
+    second: Hover-Anim_41
+  - first:
+      213: 3210456493991519798
+    second: Hover-Anim_42
+  - first:
+      213: 1407168512005665642
+    second: Hover-Anim_43
+  - first:
+      213: -5993720869919438455
+    second: Hover-Anim_44
+  - first:
+      213: -3293222056327050759
+    second: Hover-Anim_45
+  - first:
+      213: -3192536422605261902
+    second: Hover-Anim_46
+  - first:
+      213: -2291983586666924632
+    second: Hover-Anim_47
+  - first:
+      213: 6401098027173998342
+    second: Hover-Anim_48
+  - first:
+      213: 5346915570222723449
+    second: Hover-Anim_49
+  - first:
+      213: -5412628819177957799
+    second: Hover-Anim_50
+  - first:
+      213: 5370362667774536967
+    second: Hover-Anim_51
+  - first:
+      213: 1323586019394016871
+    second: Hover-Anim_52
+  - first:
+      213: -4500240358631624967
+    second: Hover-Anim_53
+  - first:
+      213: -3212755958839536236
+    second: Hover-Anim_54
+  - first:
+      213: 3762517336882100944
+    second: Hover-Anim_55
+  - first:
+      213: 8677677739006683703
+    second: Hover-Anim_56
+  - first:
+      213: 5430103622840905458
+    second: Hover-Anim_57
+  - first:
+      213: 7872110180580643816
+    second: Hover-Anim_58
+  - first:
+      213: 4279586607291687315
+    second: Hover-Anim_59
+  - first:
+      213: 6343721761534640529
+    second: Hover-Anim_60
+  - first:
+      213: -4129718919373030153
+    second: Hover-Anim_61
+  - first:
+      213: -7880636177230505437
+    second: Hover-Anim_62
+  - first:
+      213: 1054067072263320834
+    second: Hover-Anim_63
+  - first:
+      213: 7049246492821912491
+    second: Hover-Anim_64
+  - first:
+      213: -4829121726515622886
+    second: Hover-Anim_65
+  - first:
+      213: -7190461438079790094
+    second: Hover-Anim_66
+  - first:
+      213: -776931319219245994
+    second: Hover-Anim_67
+  - first:
+      213: -8041051880797624207
+    second: Hover-Anim_68
+  - first:
+      213: 8519781782262684083
+    second: Hover-Anim_69
+  - first:
+      213: 165089986692402180
+    second: Hover-Anim_70
+  - first:
+      213: 6385594172425715915
+    second: Hover-Anim_71
+  - first:
+      213: 6467208623134650894
+    second: Hover-Anim_72
+  - first:
+      213: -8619301475727605660
+    second: Hover-Anim_73
+  - first:
+      213: 7110996430702335083
+    second: Hover-Anim_74
+  - first:
+      213: -1468043059416520665
+    second: Hover-Anim_75
+  - first:
+      213: 3712301299400089046
+    second: Hover-Anim_76
+  - first:
+      213: 1236046905862387182
+    second: Hover-Anim_77
+  - first:
+      213: -2891868648362301749
+    second: Hover-Anim_78
+  - first:
+      213: -3619641572170096615
+    second: Hover-Anim_79
+  - first:
+      213: 6128275555120361532
+    second: Hover-Anim_80
+  - first:
+      213: -2402445112641023397
+    second: Hover-Anim_81
+  - first:
+      213: -329680400602361906
+    second: Hover-Anim_82
+  - first:
+      213: 8297821539752704825
+    second: Hover-Anim_83
+  - first:
+      213: -2835387461247048101
+    second: Hover-Anim_84
+  - first:
+      213: 7261926702647071813
+    second: Hover-Anim_85
+  - first:
+      213: 1412645948548013704
+    second: Hover-Anim_86
+  - first:
+      213: 4105216484131961471
+    second: Hover-Anim_87
+  - first:
+      213: -6103437489272284930
+    second: Hover-Anim_88
+  - first:
+      213: 515790149263202755
+    second: Hover-Anim_89
+  - first:
+      213: -3681166796222175423
+    second: Hover-Anim_90
+  - first:
+      213: 7732269247336467936
+    second: Hover-Anim_91
+  - first:
+      213: 3179156809419234422
+    second: Hover-Anim_92
+  - first:
+      213: 5771714090184216084
+    second: Hover-Anim_93
+  - first:
+      213: 8575296341725450303
+    second: Hover-Anim_94
+  - first:
+      213: -4180126234212311609
+    second: Hover-Anim_95
+  - first:
+      213: -6088950056345800718
+    second: Hover-Anim_96
+  - first:
+      213: -6273914053130413822
+    second: Hover-Anim_97
+  - first:
+      213: 7497929142113223375
+    second: Hover-Anim_98
+  - first:
+      213: -3352155234401667598
+    second: Hover-Anim_99
+  - first:
+      213: -5771255110516306814
+    second: Hover-Anim_100
+  - first:
+      213: 4244638423416434143
+    second: Hover-Anim_101
+  - first:
+      213: -7881801523095624583
+    second: Hover-Anim_102
+  - first:
+      213: -8525104007250589163
+    second: Hover-Anim_103
+  - first:
+      213: -2703550695379772643
+    second: Hover-Anim_104
+  - first:
+      213: -839719101709353237
+    second: Hover-Anim_105
+  - first:
+      213: 8906958484059481105
+    second: Hover-Anim_106
+  - first:
+      213: 4607149929429981264
+    second: Hover-Anim_107
+  - first:
+      213: -1798464444884469950
+    second: Hover-Anim_108
+  - first:
+      213: 7047647670079972317
+    second: Hover-Anim_109
+  - first:
+      213: 5886068111644956559
+    second: Hover-Anim_110
+  - first:
+      213: -5923171589436680576
+    second: Hover-Anim_111
+  - first:
+      213: -5059831231221000063
+    second: Hover-Anim_112
+  - first:
+      213: 5097836075880127563
+    second: Hover-Anim_113
+  - first:
+      213: -7080404966589169699
+    second: Hover-Anim_114
+  - first:
+      213: -4567310432472249248
+    second: Hover-Anim_115
+  - first:
+      213: -67334838707889013
+    second: Hover-Anim_116
+  - first:
+      213: 3449988569572343843
+    second: Hover-Anim_117
+  - first:
+      213: -6380860367007909642
+    second: Hover-Anim_118
+  - first:
+      213: -2450788243762872865
+    second: Hover-Anim_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hover-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 478
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0af7c5ae8116a00800000000000000
+      internalID: 747906407973494992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 479
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44247a38b4e628a0800000000000000
+      internalID: -6330120746316848053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 478
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1401f74b50f93cb0800000000000000
+      internalID: -4883608046066924517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 480
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4523eb5e8d10ad0800000000000000
+      internalID: -2737668617214470933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 480
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76749a7f5554d26e0800000000000000
+      internalID: -1860754835504543897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 479
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e222ec25bf0056120800000000000000
+      internalID: 2406330655325430318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 478
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e3928961e988000800000000000000
+      internalID: 38454416711958033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 480
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d911eaec72c4b410800000000000000
+      internalID: 1492031218338830806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 478
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183d820b6d5aab6b0800000000000000
+      internalID: -5279725271641435263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 479
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5337c3b6b0264a0800000000000000
+      internalID: -6601701548568136201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 478
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410638bdabe43bc60800000000000000
+      internalID: 7832690741381128212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 480
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dbf8bf52d42aa00800000000000000
+      internalID: 766259712136035670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 480
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8d9eae85dbbb700800000000000000
+      internalID: 557247168506353897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 479
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceb4e1c446499b50800000000000000
+      internalID: 6600383990012886729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 478
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eaad9dc4e982b910800000000000000
+      internalID: 1851694012597906144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 413
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e7be5d5f609dcf0800000000000000
+      internalID: -227142653279764893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 414
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e163c862d335e70800000000000000
+      internalID: 9102686507616312850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 413
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8118640dd7cb13350800000000000000
+      internalID: 5994779827558056216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 415
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d93d711770516270800000000000000
+      internalID: 8241957265389468118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 416
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112e3961df1e6ea40800000000000000
+      internalID: 5397249680571884049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 415
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2589ce2dda6feabb0800000000000000
+      internalID: -4922726116240877486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 413
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15ac81b182bd6f90800000000000000
+      internalID: -6958709579118238438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 415
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd1ddc54dae2fe70800000000000000
+      internalID: 9147631990954859955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 413
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17702d523de77de30800000000000000
+      internalID: 4528227395682043761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 414
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defeb88fdd99ba360800000000000000
+      internalID: 7182003209409130477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 413
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5ebe15399be8f00800000000000000
+      internalID: 1121037399647577539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 415
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a64017109246fd70800000000000000
+      internalID: 9076515285641479842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 416
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7cb2a9f52251780800000000000000
+      internalID: -8713020110074558538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 415
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3d450a74e8e7840800000000000000
+      internalID: 5223769056080090040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 413
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc46445c2e5337ed0800000000000000
+      internalID: -2417529326879349555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 349
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573eb8a9bca35c8f0800000000000000
+      internalID: -520945535745793163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 350
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c034c49dd6ff7780800000000000000
+      internalID: -8682950125002936125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 349
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da56e51f9dae7f80800000000000000
+      internalID: -8106851380441490732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 350
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f66946154ea2810800000000000000
+      internalID: 1741455244163182346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 351
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb904e107ab185ce0800000000000000
+      internalID: -1416351678702810690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 352
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af01317499b78ac0800000000000000
+      internalID: -3852906908986830941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 350
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb1baa8cec2dd480800000000000000
+      internalID: -8872886296399635481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 351
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8f60b0ab2a18bb0800000000000000
+      internalID: -4935484796688729936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 349
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047a6def578762d40800000000000000
+      internalID: 5559263238217443136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 350
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f4859d749fbb5c0800000000000000
+      internalID: -4198488140608417915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 349
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046a64e6bf0365d20800000000000000
+      internalID: 3266852436148921920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_41
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 350
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30500d0fd0a0f5100800000000000000
+      internalID: 98808771816457475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 351
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636e53beb25dd8c20800000000000000
+      internalID: 3210456493991519798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 352
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6376316e44478310800000000000000
+      internalID: 1407168512005665642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_44
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 350
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9894b99ff9602dca0800000000000000
+      internalID: -5993720869919438455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 286
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9052eecff1c42d0800000000000000
+      internalID: -3293222056327050759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 288
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3fd16d905d1b3d0800000000000000
+      internalID: -3192536422605261902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 288
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a531b5421d3130e0800000000000000
+      internalID: -2291983586666924632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 287
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fe822cdb445d850800000000000000
+      internalID: 6401098027173998342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 289
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9717127c16f043a40800000000000000
+      internalID: 5346915570222723449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 289
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9561bdb24ca72e4b0800000000000000
+      internalID: -5412628819177957799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_51
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 286
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d68b7946c578a40800000000000000
+      internalID: 5370362667774536967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_52
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 287
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76657a3d8725e5210800000000000000
+      internalID: 1323586019394016871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 286
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fea2e3bc3feb81c0800000000000000
+      internalID: -4500240358631624967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 288
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49599533a7ff963d0800000000000000
+      internalID: -3212755958839536236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 288
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da3b1e4595273430800000000000000
+      internalID: 3762517336882100944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_56
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 287
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73aeec46ded4d6870800000000000000
+      internalID: 8677677739006683703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_57
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 289
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe6efc997a9b5b40800000000000000
+      internalID: 5430103622840905458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_58
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 289
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3de32408a5f3d60800000000000000
+      internalID: 7872110180580643816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_59
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 286
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391e3295855246b30800000000000000
+      internalID: 4279586607291687315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 223
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1910036e45d690850800000000000000
+      internalID: 6343721761534640529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 224
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc7f84e58a40b6c0800000000000000
+      internalID: -4129718919373030153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_62
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 223
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a5514762b52a290800000000000000
+      internalID: -7880636177230505437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 226
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205f0b3ea6cc0ae00800000000000000
+      internalID: 1054067072263320834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_64
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 225
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab71d23654f3d160800000000000000
+      internalID: 7049246492821912491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_65
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 224
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c4ae120638bfcb0800000000000000
+      internalID: -4829121726515622886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_66
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 223
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f31c143b69563c90800000000000000
+      internalID: -7190461438079790094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_67
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 226
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65caf0fd419c735f0800000000000000
+      internalID: -776931319219245994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_68
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 223
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1782290fae1786090800000000000000
+      internalID: -8041051880797624207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_69
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 224
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b99c9724685c3670800000000000000
+      internalID: 8519781782262684083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_70
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 223
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c46ccd7748a4200800000000000000
+      internalID: 165089986692402180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_71
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 226
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc04d3741103e9850800000000000000
+      internalID: 6385594172425715915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_72
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 225
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02b84e5af320c950800000000000000
+      internalID: 6467208623134650894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_73
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 224
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460814f89f6126880800000000000000
+      internalID: -8619301475727605660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_74
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 223
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64551bf3955fa260800000000000000
+      internalID: 7110996430702335083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_75
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 158
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72820809d9670abe0800000000000000
+      internalID: -1468043059416520665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_76
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 160
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd96f9fc5eb48330800000000000000
+      internalID: 3712301299400089046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_77
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 160
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5f5adac12572110800000000000000
+      internalID: 1236046905862387182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_78
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 159
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6a64d39c40ed7d0800000000000000
+      internalID: -2891868648362301749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_79
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 161
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910a094fa2374cdc0800000000000000
+      internalID: -3619641572170096615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_80
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 161
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30b8acf5220c0550800000000000000
+      internalID: 6128275555120361532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_81
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 158
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5298a416ecc8aed0800000000000000
+      internalID: -2402445112641023397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_82
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 159
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf00b02c6dbc6bf0800000000000000
+      internalID: -329680400602361906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_83
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 158
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b7b860ab8c72370800000000000000
+      internalID: 8297821539752704825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_84
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 160
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56e5c3602ea6a8d0800000000000000
+      internalID: -2835387461247048101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_85
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 160
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544d3385cdb87c460800000000000000
+      internalID: 7261926702647071813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_86
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 159
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e5994710aba9310800000000000000
+      internalID: 1412645948548013704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_87
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 161
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a73c654a8a8f830800000000000000
+      internalID: 4105216484131961471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_88
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 161
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef89f1fd0fb3c4ba0800000000000000
+      internalID: -6103437489272284930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_89
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 158
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c99a717864782700800000000000000
+      internalID: 515790149263202755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_90
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 93
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147e6307d4ed9ecc0800000000000000
+      internalID: -3681166796222175423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_91
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 94
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edca23c9e98e4b60800000000000000
+      internalID: 7732269247336467936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_92
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 93
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c92b63642ae1c20800000000000000
+      internalID: 3179156809419234422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_93
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 94
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e0c8a926f391050800000000000000
+      internalID: 5771714090184216084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_94
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 95
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f309044c692910770800000000000000
+      internalID: 8575296341725450303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_95
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 96
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cddb7556553df5c0800000000000000
+      internalID: -4180126234212311609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_96
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 94
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffe9643f24bf7ba0800000000000000
+      internalID: -6088950056345800718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_97
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 94
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20994d7c8649ee8a0800000000000000
+      internalID: -6273914053130413822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_98
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 93
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc245ba34defd0860800000000000000
+      internalID: 7497929142113223375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_99
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 94
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5b5852390ca71d0800000000000000
+      internalID: -3352155234401667598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_100
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 93
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c848ded0268efa0800000000000000
+      internalID: -5771255110516306814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_101
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 94
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdde5b3382cf7ea30800000000000000
+      internalID: 4244638423416434143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_102
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 95
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974a0c936473e9290800000000000000
+      internalID: -7881801523095624583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_103
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 96
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ac196c21fb0b980800000000000000
+      internalID: -8525104007250589163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_104
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 94
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bd0a177fe0b7ad0800000000000000
+      internalID: -2703550695379772643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_105
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 29
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beef08f0de7b854f0800000000000000
+      internalID: -839719101709353237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_106
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 30
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1146487dc8fdb9b70800000000000000
+      internalID: 8906958484059481105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_107
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 29
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058d3aa7372efef30800000000000000
+      internalID: 4607149929429981264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_108
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 31
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247bd75bd129a07e0800000000000000
+      internalID: -1798464444884469950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_109
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 32
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3e93547364ec160800000000000000
+      internalID: 7047647670079972317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_110
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 31
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f871a5603c38fa150800000000000000
+      internalID: 5886068111644956559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_111
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 29
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086d0fb52daaccda0800000000000000
+      internalID: -5923171589436680576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_112
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 31
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18815a7ad4ed7c9b0800000000000000
+      internalID: -5059831231221000063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_113
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 29
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c910ac6e62fb640800000000000000
+      internalID: 5097836075880127563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_114
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 30
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf7a8c42395dbd90800000000000000
+      internalID: -7080404966589169699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_115
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 29
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c4e8d3c57ad90c0800000000000000
+      internalID: -4567310432472249248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_116
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 31
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cdec92257c01ff0800000000000000
+      internalID: -67334838707889013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_117
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 32
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32084804352d0ef20800000000000000
+      internalID: 3449988569572343843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_118
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 31
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8ff1fad41a277a0800000000000000
+      internalID: -6380860367007909642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Anim_119
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 29
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd7fceb31d0dfdd0800000000000000
+      internalID: -2450788243762872865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hover-Anim_0: 747906407973494992
+      Hover-Anim_1: -6330120746316848053
+      Hover-Anim_10: 7832690741381128212
+      Hover-Anim_100: -5771255110516306814
+      Hover-Anim_101: 4244638423416434143
+      Hover-Anim_102: -7881801523095624583
+      Hover-Anim_103: -8525104007250589163
+      Hover-Anim_104: -2703550695379772643
+      Hover-Anim_105: -839719101709353237
+      Hover-Anim_106: 8906958484059481105
+      Hover-Anim_107: 4607149929429981264
+      Hover-Anim_108: -1798464444884469950
+      Hover-Anim_109: 7047647670079972317
+      Hover-Anim_11: 766259712136035670
+      Hover-Anim_110: 5886068111644956559
+      Hover-Anim_111: -5923171589436680576
+      Hover-Anim_112: -5059831231221000063
+      Hover-Anim_113: 5097836075880127563
+      Hover-Anim_114: -7080404966589169699
+      Hover-Anim_115: -4567310432472249248
+      Hover-Anim_116: -67334838707889013
+      Hover-Anim_117: 3449988569572343843
+      Hover-Anim_118: -6380860367007909642
+      Hover-Anim_119: -2450788243762872865
+      Hover-Anim_12: 557247168506353897
+      Hover-Anim_13: 6600383990012886729
+      Hover-Anim_14: 1851694012597906144
+      Hover-Anim_15: -227142653279764893
+      Hover-Anim_16: 9102686507616312850
+      Hover-Anim_17: 5994779827558056216
+      Hover-Anim_18: 8241957265389468118
+      Hover-Anim_19: 5397249680571884049
+      Hover-Anim_2: -4883608046066924517
+      Hover-Anim_20: -4922726116240877486
+      Hover-Anim_21: -6958709579118238438
+      Hover-Anim_22: 9147631990954859955
+      Hover-Anim_23: 4528227395682043761
+      Hover-Anim_24: 7182003209409130477
+      Hover-Anim_25: 1121037399647577539
+      Hover-Anim_26: 9076515285641479842
+      Hover-Anim_27: -8713020110074558538
+      Hover-Anim_28: 5223769056080090040
+      Hover-Anim_29: -2417529326879349555
+      Hover-Anim_3: -2737668617214470933
+      Hover-Anim_30: -520945535745793163
+      Hover-Anim_31: -8682950125002936125
+      Hover-Anim_32: -8106851380441490732
+      Hover-Anim_33: 1741455244163182346
+      Hover-Anim_34: -1416351678702810690
+      Hover-Anim_35: -3852906908986830941
+      Hover-Anim_36: -8872886296399635481
+      Hover-Anim_37: -4935484796688729936
+      Hover-Anim_38: 5559263238217443136
+      Hover-Anim_39: -4198488140608417915
+      Hover-Anim_4: -1860754835504543897
+      Hover-Anim_40: 3266852436148921920
+      Hover-Anim_41: 98808771816457475
+      Hover-Anim_42: 3210456493991519798
+      Hover-Anim_43: 1407168512005665642
+      Hover-Anim_44: -5993720869919438455
+      Hover-Anim_45: -3293222056327050759
+      Hover-Anim_46: -3192536422605261902
+      Hover-Anim_47: -2291983586666924632
+      Hover-Anim_48: 6401098027173998342
+      Hover-Anim_49: 5346915570222723449
+      Hover-Anim_5: 2406330655325430318
+      Hover-Anim_50: -5412628819177957799
+      Hover-Anim_51: 5370362667774536967
+      Hover-Anim_52: 1323586019394016871
+      Hover-Anim_53: -4500240358631624967
+      Hover-Anim_54: -3212755958839536236
+      Hover-Anim_55: 3762517336882100944
+      Hover-Anim_56: 8677677739006683703
+      Hover-Anim_57: 5430103622840905458
+      Hover-Anim_58: 7872110180580643816
+      Hover-Anim_59: 4279586607291687315
+      Hover-Anim_6: 38454416711958033
+      Hover-Anim_60: 6343721761534640529
+      Hover-Anim_61: -4129718919373030153
+      Hover-Anim_62: -7880636177230505437
+      Hover-Anim_63: 1054067072263320834
+      Hover-Anim_64: 7049246492821912491
+      Hover-Anim_65: -4829121726515622886
+      Hover-Anim_66: -7190461438079790094
+      Hover-Anim_67: -776931319219245994
+      Hover-Anim_68: -8041051880797624207
+      Hover-Anim_69: 8519781782262684083
+      Hover-Anim_7: 1492031218338830806
+      Hover-Anim_70: 165089986692402180
+      Hover-Anim_71: 6385594172425715915
+      Hover-Anim_72: 6467208623134650894
+      Hover-Anim_73: -8619301475727605660
+      Hover-Anim_74: 7110996430702335083
+      Hover-Anim_75: -1468043059416520665
+      Hover-Anim_76: 3712301299400089046
+      Hover-Anim_77: 1236046905862387182
+      Hover-Anim_78: -2891868648362301749
+      Hover-Anim_79: -3619641572170096615
+      Hover-Anim_8: -5279725271641435263
+      Hover-Anim_80: 6128275555120361532
+      Hover-Anim_81: -2402445112641023397
+      Hover-Anim_82: -329680400602361906
+      Hover-Anim_83: 8297821539752704825
+      Hover-Anim_84: -2835387461247048101
+      Hover-Anim_85: 7261926702647071813
+      Hover-Anim_86: 1412645948548013704
+      Hover-Anim_87: 4105216484131961471
+      Hover-Anim_88: -6103437489272284930
+      Hover-Anim_89: 515790149263202755
+      Hover-Anim_9: -6601701548568136201
+      Hover-Anim_90: -3681166796222175423
+      Hover-Anim_91: 7732269247336467936
+      Hover-Anim_92: 3179156809419234422
+      Hover-Anim_93: 5771714090184216084
+      Hover-Anim_94: 8575296341725450303
+      Hover-Anim_95: -4180126234212311609
+      Hover-Anim_96: -6088950056345800718
+      Hover-Anim_97: -6273914053130413822
+      Hover-Anim_98: 7497929142113223375
+      Hover-Anim_99: -3352155234401667598
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

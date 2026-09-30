@@ -1,29 +1,42 @@
+using System.Collections.Generic;
 using UnityEditor.Rendering;
 using UnityEngine;
 
 public class NewMonoBehaviourScript : MonoBehaviour
-{
-    public GameObject enemyPrefab;
-    private float spawnTimer; 
-    public float spawnInterval; 
-    public Transform parent;
+{ 
+    [System.Serializable]
+    public class Wave 
+    {
+
+        public GameObject enemyPrefab;
+        public float spawnTimer; 
+        public float spawnInterval; 
+        public Transform parent;
+        public int enemiesPerWave;
+        public int spawnEnemyCount;
+    
+    
+    }
+
+    public List<Wave> waves;
+    public int waveNumber;
 
     // Update is called once per frame
     void Update()
     {
-        spawnTimer += Time.deltaTime; 
-        if(spawnTimer >= spawnInterval)
+        waves[waveNumber].spawnTimer += Time.deltaTime; 
+        if(waves[waveNumber].spawnTimer >= waves[waveNumber].spawnInterval)
         {
-            spawnTimer = 0;
+            waves[waveNumber].spawnTimer = 0;
             SpawnEnemy();
         }
     }
 
     private void SpawnEnemy()
     {
-        GameObject enemy = Instantiate(enemyPrefab, parent);
+        GameObject enemy = Instantiate(waves[waveNumber].enemyPrefab, waves[waveNumber].parent);
 
-        enemy.transform.localPosition = parent.transform.position;
+        enemy.transform.localPosition = waves[waveNumber].parent.transform.position;
         
         
     }

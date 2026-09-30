@@ -1,0 +1,3239 @@
+fileFormatVersion: 2
+guid: a9c6211ed091a2d49971bf2d357837f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5617059620426544852
+    second: Hover-Shadow_0
+  - first:
+      213: -2114528174360383897
+    second: Hover-Shadow_1
+  - first:
+      213: -381848487229932522
+    second: Hover-Shadow_2
+  - first:
+      213: 3838802902520508141
+    second: Hover-Shadow_3
+  - first:
+      213: 7960463971759688195
+    second: Hover-Shadow_4
+  - first:
+      213: -517186457905692164
+    second: Hover-Shadow_5
+  - first:
+      213: 3210174822362451459
+    second: Hover-Shadow_6
+  - first:
+      213: -3528931412144576804
+    second: Hover-Shadow_7
+  - first:
+      213: -8482850099434098729
+    second: Hover-Shadow_8
+  - first:
+      213: 4514141685278584935
+    second: Hover-Shadow_9
+  - first:
+      213: 5960436159237385365
+    second: Hover-Shadow_10
+  - first:
+      213: -1975392969173822726
+    second: Hover-Shadow_11
+  - first:
+      213: 7563807646533737056
+    second: Hover-Shadow_12
+  - first:
+      213: -1840970560409623616
+    second: Hover-Shadow_13
+  - first:
+      213: -1251883671655325274
+    second: Hover-Shadow_14
+  - first:
+      213: -4834732154838901575
+    second: Hover-Shadow_15
+  - first:
+      213: 4445719179190342958
+    second: Hover-Shadow_16
+  - first:
+      213: 7453181620508974470
+    second: Hover-Shadow_17
+  - first:
+      213: 7032240662543667560
+    second: Hover-Shadow_18
+  - first:
+      213: -1867041652306915848
+    second: Hover-Shadow_19
+  - first:
+      213: 3256009024512334930
+    second: Hover-Shadow_20
+  - first:
+      213: -8473798738346371932
+    second: Hover-Shadow_21
+  - first:
+      213: 2109733863147463376
+    second: Hover-Shadow_22
+  - first:
+      213: 8443315277561488739
+    second: Hover-Shadow_23
+  - first:
+      213: -6848747135108031479
+    second: Hover-Shadow_24
+  - first:
+      213: -5026769288952136566
+    second: Hover-Shadow_25
+  - first:
+      213: -7316143712845292670
+    second: Hover-Shadow_26
+  - first:
+      213: 6076441916650098057
+    second: Hover-Shadow_27
+  - first:
+      213: -2923438893441667442
+    second: Hover-Shadow_28
+  - first:
+      213: 8173677059191443197
+    second: Hover-Shadow_29
+  - first:
+      213: 4605426224934725730
+    second: Hover-Shadow_30
+  - first:
+      213: -1645347131594541681
+    second: Hover-Shadow_31
+  - first:
+      213: -6886700629725554336
+    second: Hover-Shadow_32
+  - first:
+      213: -5259627048536469899
+    second: Hover-Shadow_33
+  - first:
+      213: 669440097610359858
+    second: Hover-Shadow_34
+  - first:
+      213: -1097197787030541660
+    second: Hover-Shadow_35
+  - first:
+      213: 3338597034249149199
+    second: Hover-Shadow_36
+  - first:
+      213: 146593331140700013
+    second: Hover-Shadow_37
+  - first:
+      213: 1696486117097968497
+    second: Hover-Shadow_38
+  - first:
+      213: 5425168409530210118
+    second: Hover-Shadow_39
+  - first:
+      213: -1320090324654102708
+    second: Hover-Shadow_40
+  - first:
+      213: 5092067319717727618
+    second: Hover-Shadow_41
+  - first:
+      213: -2298147897336722140
+    second: Hover-Shadow_42
+  - first:
+      213: 111829055755823419
+    second: Hover-Shadow_43
+  - first:
+      213: 7821715970877727191
+    second: Hover-Shadow_44
+  - first:
+      213: -3190169746607896170
+    second: Hover-Shadow_45
+  - first:
+      213: 4396172956496992270
+    second: Hover-Shadow_46
+  - first:
+      213: -6025768310957800200
+    second: Hover-Shadow_47
+  - first:
+      213: 531795205932941270
+    second: Hover-Shadow_48
+  - first:
+      213: -6808147901540704697
+    second: Hover-Shadow_49
+  - first:
+      213: 3155984404675036074
+    second: Hover-Shadow_50
+  - first:
+      213: 914655643465432971
+    second: Hover-Shadow_51
+  - first:
+      213: -1096415672279996586
+    second: Hover-Shadow_52
+  - first:
+      213: 8079707005608470945
+    second: Hover-Shadow_53
+  - first:
+      213: -8320706974448045402
+    second: Hover-Shadow_54
+  - first:
+      213: 5826682364568616157
+    second: Hover-Shadow_55
+  - first:
+      213: 2759926013115208723
+    second: Hover-Shadow_56
+  - first:
+      213: 8638804613048437994
+    second: Hover-Shadow_57
+  - first:
+      213: 2735316551585140249
+    second: Hover-Shadow_58
+  - first:
+      213: -8367822701594749786
+    second: Hover-Shadow_59
+  - first:
+      213: -2316374542539416543
+    second: Hover-Shadow_60
+  - first:
+      213: 9014775039943164952
+    second: Hover-Shadow_61
+  - first:
+      213: 6868616846523325901
+    second: Hover-Shadow_62
+  - first:
+      213: 76529311525117331
+    second: Hover-Shadow_63
+  - first:
+      213: -2614029975619736659
+    second: Hover-Shadow_64
+  - first:
+      213: 671555386665468189
+    second: Hover-Shadow_65
+  - first:
+      213: 3959047019661677484
+    second: Hover-Shadow_66
+  - first:
+      213: -8311771558042599644
+    second: Hover-Shadow_67
+  - first:
+      213: -2981156748605047443
+    second: Hover-Shadow_68
+  - first:
+      213: -4622452621463072824
+    second: Hover-Shadow_69
+  - first:
+      213: 2571092328909922054
+    second: Hover-Shadow_70
+  - first:
+      213: 5433835573411629773
+    second: Hover-Shadow_71
+  - first:
+      213: -1711779495418870933
+    second: Hover-Shadow_72
+  - first:
+      213: -6868057603540208354
+    second: Hover-Shadow_73
+  - first:
+      213: 2342769083421860034
+    second: Hover-Shadow_74
+  - first:
+      213: -373219707805665685
+    second: Hover-Shadow_75
+  - first:
+      213: 7082907084843000933
+    second: Hover-Shadow_76
+  - first:
+      213: 6840333954320243428
+    second: Hover-Shadow_77
+  - first:
+      213: 498879128683560444
+    second: Hover-Shadow_78
+  - first:
+      213: -5498550782745930574
+    second: Hover-Shadow_79
+  - first:
+      213: 8230248889366462586
+    second: Hover-Shadow_80
+  - first:
+      213: -6238472807024020635
+    second: Hover-Shadow_81
+  - first:
+      213: -8248650095302674256
+    second: Hover-Shadow_82
+  - first:
+      213: -1702855733554762390
+    second: Hover-Shadow_83
+  - first:
+      213: 7180115341643041752
+    second: Hover-Shadow_84
+  - first:
+      213: -8066338811324505140
+    second: Hover-Shadow_85
+  - first:
+      213: -1714890385636261414
+    second: Hover-Shadow_86
+  - first:
+      213: -8940119331565922555
+    second: Hover-Shadow_87
+  - first:
+      213: -5468753973576797781
+    second: Hover-Shadow_88
+  - first:
+      213: -4178993794948235338
+    second: Hover-Shadow_89
+  - first:
+      213: -3744281462990211448
+    second: Hover-Shadow_90
+  - first:
+      213: 3952681019399826159
+    second: Hover-Shadow_91
+  - first:
+      213: -7217509586283128197
+    second: Hover-Shadow_92
+  - first:
+      213: -4252001084120947607
+    second: Hover-Shadow_93
+  - first:
+      213: 5791526796186617520
+    second: Hover-Shadow_94
+  - first:
+      213: 2719752197568673019
+    second: Hover-Shadow_95
+  - first:
+      213: -1973977981653251879
+    second: Hover-Shadow_96
+  - first:
+      213: 342026642721290122
+    second: Hover-Shadow_97
+  - first:
+      213: 4030936789276555021
+    second: Hover-Shadow_98
+  - first:
+      213: -2143624346832331169
+    second: Hover-Shadow_99
+  - first:
+      213: 3238642004964937152
+    second: Hover-Shadow_100
+  - first:
+      213: -2704799104476545048
+    second: Hover-Shadow_101
+  - first:
+      213: -1546435923417614184
+    second: Hover-Shadow_102
+  - first:
+      213: 7418331793631970804
+    second: Hover-Shadow_103
+  - first:
+      213: 626172626971122335
+    second: Hover-Shadow_104
+  - first:
+      213: -6347711110520056001
+    second: Hover-Shadow_105
+  - first:
+      213: -7392615226908882522
+    second: Hover-Shadow_106
+  - first:
+      213: 3929452381023277544
+    second: Hover-Shadow_107
+  - first:
+      213: -4138614250731797440
+    second: Hover-Shadow_108
+  - first:
+      213: -1961899383952078183
+    second: Hover-Shadow_109
+  - first:
+      213: 2603870662331480151
+    second: Hover-Shadow_110
+  - first:
+      213: 7795816666260919347
+    second: Hover-Shadow_111
+  - first:
+      213: -6777059130353913757
+    second: Hover-Shadow_112
+  - first:
+      213: 3861584995838888490
+    second: Hover-Shadow_113
+  - first:
+      213: -2138057104261022513
+    second: Hover-Shadow_114
+  - first:
+      213: -8323064145581267555
+    second: Hover-Shadow_115
+  - first:
+      213: 8047791518910354861
+    second: Hover-Shadow_116
+  - first:
+      213: 784441667578549727
+    second: Hover-Shadow_117
+  - first:
+      213: 5363998614684069452
+    second: Hover-Shadow_118
+  - first:
+      213: -1625638873883202559
+    second: Hover-Shadow_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hover-Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 471
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29094229023c02b0800000000000000
+      internalID: -5617059620426544852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 471
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ea1b324dfa7a2e0800000000000000
+      internalID: -2114528174360383897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 471
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cb3a0f2d663baf0800000000000000
+      internalID: -381848487229932522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 471
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee2977a6ea264530800000000000000
+      internalID: 3838802902520508141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 471
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a08045ecf397e60800000000000000
+      internalID: 7960463971759688195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 471
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf183ed18a592d8f0800000000000000
+      internalID: -517186457905692164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 471
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e01d12ef4dc8c20800000000000000
+      internalID: 3210174822362451459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 471
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6a766e397b60fc0800000000000000
+      internalID: -3528931412144576804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 471
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfe75457ccd64a80800000000000000
+      internalID: -8482850099434098729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 471
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76030d022f375ae30800000000000000
+      internalID: 4514141685278584935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 471
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cecb96b19b7b250800000000000000
+      internalID: 5960436159237385365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 471
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af217948f8ef594e0800000000000000
+      internalID: -1975392969173822726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 471
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ad601dafa08f860800000000000000
+      internalID: 7563807646533737056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 471
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c325d8770f8376e0800000000000000
+      internalID: -1840970560409623616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 471
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a16fd2fe6a60aee0800000000000000
+      internalID: -1251883671655325274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 407
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc1bae78b497ecb0800000000000000
+      internalID: -4834732154838901575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 408
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2518cef90e52bd30800000000000000
+      internalID: 4445719179190342958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 407
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d58e8f1350f6760800000000000000
+      internalID: 7453181620508974470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 408
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86119f9cf99879160800000000000000
+      internalID: 7032240662543667560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 408
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd436d528fe616e0800000000000000
+      internalID: -1867041652306915848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 408
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c168be4faaf2d20800000000000000
+      internalID: 3256009024512334930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 407
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a416be81f4076a80800000000000000
+      internalID: -8473798738346371932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 408
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2648b45c7474d10800000000000000
+      internalID: 2109733863147463376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 407
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3656ea5a28eac2570800000000000000
+      internalID: 8443315277561488739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 408
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c596f44cc54f0a0800000000000000
+      internalID: -6848747135108031479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 407
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c3a24f6f35d3ab0800000000000000
+      internalID: -5026769288952136566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 408
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b16264e06d77a90800000000000000
+      internalID: -7316143712845292670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 408
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d09349abbd35450800000000000000
+      internalID: 6076441916650098057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 408
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e29d1c0dbdd67d0800000000000000
+      internalID: -2923438893441667442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_29
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 407
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe8dd5bafbbe6170800000000000000
+      internalID: 8173677059191443197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268a08040c2c9ef30800000000000000
+      internalID: 4605426224934725730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f857911508d8a29e0800000000000000
+      internalID: -1645347131594541681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069dfbab3468d60a0800000000000000
+      internalID: -6886700629725554336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e82f8e01d0207b0800000000000000
+      internalID: -5259627048536469899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234e770d8345a4900800000000000000
+      internalID: 669440097610359858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa23b70d68f5c0f0800000000000000
+      internalID: -1097197787030541660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_36
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bd7926054155e20800000000000000
+      internalID: 3338597034249149199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d672515abddc80200800000000000000
+      internalID: 146593331140700013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_38
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173910892212b8710800000000000000
+      internalID: 1696486117097968497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_39
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64718b8bce11a4b40800000000000000
+      internalID: 5425168409530210118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_40
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47ef8708d81eade0800000000000000
+      internalID: -1320090324654102708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_41
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d86249f38aaa640800000000000000
+      internalID: 5092067319717727618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_42
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d0fe9d9a65b10e0800000000000000
+      internalID: -2298147897336722140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39a4e70feb4d8100800000000000000
+      internalID: 111829055755823419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_44
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 343
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1aa2afb315c8c60800000000000000
+      internalID: 7821715970877727191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 279
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6990d38848d3ab3d0800000000000000
+      internalID: -3190169746607896170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 280
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e089e231308520d30800000000000000
+      internalID: 4396172956496992270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_47
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 280
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f40e86a5ab206ca0800000000000000
+      internalID: -6025768310957800200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_48
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 280
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df73e61ce0516700800000000000000
+      internalID: 531795205932941270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 280
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e585efd899481a0800000000000000
+      internalID: -6808147901540704697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3045d481f4ccb20800000000000000
+      internalID: 3155984404675036074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_51
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 279
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f3090367281bc00800000000000000
+      internalID: 914655643465432971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 280
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657649f41cfb8c0f0800000000000000
+      internalID: -1096415672279996586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_53
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 279
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a92786a6b2e02070800000000000000
+      internalID: 8079707005608470945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_54
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 280
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2b8eb7719e68c80800000000000000
+      internalID: -8320706974448045402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_55
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 280
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc352f4db88cd050800000000000000
+      internalID: 5826682364568616157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_56
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 280
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3149712161a3d4620800000000000000
+      internalID: 2759926013115208723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_57
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 280
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec02c4760333e770800000000000000
+      internalID: 8638804613048437994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_58
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 280
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e8a7d49ebc5f520800000000000000
+      internalID: 2735316551585140249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_59
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 279
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4def766958fdb80800000000000000
+      internalID: -8367822701594749786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 215
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c1e2150a59adfd0800000000000000
+      internalID: -2316374542539416543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 215
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814ced1f22aea1d70800000000000000
+      internalID: 9014775039943164952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_62
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 215
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd594361aa325f50800000000000000
+      internalID: 6868616846523325901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_63
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 215
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d1c5cd003ef0100800000000000000
+      internalID: 76529311525117331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_64
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 215
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab66fe369919bbd0800000000000000
+      internalID: -2614029975619736659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_65
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 215
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11023de018d15900800000000000000
+      internalID: 671555386665468189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_66
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 215
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3d008d94c51f630800000000000000
+      internalID: 3959047019661677484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 215
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ffcac3ec7a6ac80800000000000000
+      internalID: -8311771558042599644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_68
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 215
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d33a36bbdc0a6d0800000000000000
+      internalID: -2981156748605047443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_69
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 215
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfce92e4dfb9dfb0800000000000000
+      internalID: -4622452621463072824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_70
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 215
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f5865d9da5ea320800000000000000
+      internalID: 2571092328909922054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_71
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 215
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcac4111aacd86b40800000000000000
+      internalID: 5433835573411629773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_72
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 215
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63c2c94e998e38e0800000000000000
+      internalID: -1711779495418870933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_73
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 215
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15b0148ff1cfa0a0800000000000000
+      internalID: -6868057603540208354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_74
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 215
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0a020a110338020800000000000000
+      internalID: 2342769083421860034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 151
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66711537ae02daf0800000000000000
+      internalID: -373219707805665685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 152
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5642a21877a8b4260800000000000000
+      internalID: 7082907084843000933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_77
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 152
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea1d446d7fbdee50800000000000000
+      internalID: 6840333954320243428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_78
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 152
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd3a03acef5ce600800000000000000
+      internalID: 498879128683560444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_79
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 152
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b49bf6123931b3b0800000000000000
+      internalID: -5498550782745930574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_80
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 152
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70cdb752c7b73270800000000000000
+      internalID: 8230248889366462586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_81
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 151
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563366ce80e7c69a0800000000000000
+      internalID: -6238472807024020635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_82
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 152
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8fdf80178e68d80800000000000000
+      internalID: -8248650095302674256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_83
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 151
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d2bb18bbd3e58e0800000000000000
+      internalID: -1702855733554762390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_84
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 152
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db47f08cd4e4a360800000000000000
+      internalID: 7180115341643041752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_85
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 152
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc36e01a69b9e0090800000000000000
+      internalID: -8066338811324505140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_86
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 152
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad10b67b74c7338e0800000000000000
+      internalID: -1714890385636261414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_87
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 152
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5071960b5d05ee380800000000000000
+      internalID: -8940119331565922555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_88
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 152
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1f2f85c351b14b0800000000000000
+      internalID: -5468753973576797781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_89
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 151
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf7c85e84b3106c0800000000000000
+      internalID: -4178993794948235338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8867363f8d3a90cc0800000000000000
+      internalID: -3744281462990211448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_91
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea61c7e17ebad630800000000000000
+      internalID: 3952681019399826159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_92
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a1e92754146db90800000000000000
+      internalID: -7217509586283128197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_93
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9642564ca8bddf4c0800000000000000
+      internalID: -4252001084120947607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_94
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b60cd1bfe2af5050800000000000000
+      internalID: 5791526796186617520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf43b2db6308eb520800000000000000
+      internalID: 2719752197568673019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_96
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d88d19fb750b94e0800000000000000
+      internalID: -1973977981653251879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a873f1f5b6f1fb400800000000000000
+      internalID: 342026642721290122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_98
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07f1ec27a3c0f730800000000000000
+      internalID: 4030936789276555021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_99
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e1e2393015042e0800000000000000
+      internalID: -2143624346832331169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_100
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd08949eb7f1fc20800000000000000
+      internalID: 3238642004964937152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_101
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef71ec8b8f967ad0800000000000000
+      internalID: -2704799104476545048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_102
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8983ac498b4f98ae0800000000000000
+      internalID: -1546435923417614184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_103
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f58b69567533f660800000000000000
+      internalID: 7418331793631970804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_104
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 87
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9adfa6cfac90b800800000000000000
+      internalID: 626172626971122335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_105
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 23
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37d6a8606668e7a0800000000000000
+      internalID: -6347711110520056001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_106
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9c3fe6e97286990800000000000000
+      internalID: -7392615226908882522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_107
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 23
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e194b41f18388630800000000000000
+      internalID: 3929452381023277544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_108
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 24
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04403ca2440b096c0800000000000000
+      internalID: -4138614250731797440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_109
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 24
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a8a76a7eee5c4e0800000000000000
+      internalID: -1961899383952078183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_110
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 24
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758345d429ec22420800000000000000
+      internalID: 2603870662331480151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_111
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 23
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3345d8634fd403c60800000000000000
+      internalID: 7795816666260919347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_112
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 24
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360ff6990ac03f1a0800000000000000
+      internalID: -6777059130353913757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_113
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 23
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a84fa181b179530800000000000000
+      internalID: 3861584995838888490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_114
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 24
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc750f34681452e0800000000000000
+      internalID: -2138057104261022513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_115
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 23
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95a6dfc1498e7c80800000000000000
+      internalID: -8323064145581267555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_116
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 24
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da59d075fbf7faf60800000000000000
+      internalID: 8047791518910354861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_117
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 24
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5d80f5a85e2ea00800000000000000
+      internalID: 784441667578549727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_118
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 24
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e6ee30250c07a40800000000000000
+      internalID: 5363998614684069452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hover-Shadow_119
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 23
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c2025ae029079e0800000000000000
+      internalID: -1625638873883202559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hover-Shadow_0: -5617059620426544852
+      Hover-Shadow_1: -2114528174360383897
+      Hover-Shadow_10: 5960436159237385365
+      Hover-Shadow_100: 3238642004964937152
+      Hover-Shadow_101: -2704799104476545048
+      Hover-Shadow_102: -1546435923417614184
+      Hover-Shadow_103: 7418331793631970804
+      Hover-Shadow_104: 626172626971122335
+      Hover-Shadow_105: -6347711110520056001
+      Hover-Shadow_106: -7392615226908882522
+      Hover-Shadow_107: 3929452381023277544
+      Hover-Shadow_108: -4138614250731797440
+      Hover-Shadow_109: -1961899383952078183
+      Hover-Shadow_11: -1975392969173822726
+      Hover-Shadow_110: 2603870662331480151
+      Hover-Shadow_111: 7795816666260919347
+      Hover-Shadow_112: -6777059130353913757
+      Hover-Shadow_113: 3861584995838888490
+      Hover-Shadow_114: -2138057104261022513
+      Hover-Shadow_115: -8323064145581267555
+      Hover-Shadow_116: 8047791518910354861
+      Hover-Shadow_117: 784441667578549727
+      Hover-Shadow_118: 5363998614684069452
+      Hover-Shadow_119: -1625638873883202559
+      Hover-Shadow_12: 7563807646533737056
+      Hover-Shadow_13: -1840970560409623616
+      Hover-Shadow_14: -1251883671655325274
+      Hover-Shadow_15: -4834732154838901575
+      Hover-Shadow_16: 4445719179190342958
+      Hover-Shadow_17: 7453181620508974470
+      Hover-Shadow_18: 7032240662543667560
+      Hover-Shadow_19: -1867041652306915848
+      Hover-Shadow_2: -381848487229932522
+      Hover-Shadow_20: 3256009024512334930
+      Hover-Shadow_21: -8473798738346371932
+      Hover-Shadow_22: 2109733863147463376
+      Hover-Shadow_23: 8443315277561488739
+      Hover-Shadow_24: -6848747135108031479
+      Hover-Shadow_25: -5026769288952136566
+      Hover-Shadow_26: -7316143712845292670
+      Hover-Shadow_27: 6076441916650098057
+      Hover-Shadow_28: -2923438893441667442
+      Hover-Shadow_29: 8173677059191443197
+      Hover-Shadow_3: 3838802902520508141
+      Hover-Shadow_30: 4605426224934725730
+      Hover-Shadow_31: -1645347131594541681
+      Hover-Shadow_32: -6886700629725554336
+      Hover-Shadow_33: -5259627048536469899
+      Hover-Shadow_34: 669440097610359858
+      Hover-Shadow_35: -1097197787030541660
+      Hover-Shadow_36: 3338597034249149199
+      Hover-Shadow_37: 146593331140700013
+      Hover-Shadow_38: 1696486117097968497
+      Hover-Shadow_39: 5425168409530210118
+      Hover-Shadow_4: 7960463971759688195
+      Hover-Shadow_40: -1320090324654102708
+      Hover-Shadow_41: 5092067319717727618
+      Hover-Shadow_42: -2298147897336722140
+      Hover-Shadow_43: 111829055755823419
+      Hover-Shadow_44: 7821715970877727191
+      Hover-Shadow_45: -3190169746607896170
+      Hover-Shadow_46: 4396172956496992270
+      Hover-Shadow_47: -6025768310957800200
+      Hover-Shadow_48: 531795205932941270
+      Hover-Shadow_49: -6808147901540704697
+      Hover-Shadow_5: -517186457905692164
+      Hover-Shadow_50: 3155984404675036074
+      Hover-Shadow_51: 914655643465432971
+      Hover-Shadow_52: -1096415672279996586
+      Hover-Shadow_53: 8079707005608470945
+      Hover-Shadow_54: -8320706974448045402
+      Hover-Shadow_55: 5826682364568616157
+      Hover-Shadow_56: 2759926013115208723
+      Hover-Shadow_57: 8638804613048437994
+      Hover-Shadow_58: 2735316551585140249
+      Hover-Shadow_59: -8367822701594749786
+      Hover-Shadow_6: 3210174822362451459
+      Hover-Shadow_60: -2316374542539416543
+      Hover-Shadow_61: 9014775039943164952
+      Hover-Shadow_62: 6868616846523325901
+      Hover-Shadow_63: 76529311525117331
+      Hover-Shadow_64: -2614029975619736659
+      Hover-Shadow_65: 671555386665468189
+      Hover-Shadow_66: 3959047019661677484
+      Hover-Shadow_67: -8311771558042599644
+      Hover-Shadow_68: -2981156748605047443
+      Hover-Shadow_69: -4622452621463072824
+      Hover-Shadow_7: -3528931412144576804
+      Hover-Shadow_70: 2571092328909922054
+      Hover-Shadow_71: 5433835573411629773
+      Hover-Shadow_72: -1711779495418870933
+      Hover-Shadow_73: -6868057603540208354
+      Hover-Shadow_74: 2342769083421860034
+      Hover-Shadow_75: -373219707805665685
+      Hover-Shadow_76: 7082907084843000933
+      Hover-Shadow_77: 6840333954320243428
+      Hover-Shadow_78: 498879128683560444
+      Hover-Shadow_79: -5498550782745930574
+      Hover-Shadow_8: -8482850099434098729
+      Hover-Shadow_80: 8230248889366462586
+      Hover-Shadow_81: -6238472807024020635
+      Hover-Shadow_82: -8248650095302674256
+      Hover-Shadow_83: -1702855733554762390
+      Hover-Shadow_84: 7180115341643041752
+      Hover-Shadow_85: -8066338811324505140
+      Hover-Shadow_86: -1714890385636261414
+      Hover-Shadow_87: -8940119331565922555
+      Hover-Shadow_88: -5468753973576797781
+      Hover-Shadow_89: -4178993794948235338
+      Hover-Shadow_9: 4514141685278584935
+      Hover-Shadow_90: -3744281462990211448
+      Hover-Shadow_91: 3952681019399826159
+      Hover-Shadow_92: -7217509586283128197
+      Hover-Shadow_93: -4252001084120947607
+      Hover-Shadow_94: 5791526796186617520
+      Hover-Shadow_95: 2719752197568673019
+      Hover-Shadow_96: -1973977981653251879
+      Hover-Shadow_97: 342026642721290122
+      Hover-Shadow_98: 4030936789276555021
+      Hover-Shadow_99: -2143624346832331169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
