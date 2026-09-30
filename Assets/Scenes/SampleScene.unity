@@ -1713,7 +1713,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
   enemyPrefab: {fileID: 4948334637392145268, guid: 6e2286e8e2c6ecd4bbf8a742554070dd, type: 3}
-  spawnInterval: 2
+  spawnInterval: 1
   parent: {fileID: 1448132087}
 --- !u!1 &1726445759
 GameObject:
