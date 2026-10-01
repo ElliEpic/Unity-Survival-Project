@@ -8,12 +8,20 @@ public class NewMonoBehaviourScript : MonoBehaviour
     public class Wave 
     {
 
-        public GameObject enemyPrefab;
+        public GameObject enemyPrefab; 
+
+        [Tooltip("Time until next spawn")]
         public float spawnTimer; 
+
+        [Tooltip("Set amout of time for the enemy to spawn")]
         public float spawnInterval; 
+
         public Transform parent;
+
         public int enemiesPerWave;
+        
         public int spawnEnemyCount;
+        
     
     
     }
