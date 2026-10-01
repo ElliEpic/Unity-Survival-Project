@@ -1,0 +1,2199 @@
+fileFormatVersion: 2
+guid: adaa8a7e805f967468112dfd50a054bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8030078466449253725
+    second: Appeal-Anim_0
+  - first:
+      213: 2055480866552537030
+    second: Appeal-Anim_1
+  - first:
+      213: 3875008415147256088
+    second: Appeal-Anim_2
+  - first:
+      213: -2571190768457213534
+    second: Appeal-Anim_3
+  - first:
+      213: -5046265697229391259
+    second: Appeal-Anim_4
+  - first:
+      213: 7626259803132826650
+    second: Appeal-Anim_5
+  - first:
+      213: -7782987768538136451
+    second: Appeal-Anim_6
+  - first:
+      213: -432257136448526489
+    second: Appeal-Anim_7
+  - first:
+      213: 7943260743122753403
+    second: Appeal-Anim_8
+  - first:
+      213: -918880986779108452
+    second: Appeal-Anim_9
+  - first:
+      213: 3255305527262513805
+    second: Appeal-Anim_10
+  - first:
+      213: 2561178881991082804
+    second: Appeal-Anim_11
+  - first:
+      213: -477952663120146402
+    second: Appeal-Anim_12
+  - first:
+      213: -1784560992238506405
+    second: Appeal-Anim_13
+  - first:
+      213: 3805750359189319859
+    second: Appeal-Anim_14
+  - first:
+      213: 7612510363931265459
+    second: Appeal-Anim_15
+  - first:
+      213: 8787554573793713538
+    second: Appeal-Anim_16
+  - first:
+      213: 8883084320780320919
+    second: Appeal-Anim_17
+  - first:
+      213: 2277692503568852562
+    second: Appeal-Anim_18
+  - first:
+      213: -583745339356008223
+    second: Appeal-Anim_19
+  - first:
+      213: 7674224589328371411
+    second: Appeal-Anim_20
+  - first:
+      213: 5868014792515156141
+    second: Appeal-Anim_21
+  - first:
+      213: 1639681460943228249
+    second: Appeal-Anim_22
+  - first:
+      213: -3299180390083378952
+    second: Appeal-Anim_23
+  - first:
+      213: -1119505589588354851
+    second: Appeal-Anim_24
+  - first:
+      213: -331679716627450051
+    second: Appeal-Anim_25
+  - first:
+      213: 3264318246040435915
+    second: Appeal-Anim_26
+  - first:
+      213: -4310976380919143120
+    second: Appeal-Anim_27
+  - first:
+      213: -2688148901274753500
+    second: Appeal-Anim_28
+  - first:
+      213: 8169598028865820556
+    second: Appeal-Anim_29
+  - first:
+      213: -2685817129705644902
+    second: Appeal-Anim_30
+  - first:
+      213: 8977614207150141191
+    second: Appeal-Anim_31
+  - first:
+      213: -7673325210506698419
+    second: Appeal-Anim_32
+  - first:
+      213: 4683368155624784431
+    second: Appeal-Anim_33
+  - first:
+      213: 4950675546447618300
+    second: Appeal-Anim_34
+  - first:
+      213: -898580991977070042
+    second: Appeal-Anim_35
+  - first:
+      213: -3019922618417905079
+    second: Appeal-Anim_36
+  - first:
+      213: 921532909695340836
+    second: Appeal-Anim_37
+  - first:
+      213: 514438777336090258
+    second: Appeal-Anim_38
+  - first:
+      213: -710885850455716474
+    second: Appeal-Anim_39
+  - first:
+      213: -8172654681555466541
+    second: Appeal-Anim_40
+  - first:
+      213: -6277612687304834800
+    second: Appeal-Anim_41
+  - first:
+      213: 44812886837642908
+    second: Appeal-Anim_42
+  - first:
+      213: -5173047380825496741
+    second: Appeal-Anim_43
+  - first:
+      213: -9014180804834170975
+    second: Appeal-Anim_44
+  - first:
+      213: -7678174102998573887
+    second: Appeal-Anim_45
+  - first:
+      213: 1993530921394981935
+    second: Appeal-Anim_46
+  - first:
+      213: -2698598109938703747
+    second: Appeal-Anim_47
+  - first:
+      213: 4286862411418777045
+    second: Appeal-Anim_48
+  - first:
+      213: -669110757259877565
+    second: Appeal-Anim_49
+  - first:
+      213: 7826367133191620779
+    second: Appeal-Anim_50
+  - first:
+      213: 2614502817869686121
+    second: Appeal-Anim_51
+  - first:
+      213: -7918483677872220519
+    second: Appeal-Anim_52
+  - first:
+      213: -2628210239215472373
+    second: Appeal-Anim_53
+  - first:
+      213: 6723275861626172400
+    second: Appeal-Anim_54
+  - first:
+      213: 8700306513625570293
+    second: Appeal-Anim_55
+  - first:
+      213: -8959129104307679669
+    second: Appeal-Anim_56
+  - first:
+      213: -2689580968134725308
+    second: Appeal-Anim_57
+  - first:
+      213: -1577367061574225498
+    second: Appeal-Anim_58
+  - first:
+      213: 2331647736394392818
+    second: Appeal-Anim_59
+  - first:
+      213: -7733279642928932674
+    second: Appeal-Anim_60
+  - first:
+      213: 4132849902880861183
+    second: Appeal-Anim_61
+  - first:
+      213: -7080298870666203887
+    second: Appeal-Anim_62
+  - first:
+      213: -6313810265645375469
+    second: Appeal-Anim_63
+  - first:
+      213: 2809629877830835661
+    second: Appeal-Anim_64
+  - first:
+      213: 1218750994461330876
+    second: Appeal-Anim_65
+  - first:
+      213: -856510861161747376
+    second: Appeal-Anim_66
+  - first:
+      213: 2335293330424053558
+    second: Appeal-Anim_67
+  - first:
+      213: -6864641739373546359
+    second: Appeal-Anim_68
+  - first:
+      213: 2597729317422131957
+    second: Appeal-Anim_69
+  - first:
+      213: 6585786998157682231
+    second: Appeal-Anim_70
+  - first:
+      213: 5298093756350009795
+    second: Appeal-Anim_71
+  - first:
+      213: 4001477583408968649
+    second: Appeal-Anim_72
+  - first:
+      213: 2882314878897509082
+    second: Appeal-Anim_73
+  - first:
+      213: 3338237599297710788
+    second: Appeal-Anim_74
+  - first:
+      213: 244039112929772271
+    second: Appeal-Anim_75
+  - first:
+      213: -1060852956589083052
+    second: Appeal-Anim_76
+  - first:
+      213: 4454654229956414966
+    second: Appeal-Anim_77
+  - first:
+      213: -1593870739001473266
+    second: Appeal-Anim_78
+  - first:
+      213: 4606333455197402102
+    second: Appeal-Anim_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Appeal-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 294
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa57c01e2e6f8090800000000000000
+      internalID: -8030078466449253725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 294
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfd97d25f8868c10800000000000000
+      internalID: 2055480866552537030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 294
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81960867f9bc6c530800000000000000
+      internalID: 3875008415147256088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 294
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9185c6e9b415cd0800000000000000
+      internalID: -2571190768457213534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 294
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a376aa51018f9b0800000000000000
+      internalID: -5046265697229391259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 294
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a149292a2eae5d960800000000000000
+      internalID: 7626259803132826650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 294
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70031d4cd54df390800000000000000
+      internalID: -7782987768538136451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 294
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767ab52bc60500af0800000000000000
+      internalID: -432257136448526489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 294
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7713288f812c3e60800000000000000
+      internalID: 7943260743122753403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 294
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bbb286c9a7f33f0800000000000000
+      internalID: -918880986779108452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 253
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a09d3312b2d2d20800000000000000
+      internalID: 3255305527262513805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 253
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4338f4b9f922b8320800000000000000
+      internalID: 2561178881991082804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 253
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10954fc598fd59f0800000000000000
+      internalID: -477952663120146402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 253
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5eea998b37fb37e0800000000000000
+      internalID: -1784560992238506405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 253
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b07b47b9cdb0d430800000000000000
+      internalID: 3805750359189319859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 253
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b94a1bd7d115a960800000000000000
+      internalID: 7612510363931265459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 253
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d555f835aa3f970800000000000000
+      internalID: 8787554573793713538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 253
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79004f9002e074b70800000000000000
+      internalID: 8883084320780320919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 253
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256aac6a34dfb9f10800000000000000
+      internalID: 2277692503568852562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 253
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e03568e4be16e7f0800000000000000
+      internalID: -583745339356008223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 213
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de4c7daa92508a60800000000000000
+      internalID: 7674224589328371411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 213
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da87a9c1d506f6150800000000000000
+      internalID: 5868014792515156141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 213
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d8050f99151c610800000000000000
+      internalID: 1639681460943228249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 213
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0452f3ae4f632d0800000000000000
+      internalID: -3299180390083378952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 213
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd895800997b670f0800000000000000
+      internalID: -1119505589588354851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 213
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37f7371e03a56bf0800000000000000
+      internalID: -331679716627450051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 213
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccf01156203d4d20800000000000000
+      internalID: 3264318246040435915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 213
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035273472d55c24c0800000000000000
+      internalID: -4310976380919143120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 213
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426692411d6c1bad0800000000000000
+      internalID: -2688148901274753500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 213
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8757447f1e306170800000000000000
+      internalID: 8169598028865820556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 173
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c5c34fc8f0abad0800000000000000
+      internalID: -2685817129705644902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 173
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f2fa35e84e69c70800000000000000
+      internalID: 8977614207150141191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 173
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41e2b5406fd28590800000000000000
+      internalID: -7673325210506698419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 173
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f224464268aaef040800000000000000
+      internalID: 4683368155624784431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 173
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf029300e2554b440800000000000000
+      internalID: 4950675546447618300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 173
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622e94349599783f0800000000000000
+      internalID: -898580991977070042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 173
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9428808f0641716d0800000000000000
+      internalID: -3019922618417905079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 173
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42119338c41f9cc00800000000000000
+      internalID: 921532909695340836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 173
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ecdc5a757a32700800000000000000
+      internalID: 514438777336090258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 173
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d4cbfd51d6226f0800000000000000
+      internalID: -710885850455716474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d604f12ed5e49e80800000000000000
+      internalID: -8172654681555466541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 133
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011c5b7658071e8a0800000000000000
+      internalID: -6277612687304834800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 130
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96415945153f9000800000000000000
+      internalID: 44812886837642908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 132
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53a1aba0d4a538b0800000000000000
+      internalID: -5173047380825496741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 130
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7e6b2315237e280800000000000000
+      internalID: -9014180804834170975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 133
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc9a238555a17590800000000000000
+      internalID: -7678174102998573887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 130
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c41829fc17aab10800000000000000
+      internalID: 1993530921394981935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 132
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7220991157ac8ad0800000000000000
+      internalID: -2698598109938703747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 130
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5379186aefd7b30800000000000000
+      internalID: 4286862411418777045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_49
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 133
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343e126bf47d6b6f0800000000000000
+      internalID: -669110757259877565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8cda71177dc9c60800000000000000
+      internalID: 7826367133191620779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_51
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 93
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965616be574984420800000000000000
+      internalID: 2614502817869686121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_52
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 93
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99692b48c05eb1290800000000000000
+      internalID: -7918483677872220519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 93
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01748856b8b68bd0800000000000000
+      internalID: -2628210239215472373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 93
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3bf2356cfdd4d50800000000000000
+      internalID: 6723275861626172400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 93
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb5bad8da2bdb870800000000000000
+      internalID: 8700306513625570293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_56
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 93
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e80e01c87caa380800000000000000
+      internalID: -8959129104307679669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 93
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441bda70c50bcaad0800000000000000
+      internalID: -2689580968134725308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 93
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a17776c3011c1ae0800000000000000
+      internalID: -1577367061574225498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_59
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 93
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4a12d334dab5020800000000000000
+      internalID: 2331647736394392818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 53
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8167e232fdda490800000000000000
+      internalID: -7733279642928932674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_61
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 53
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffba8330715da5930800000000000000
+      internalID: 4132849902880861183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_62
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 53
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d675ea0b9bdbd90800000000000000
+      internalID: -7080298870666203887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_63
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 53
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3102ef0f307d068a0800000000000000
+      internalID: -6313810265645375469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 53
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd5e62ec7fcdf620800000000000000
+      internalID: 2809629877830835661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_65
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 53
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd858e729fd9e010800000000000000
+      internalID: 1218750994461330876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_66
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 53
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ca036e8ef0d14f0800000000000000
+      internalID: -856510861161747376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_67
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 53
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fb34e39e0a86020800000000000000
+      internalID: 2335293330424053558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 53
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984f15e55b4ebb0a0800000000000000
+      internalID: -6864641739373546359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_69
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 53
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa60930d0dfc0420800000000000000
+      internalID: 2597729317422131957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736239fb16a656b50800000000000000
+      internalID: 6585786998157682231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_71
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 13
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c115fd633c968940800000000000000
+      internalID: 5298093756350009795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 13
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3b7cf49aa188730800000000000000
+      internalID: 4001477583408968649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_73
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 13
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad252877c1a000820800000000000000
+      internalID: 2882314878897509082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 13
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca2ef9e86dc35e20800000000000000
+      internalID: 3338237599297710788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_75
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 13
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe20b7db740036300800000000000000
+      internalID: 244039112929772271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_76
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 13
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456b59b4bd71741f0800000000000000
+      internalID: -1060852956589083052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_77
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 13
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd4ebd9b6c12dd30800000000000000
+      internalID: 4454654229956414966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_78
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 13
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e078defe10f61e9e0800000000000000
+      internalID: -1593870739001473266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Anim_79
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 13
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3f9024fdbfcef30800000000000000
+      internalID: 4606333455197402102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Appeal-Anim_0: -8030078466449253725
+      Appeal-Anim_1: 2055480866552537030
+      Appeal-Anim_10: 3255305527262513805
+      Appeal-Anim_11: 2561178881991082804
+      Appeal-Anim_12: -477952663120146402
+      Appeal-Anim_13: -1784560992238506405
+      Appeal-Anim_14: 3805750359189319859
+      Appeal-Anim_15: 7612510363931265459
+      Appeal-Anim_16: 8787554573793713538
+      Appeal-Anim_17: 8883084320780320919
+      Appeal-Anim_18: 2277692503568852562
+      Appeal-Anim_19: -583745339356008223
+      Appeal-Anim_2: 3875008415147256088
+      Appeal-Anim_20: 7674224589328371411
+      Appeal-Anim_21: 5868014792515156141
+      Appeal-Anim_22: 1639681460943228249
+      Appeal-Anim_23: -3299180390083378952
+      Appeal-Anim_24: -1119505589588354851
+      Appeal-Anim_25: -331679716627450051
+      Appeal-Anim_26: 3264318246040435915
+      Appeal-Anim_27: -4310976380919143120
+      Appeal-Anim_28: -2688148901274753500
+      Appeal-Anim_29: 8169598028865820556
+      Appeal-Anim_3: -2571190768457213534
+      Appeal-Anim_30: -2685817129705644902
+      Appeal-Anim_31: 8977614207150141191
+      Appeal-Anim_32: -7673325210506698419
+      Appeal-Anim_33: 4683368155624784431
+      Appeal-Anim_34: 4950675546447618300
+      Appeal-Anim_35: -898580991977070042
+      Appeal-Anim_36: -3019922618417905079
+      Appeal-Anim_37: 921532909695340836
+      Appeal-Anim_38: 514438777336090258
+      Appeal-Anim_39: -710885850455716474
+      Appeal-Anim_4: -5046265697229391259
+      Appeal-Anim_40: -8172654681555466541
+      Appeal-Anim_41: -6277612687304834800
+      Appeal-Anim_42: 44812886837642908
+      Appeal-Anim_43: -5173047380825496741
+      Appeal-Anim_44: -9014180804834170975
+      Appeal-Anim_45: -7678174102998573887
+      Appeal-Anim_46: 1993530921394981935
+      Appeal-Anim_47: -2698598109938703747
+      Appeal-Anim_48: 4286862411418777045
+      Appeal-Anim_49: -669110757259877565
+      Appeal-Anim_5: 7626259803132826650
+      Appeal-Anim_50: 7826367133191620779
+      Appeal-Anim_51: 2614502817869686121
+      Appeal-Anim_52: -7918483677872220519
+      Appeal-Anim_53: -2628210239215472373
+      Appeal-Anim_54: 6723275861626172400
+      Appeal-Anim_55: 8700306513625570293
+      Appeal-Anim_56: -8959129104307679669
+      Appeal-Anim_57: -2689580968134725308
+      Appeal-Anim_58: -1577367061574225498
+      Appeal-Anim_59: 2331647736394392818
+      Appeal-Anim_6: -7782987768538136451
+      Appeal-Anim_60: -7733279642928932674
+      Appeal-Anim_61: 4132849902880861183
+      Appeal-Anim_62: -7080298870666203887
+      Appeal-Anim_63: -6313810265645375469
+      Appeal-Anim_64: 2809629877830835661
+      Appeal-Anim_65: 1218750994461330876
+      Appeal-Anim_66: -856510861161747376
+      Appeal-Anim_67: 2335293330424053558
+      Appeal-Anim_68: -6864641739373546359
+      Appeal-Anim_69: 2597729317422131957
+      Appeal-Anim_7: -432257136448526489
+      Appeal-Anim_70: 6585786998157682231
+      Appeal-Anim_71: 5298093756350009795
+      Appeal-Anim_72: 4001477583408968649
+      Appeal-Anim_73: 2882314878897509082
+      Appeal-Anim_74: 3338237599297710788
+      Appeal-Anim_75: 244039112929772271
+      Appeal-Anim_76: -1060852956589083052
+      Appeal-Anim_77: 4454654229956414966
+      Appeal-Anim_78: -1593870739001473266
+      Appeal-Anim_79: 4606333455197402102
+      Appeal-Anim_8: 7943260743122753403
+      Appeal-Anim_9: -918880986779108452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

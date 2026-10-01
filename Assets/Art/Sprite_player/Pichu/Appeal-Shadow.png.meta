@@ -1,0 +1,2199 @@
+fileFormatVersion: 2
+guid: 2371917b8ba682e40b2f5b687c1785a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6769933874782801322
+    second: Appeal-Shadow_0
+  - first:
+      213: 3292179458112828423
+    second: Appeal-Shadow_1
+  - first:
+      213: 3172788057599962562
+    second: Appeal-Shadow_2
+  - first:
+      213: -3708017141671411106
+    second: Appeal-Shadow_3
+  - first:
+      213: -2536145762182986492
+    second: Appeal-Shadow_4
+  - first:
+      213: 5239110900928230091
+    second: Appeal-Shadow_5
+  - first:
+      213: 4676506095804690015
+    second: Appeal-Shadow_6
+  - first:
+      213: -1745420091041915961
+    second: Appeal-Shadow_7
+  - first:
+      213: 3943621616612056220
+    second: Appeal-Shadow_8
+  - first:
+      213: -6475567954814881657
+    second: Appeal-Shadow_9
+  - first:
+      213: -808826399885121214
+    second: Appeal-Shadow_10
+  - first:
+      213: 9020392262393489899
+    second: Appeal-Shadow_11
+  - first:
+      213: -5306215708043576424
+    second: Appeal-Shadow_12
+  - first:
+      213: 7470166481548896899
+    second: Appeal-Shadow_13
+  - first:
+      213: 2595911399742792757
+    second: Appeal-Shadow_14
+  - first:
+      213: 7125107418334568436
+    second: Appeal-Shadow_15
+  - first:
+      213: 573074590431660203
+    second: Appeal-Shadow_16
+  - first:
+      213: 8345239477735832913
+    second: Appeal-Shadow_17
+  - first:
+      213: 1085088797142181049
+    second: Appeal-Shadow_18
+  - first:
+      213: -3923564816383558629
+    second: Appeal-Shadow_19
+  - first:
+      213: 3043677006630419477
+    second: Appeal-Shadow_20
+  - first:
+      213: -3981561702436527942
+    second: Appeal-Shadow_21
+  - first:
+      213: -8328179208849119026
+    second: Appeal-Shadow_22
+  - first:
+      213: -4506424037490184327
+    second: Appeal-Shadow_23
+  - first:
+      213: -3016873762792031104
+    second: Appeal-Shadow_24
+  - first:
+      213: 7802078819304469342
+    second: Appeal-Shadow_25
+  - first:
+      213: -3138591696150470501
+    second: Appeal-Shadow_26
+  - first:
+      213: 8105386015462825624
+    second: Appeal-Shadow_27
+  - first:
+      213: -3315444470604749479
+    second: Appeal-Shadow_28
+  - first:
+      213: -2563435496162622167
+    second: Appeal-Shadow_29
+  - first:
+      213: 793361133175567921
+    second: Appeal-Shadow_30
+  - first:
+      213: -6323896297470538411
+    second: Appeal-Shadow_31
+  - first:
+      213: 6842009171277891992
+    second: Appeal-Shadow_32
+  - first:
+      213: -2370229340965573099
+    second: Appeal-Shadow_33
+  - first:
+      213: 6723797017825252500
+    second: Appeal-Shadow_34
+  - first:
+      213: 1327832997949833164
+    second: Appeal-Shadow_35
+  - first:
+      213: 4509281296599867540
+    second: Appeal-Shadow_36
+  - first:
+      213: -2934940573008293371
+    second: Appeal-Shadow_37
+  - first:
+      213: -4856293758636306858
+    second: Appeal-Shadow_38
+  - first:
+      213: 3993738717095182127
+    second: Appeal-Shadow_39
+  - first:
+      213: -209527928660157177
+    second: Appeal-Shadow_40
+  - first:
+      213: -3109358523892600462
+    second: Appeal-Shadow_41
+  - first:
+      213: 9119682142527905606
+    second: Appeal-Shadow_42
+  - first:
+      213: 3677674553591507565
+    second: Appeal-Shadow_43
+  - first:
+      213: -9021835333350295166
+    second: Appeal-Shadow_44
+  - first:
+      213: -7764651604278830979
+    second: Appeal-Shadow_45
+  - first:
+      213: 3941410464406594882
+    second: Appeal-Shadow_46
+  - first:
+      213: 2855238047422185420
+    second: Appeal-Shadow_47
+  - first:
+      213: 508131596167332667
+    second: Appeal-Shadow_48
+  - first:
+      213: 4335281317389224697
+    second: Appeal-Shadow_49
+  - first:
+      213: 4196221605534443893
+    second: Appeal-Shadow_50
+  - first:
+      213: 6417733064037778105
+    second: Appeal-Shadow_51
+  - first:
+      213: 1459986967447771374
+    second: Appeal-Shadow_52
+  - first:
+      213: 8851704423619488399
+    second: Appeal-Shadow_53
+  - first:
+      213: -6824875504008148886
+    second: Appeal-Shadow_54
+  - first:
+      213: 6111788744676362183
+    second: Appeal-Shadow_55
+  - first:
+      213: -4689618448027746681
+    second: Appeal-Shadow_56
+  - first:
+      213: -1542580026636566833
+    second: Appeal-Shadow_57
+  - first:
+      213: -1391117183262139451
+    second: Appeal-Shadow_58
+  - first:
+      213: -1776709000125068459
+    second: Appeal-Shadow_59
+  - first:
+      213: 3648998024284604092
+    second: Appeal-Shadow_60
+  - first:
+      213: -4057897971610481280
+    second: Appeal-Shadow_61
+  - first:
+      213: -8122888097277792800
+    second: Appeal-Shadow_62
+  - first:
+      213: -4770714886625005247
+    second: Appeal-Shadow_63
+  - first:
+      213: 2515730292171277715
+    second: Appeal-Shadow_64
+  - first:
+      213: 4625861801301079054
+    second: Appeal-Shadow_65
+  - first:
+      213: 3317871470980575789
+    second: Appeal-Shadow_66
+  - first:
+      213: 282411169637787904
+    second: Appeal-Shadow_67
+  - first:
+      213: -2209554123280196461
+    second: Appeal-Shadow_68
+  - first:
+      213: -6904515326675297234
+    second: Appeal-Shadow_69
+  - first:
+      213: 1792563351540635789
+    second: Appeal-Shadow_70
+  - first:
+      213: 8651756191056161503
+    second: Appeal-Shadow_71
+  - first:
+      213: 5073033133732200381
+    second: Appeal-Shadow_72
+  - first:
+      213: 9090130575071191859
+    second: Appeal-Shadow_73
+  - first:
+      213: 3619544085553040588
+    second: Appeal-Shadow_74
+  - first:
+      213: 7692704096693423842
+    second: Appeal-Shadow_75
+  - first:
+      213: 866747038828668870
+    second: Appeal-Shadow_76
+  - first:
+      213: 1101140362481247931
+    second: Appeal-Shadow_77
+  - first:
+      213: -2477561081641744052
+    second: Appeal-Shadow_78
+  - first:
+      213: -314710090437413413
+    second: Appeal-Shadow_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Appeal-Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652ffa0720d5c02a0800000000000000
+      internalID: -6769933874782801322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70437a146cb20bd20800000000000000
+      internalID: 3292179458112828423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cde8d0ade1080c20800000000000000
+      internalID: 3172788057599962562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52cd993e0a7a8cc0800000000000000
+      internalID: -3708017141671411106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405887acddccdccd0800000000000000
+      internalID: -2536145762182986492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc234bc3b9f05b840800000000000000
+      internalID: 5239110900928230091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e2366548946e040800000000000000
+      internalID: 4676506095804690015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbdd91cca507c7e0800000000000000
+      internalID: -1745420091041915961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c96b257fe8ab630800000000000000
+      internalID: 3943621616612056220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 291
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7803b5e01492226a0800000000000000
+      internalID: -6475567954814881657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249a3e5bca876c4f0800000000000000
+      internalID: -808826399885121214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be965a678fede2d70800000000000000
+      internalID: 9020392262393489899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bf6745de88c56b0800000000000000
+      internalID: -5306215708043576424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a60c916dc5ba760800000000000000
+      internalID: 7470166481548896899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5346e021aa7860420800000000000000
+      internalID: 2595911399742792757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff1550527771e260800000000000000
+      internalID: 7125107418334568436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba84b70cd48f3f700800000000000000
+      internalID: 573074590431660203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15db20c071f30d370800000000000000
+      internalID: 8345239477735832913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b46a6f03820f0f00800000000000000
+      internalID: 1085088797142181049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 251
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cbc326692bc89c0800000000000000
+      internalID: -3923564816383558629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cfa378c105d3a20800000000000000
+      internalID: 3043677006630419477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0a8f21ab6aeb8c0800000000000000
+      internalID: -3981561702436527942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec821c6522d5c6c80800000000000000
+      internalID: -8328179208849119026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fad16c637f571c0800000000000000
+      internalID: -4506424037490184327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cb59cfb49e126d0800000000000000
+      internalID: -3016873762792031104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53fd36595d864c60800000000000000
+      internalID: 7802078819304469342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90e5f73b7b7174d0800000000000000
+      internalID: -3138591696150470501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e941b03ad1c7070800000000000000
+      internalID: 8105386015462825624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9552219e1dc2df1d0800000000000000
+      internalID: -3315444470604749479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92589967ff8dc6cd0800000000000000
+      internalID: -2563435496162622167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136f7894fb5920b00800000000000000
+      internalID: 793361133175567921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d4cd8a2d10d38a0800000000000000
+      internalID: -6323896297470538411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899cbfb3713b3fe50800000000000000
+      internalID: 6842009171277891992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ee98fe8f04b1fd0800000000000000
+      internalID: -2370229340965573099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4941e4573c9bf4d50800000000000000
+      internalID: 6723797017825252500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf77d393196d6210800000000000000
+      internalID: 1327832997949833164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490e524b27f249e30800000000000000
+      internalID: 4509281296599867540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50295fc491ff447d0800000000000000
+      internalID: -2934940573008293371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e49876e8afa9cb0800000000000000
+      internalID: -4856293758636306858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 171
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fbe26143c9c6730800000000000000
+      internalID: 3993738717095182127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d10b1857b971df0800000000000000
+      internalID: -209527928660157177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2717c0885e659d4d0800000000000000
+      internalID: -3109358523892600462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f59d9279e9f8e70800000000000000
+      internalID: 9119682142527905606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aa0567589b90330800000000000000
+      internalID: 3677674553591507565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289769560900cc280800000000000000
+      internalID: -9021835333350295166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d781b4a318a6e3490800000000000000
+      internalID: -7764651604278830979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24566f45fe3b2b630800000000000000
+      internalID: 3941410464406594882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf77cd50e7df9720800000000000000
+      internalID: 2855238047422185420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33c4b89efe3d0700800000000000000
+      internalID: 508131596167332667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 131
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa4f5c83630a2c30800000000000000
+      internalID: 4335281317389224697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57923b45159fb3a30800000000000000
+      internalID: 4196221605534443893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b24049183e501950800000000000000
+      internalID: 6417733064037778105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee89c6b596ae24410800000000000000
+      internalID: 1459986967447771374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ae792664297da70800000000000000
+      internalID: 8851704423619488399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68445b83eb2941a0800000000000000
+      internalID: -6824875504008148886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c74aac4b7f61d450800000000000000
+      internalID: 6111788744676362183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eff214ed02beeb0800000000000000
+      internalID: -4689618448027746681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcef6b283a7a79ae0800000000000000
+      internalID: -1542580026636566833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbd7b2da42c1bce0800000000000000
+      internalID: -1391117183262139451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 91
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b4e4ae39cd757e0800000000000000
+      internalID: -1776709000125068459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6069fae58d3a230800000000000000
+      internalID: 3648998024284604092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d01636b437fa7c0800000000000000
+      internalID: -4057897971610481280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed228bff44b54f80800000000000000
+      internalID: -8122888097277792800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1417c0246140bcdb0800000000000000
+      internalID: -4770714886625005247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3950f8f2f5ba9e220800000000000000
+      internalID: 2515730292171277715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e047996accc523040800000000000000
+      internalID: 4625861801301079054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22333626827b0e20800000000000000
+      internalID: 3317871470980575789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009ecd666735be300800000000000000
+      internalID: 282411169637787904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c52e94b361651e0800000000000000
+      internalID: -2209554123280196461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 51
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c574f54eb3e20a0800000000000000
+      internalID: -6904515326675297234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8896fdeed670e810800000000000000
+      internalID: 1792563351540635789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda6033ba66311870800000000000000
+      internalID: 8651756191056161503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbff4edc1c8076640800000000000000
+      internalID: 5073033133732200381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3332901b891a62e70800000000000000
+      internalID: 9090130575071191859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc414c2b243b3230800000000000000
+      internalID: 3619544085553040588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee8a954e99f1ca60800000000000000
+      internalID: 7692704096693423842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7218fe6dd470c00800000000000000
+      internalID: 866747038828668870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb62a895359084f00800000000000000
+      internalID: 1101140362481247931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49496ba25fed9dd0800000000000000
+      internalID: -2477561081641744052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appeal-Shadow_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 11
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd53f3417dce1abf0800000000000000
+      internalID: -314710090437413413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Appeal-Shadow_0: -6769933874782801322
+      Appeal-Shadow_1: 3292179458112828423
+      Appeal-Shadow_10: -808826399885121214
+      Appeal-Shadow_11: 9020392262393489899
+      Appeal-Shadow_12: -5306215708043576424
+      Appeal-Shadow_13: 7470166481548896899
+      Appeal-Shadow_14: 2595911399742792757
+      Appeal-Shadow_15: 7125107418334568436
+      Appeal-Shadow_16: 573074590431660203
+      Appeal-Shadow_17: 8345239477735832913
+      Appeal-Shadow_18: 1085088797142181049
+      Appeal-Shadow_19: -3923564816383558629
+      Appeal-Shadow_2: 3172788057599962562
+      Appeal-Shadow_20: 3043677006630419477
+      Appeal-Shadow_21: -3981561702436527942
+      Appeal-Shadow_22: -8328179208849119026
+      Appeal-Shadow_23: -4506424037490184327
+      Appeal-Shadow_24: -3016873762792031104
+      Appeal-Shadow_25: 7802078819304469342
+      Appeal-Shadow_26: -3138591696150470501
+      Appeal-Shadow_27: 8105386015462825624
+      Appeal-Shadow_28: -3315444470604749479
+      Appeal-Shadow_29: -2563435496162622167
+      Appeal-Shadow_3: -3708017141671411106
+      Appeal-Shadow_30: 793361133175567921
+      Appeal-Shadow_31: -6323896297470538411
+      Appeal-Shadow_32: 6842009171277891992
+      Appeal-Shadow_33: -2370229340965573099
+      Appeal-Shadow_34: 6723797017825252500
+      Appeal-Shadow_35: 1327832997949833164
+      Appeal-Shadow_36: 4509281296599867540
+      Appeal-Shadow_37: -2934940573008293371
+      Appeal-Shadow_38: -4856293758636306858
+      Appeal-Shadow_39: 3993738717095182127
+      Appeal-Shadow_4: -2536145762182986492
+      Appeal-Shadow_40: -209527928660157177
+      Appeal-Shadow_41: -3109358523892600462
+      Appeal-Shadow_42: 9119682142527905606
+      Appeal-Shadow_43: 3677674553591507565
+      Appeal-Shadow_44: -9021835333350295166
+      Appeal-Shadow_45: -7764651604278830979
+      Appeal-Shadow_46: 3941410464406594882
+      Appeal-Shadow_47: 2855238047422185420
+      Appeal-Shadow_48: 508131596167332667
+      Appeal-Shadow_49: 4335281317389224697
+      Appeal-Shadow_5: 5239110900928230091
+      Appeal-Shadow_50: 4196221605534443893
+      Appeal-Shadow_51: 6417733064037778105
+      Appeal-Shadow_52: 1459986967447771374
+      Appeal-Shadow_53: 8851704423619488399
+      Appeal-Shadow_54: -6824875504008148886
+      Appeal-Shadow_55: 6111788744676362183
+      Appeal-Shadow_56: -4689618448027746681
+      Appeal-Shadow_57: -1542580026636566833
+      Appeal-Shadow_58: -1391117183262139451
+      Appeal-Shadow_59: -1776709000125068459
+      Appeal-Shadow_6: 4676506095804690015
+      Appeal-Shadow_60: 3648998024284604092
+      Appeal-Shadow_61: -4057897971610481280
+      Appeal-Shadow_62: -8122888097277792800
+      Appeal-Shadow_63: -4770714886625005247
+      Appeal-Shadow_64: 2515730292171277715
+      Appeal-Shadow_65: 4625861801301079054
+      Appeal-Shadow_66: 3317871470980575789
+      Appeal-Shadow_67: 282411169637787904
+      Appeal-Shadow_68: -2209554123280196461
+      Appeal-Shadow_69: -6904515326675297234
+      Appeal-Shadow_7: -1745420091041915961
+      Appeal-Shadow_70: 1792563351540635789
+      Appeal-Shadow_71: 8651756191056161503
+      Appeal-Shadow_72: 5073033133732200381
+      Appeal-Shadow_73: 9090130575071191859
+      Appeal-Shadow_74: 3619544085553040588
+      Appeal-Shadow_75: 7692704096693423842
+      Appeal-Shadow_76: 866747038828668870
+      Appeal-Shadow_77: 1101140362481247931
+      Appeal-Shadow_78: -2477561081641744052
+      Appeal-Shadow_79: -314710090437413413
+      Appeal-Shadow_8: 3943621616612056220
+      Appeal-Shadow_9: -6475567954814881657
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
