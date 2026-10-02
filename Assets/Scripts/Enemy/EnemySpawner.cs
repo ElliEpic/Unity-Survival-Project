@@ -38,13 +38,31 @@ public class NewMonoBehaviourScript : MonoBehaviour
             waves[waveNumber].spawnTimer = 0;
             SpawnEnemy();
         }
+        if(waves[waveNumber].spawnEnemyCount >= waves[waveNumber].enemiesPerWave)
+        {
+           waves[waveNumber].spawnEnemyCount = 0;
+
+           if(waves[waveNumber].spawnInterval > 0.3f)
+            {
+                waves[waveNumber].spawnInterval *= 0.9f;
+            }
+           waveNumber++;
+
+        }
+        if(waveNumber >= waves.Count)
+        {
+            waveNumber = 0;
+        }
     }
+
+
 
     private void SpawnEnemy()
     {
         GameObject enemy = Instantiate(waves[waveNumber].enemyPrefab, waves[waveNumber].parent);
 
         enemy.transform.localPosition = waves[waveNumber].parent.transform.position;
+         waves[waveNumber].spawnEnemyCount++;
         
         
     }
