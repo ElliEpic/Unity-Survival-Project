@@ -28,6 +28,8 @@ public class NewMonoBehaviourScript : MonoBehaviour
 
     public List<Wave> waves;
     public int waveNumber;
+    public Transform minPos;
+    public Transform maxPos;
 
     // Update is called once per frame
     void Update()
@@ -59,12 +61,49 @@ public class NewMonoBehaviourScript : MonoBehaviour
 
     private void SpawnEnemy()
     {
-        GameObject enemy = Instantiate(waves[waveNumber].enemyPrefab, waves[waveNumber].parent);
+        GameObject enemy = Instantiate(
+            waves[waveNumber].enemyPrefab,
+            waves[waveNumber].parent
+        );
 
-        enemy.transform.localPosition = waves[waveNumber].parent.transform.position;
+         enemy.transform.localPosition = RandomSpawnPoint(); 
+
          waves[waveNumber].spawnEnemyCount++;
         
         
+    }
+
+    private Vector2 RandomSpawnPoint()
+    {
+        Vector2 spawnPoint;
+
+
+
+        if(Random.Range(0f, 1f) > 0.5)
+        {
+            spawnPoint.x = Random.Range(minPos.position.x, maxPos.position.x);
+            if(Random.Range(0f, 1f) > 0.5)
+            {    
+                spawnPoint.y = minPos.position.y;
+            } else {
+                spawnPoint.y = maxPos.position.y;
+                    
+            }
+            } else {
+                spawnPoint.y = Random.Range(minPos.position.y, maxPos.position.y);
+                if(Random.Range(0f, 1f) > 0.5)
+                {    
+                    spawnPoint.x = minPos.position.x;
+                } else {
+                    spawnPoint.x = maxPos.position.x;
+                        
+                }
+
+            }
+
+
+        return spawnPoint;
+
     }
 
 }
