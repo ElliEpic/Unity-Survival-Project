@@ -11,11 +11,23 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Animator animator;
     [SerializeField] private float movespeed = 2.0f;
     public Vector3 playerMoveDirection;
+    public float playerMaxHealth;
+    public float playerHealth;
 
-   /* void Start()
+    private bool isImmune;
+    [SerializeField] private float immunityDuration;
+    [SerializeField] private float immunityTimer;
+
+    /* void Start()
+     {
+         rb = GetComponent<Rigidbody2D>();
+     }*/
+
+    void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
-    }*/
+        playerHealth = playerMaxHealth;
+        UIController.Instance.UpdateHealthSlider();
+    }
 
     void Awake()
         {
@@ -33,6 +45,7 @@ public class PlayerMovement : MonoBehaviour
         //Character movement X & Y 
         float inputX = Input.GetAxisRaw("Horizontal");
         float inputY = Input.GetAxisRaw("Vertical");
+      
 
         playerMoveDirection = new Vector3(inputX, inputY).normalized;
 
@@ -42,18 +55,38 @@ public class PlayerMovement : MonoBehaviour
 
 
         
-        if (playerMoveDirection == Vector3.zero)
-        {
+        if (playerMoveDirection == Vector3.zero){
             animator.SetBool("moving", false);
-        }
-        else
-        {
+        } else {
             animator.SetBool("moving", true);
+        }
+
+        if(immunityTimer > 0)
+        {
+            immunityTimer -= Time.deltaTime;
+        } else {
+            isImmune = false;
         }
 
         rb.linearVelocity = new Vector3(
             playerMoveDirection.x * movespeed,
             playerMoveDirection.y * movespeed
         );
+    }
+
+    public void TakeDamage(float damage)
+    {
+        if(!isImmune)
+        {
+            isImmune = true;
+            immunityTimer = immunityDuration;
+            playerHealth -= damage;
+            UIController.Instance.UpdateHealthSlider(); //Playerhealth reduced by damage
+            if(playerHealth <= 0)
+            {
+                gameObject.SetActive(false);
+            }  
+        }
+
     }
 }

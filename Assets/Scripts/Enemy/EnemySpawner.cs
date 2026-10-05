@@ -34,26 +34,28 @@ public class NewMonoBehaviourScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        waves[waveNumber].spawnTimer += Time.deltaTime; 
-        if(waves[waveNumber].spawnTimer >= waves[waveNumber].spawnInterval)
-        {
-            waves[waveNumber].spawnTimer = 0;
-            SpawnEnemy();
-        }
-        if(waves[waveNumber].spawnEnemyCount >= waves[waveNumber].enemiesPerWave)
-        {
-           waves[waveNumber].spawnEnemyCount = 0;
-
-           if(waves[waveNumber].spawnInterval > 0.3f)
+        if(PlayerMovement.Instance.gameObject.activeSelf){  
+            waves[waveNumber].spawnTimer += Time.deltaTime; 
+            if(waves[waveNumber].spawnTimer >= waves[waveNumber].spawnInterval)
             {
-                waves[waveNumber].spawnInterval *= 0.9f;
+                waves[waveNumber].spawnTimer = 0;
+                SpawnEnemy();
             }
-           waveNumber++;
+            if(waves[waveNumber].spawnEnemyCount >= waves[waveNumber].enemiesPerWave)
+            {
+            waves[waveNumber].spawnEnemyCount = 0;
 
-        }
-        if(waveNumber >= waves.Count)
-        {
-            waveNumber = 0;
+            if(waves[waveNumber].spawnInterval > 0.3f)
+                {
+                    waves[waveNumber].spawnInterval *= 0.9f;
+                }
+            waveNumber++;
+
+            }
+            if(waveNumber >= waves.Count)
+            {
+                waveNumber = 0;
+            }
         }
     }
 

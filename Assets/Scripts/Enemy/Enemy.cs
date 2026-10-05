@@ -8,24 +8,32 @@ public class Enemy : MonoBehaviour
     [SerializeField] private Rigidbody2D rb;
     private Vector3 direction;
     [SerializeField] private float movespeed;
+    [SerializeField] private float damage;
     [SerializeField] private GameObject destroyEffect;
 
   
     void FixedUpdate()
     {
-        // Face the player
-        if(PlayerMovement.Instance.transform.position.x > transform.position.x)
+
+        if(PlayerMovement.Instance.gameObject.activeSelf)  
         {
-            spriteRenderer.flipX = true; 
+            // Face the player
+            if(PlayerMovement.Instance.transform.position.x > transform.position.x)
+            {
+                spriteRenderer.flipX = true; 
+            }
+            else
+            {
+                spriteRenderer.flipX = false; 
+            }
+            //Move towards the player
+            direction = (PlayerMovement.Instance.transform.position - transform.position).normalized;
+            rb.linearVelocity = new Vector2(direction.x * movespeed, direction.y * movespeed);
         }
         else
         {
-            spriteRenderer.flipX = false; 
+            rb.linearVelocity = Vector2.zero;
         }
-        //Move towards the player
-        direction = (PlayerMovement.Instance.transform.position - transform.position).normalized;
-        rb.linearVelocity = new Vector2(direction.x * movespeed, direction.y * movespeed);
-        
     }
     
     //Make enemy disappear when Player(tag) collision with enemy
@@ -34,6 +42,7 @@ public class Enemy : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
+            PlayerMovement.Instance.TakeDamage(damage);
             Destroy(gameObject);
             Instantiate(destroyEffect, transform.position, transform.rotation); //When enemy's destroyd, a copy creates and place it where the enemy was destroyd.
         }

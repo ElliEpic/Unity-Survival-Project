@@ -133,6 +133,7 @@ MonoBehaviour:
   spriteRenderer: {fileID: 867997892329608246}
   rb: {fileID: 5400727938925685287}
   movespeed: 2
+  damage: 2
   destroyEffect: {fileID: 3562465745136971804, guid: 6e50d6a86e98a7b428dd13fcf959ab6e, type: 3}
 --- !u!61 &1674351607443512044
 BoxCollider2D:
@@ -195,7 +196,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2

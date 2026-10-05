@@ -51,6 +51,9 @@ TagManager:
   - name: Boundaries
     uniqueID: 2700909391
     locked: 0
+  - name: UI
+    uniqueID: 2741377047
+    locked: 0
   m_RenderingLayers:
   - Default
   m_MigratedRenderPipelines: []
