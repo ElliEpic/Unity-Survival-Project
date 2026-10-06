@@ -9,6 +9,8 @@ public class Enemy : MonoBehaviour
     private Vector3 direction;
     [SerializeField] private float movespeed;
     [SerializeField] private float damage;
+    [SerializeField] private float health;
+    [SerializeField] private float experienceToGive;
     [SerializeField] private GameObject destroyEffect;
 
   
@@ -43,8 +45,17 @@ public class Enemy : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             PlayerMovement.Instance.TakeDamage(damage);
+             //When enemy's destroyd, a copy creates and place it where the enemy was destroyd.
+        }
+    }
+
+    public void TakeDamage(float damage)
+    {
+        health -= damage;
+        if(health <= 0)
+        {
             Destroy(gameObject);
-            Instantiate(destroyEffect, transform.position, transform.rotation); //When enemy's destroyd, a copy creates and place it where the enemy was destroyd.
+            Instantiate(destroyEffect, transform.position, transform.rotation);
         }
     }
 }

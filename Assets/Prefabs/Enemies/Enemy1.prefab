@@ -82,7 +82,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 1104545087
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 2
   m_MaskInteraction: 0
   m_Sprite: {fileID: 2419215890893748935, guid: 2c0b4622a979f4fa5b757c47356c5441, type: 3}
@@ -185,6 +185,8 @@ MonoBehaviour:
   rb: {fileID: 4668158131500562734}
   movespeed: 2
   damage: 1
+  health: 5
+  experienceToGive: 0
   destroyEffect: {fileID: 3562465745136971804, guid: 6e50d6a86e98a7b428dd13fcf959ab6e, type: 3}
 --- !u!95 &4363752878716785266
 Animator:
