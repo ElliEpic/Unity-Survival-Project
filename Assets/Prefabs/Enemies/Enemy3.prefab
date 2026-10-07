@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2182531470994728787}
   - component: {fileID: 7743766351373205902}
+  - component: {fileID: 7917675547538111550}
   - component: {fileID: 3776130258452975958}
   - component: {fileID: 5189621135915708690}
-  - component: {fileID: 7917675547538111550}
   - component: {fileID: 1751220473768112708}
   m_Layer: 9
   m_Name: Enemy3
@@ -96,6 +96,26 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!114 &7917675547538111550
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1200925284727088697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d58160c17d5c9942b0029cd40bdfce5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Enemy
+  spriteRenderer: {fileID: 7743766351373205902}
+  rb: {fileID: 3776130258452975958}
+  movespeed: 3
+  damage: 3
+  health: 5
+  experienceToGive: 3
+  pushTime: 0.5
+  destroyEffect: {fileID: 3562465745136971804, guid: 6e50d6a86e98a7b428dd13fcf959ab6e, type: 3}
 --- !u!50 &3776130258452975958
 Rigidbody2D:
   serializedVersion: 5
@@ -169,25 +189,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.0625, y: 0.59375}
   m_EdgeRadius: 0
---- !u!114 &7917675547538111550
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1200925284727088697}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0d58160c17d5c9942b0029cd40bdfce5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Enemy
-  spriteRenderer: {fileID: 7743766351373205902}
-  rb: {fileID: 3776130258452975958}
-  movespeed: 3
-  damage: 3
-  health: 15
-  experienceToGive: 0
-  destroyEffect: {fileID: 3562465745136971804, guid: 6e50d6a86e98a7b428dd13fcf959ab6e, type: 3}
 --- !u!95 &1751220473768112708
 Animator:
   serializedVersion: 7

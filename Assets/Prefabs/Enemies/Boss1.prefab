@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 6328635154954197806}
   - component: {fileID: 5952795593079722151}
-  - component: {fileID: 3728023056936412421}
   - component: {fileID: 5846790595147942330}
+  - component: {fileID: 3728023056936412421}
   - component: {fileID: 4954258452897471296}
   - component: {fileID: 2615338409160126407}
   m_Layer: 7
@@ -96,6 +96,26 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!114 &5846790595147942330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3169874428013645140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d58160c17d5c9942b0029cd40bdfce5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Enemy
+  spriteRenderer: {fileID: 5952795593079722151}
+  rb: {fileID: 4954258452897471296}
+  movespeed: 2
+  damage: 4
+  health: 4
+  experienceToGive: 5
+  pushTime: 0.1
+  destroyEffect: {fileID: 3562465745136971804, guid: 6e50d6a86e98a7b428dd13fcf959ab6e, type: 3}
 --- !u!95 &3728023056936412421
 Animator:
   serializedVersion: 7
@@ -118,25 +138,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &5846790595147942330
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3169874428013645140}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0d58160c17d5c9942b0029cd40bdfce5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Enemy
-  spriteRenderer: {fileID: 5952795593079722151}
-  rb: {fileID: 4954258452897471296}
-  movespeed: 2
-  damage: 4
-  health: 50
-  experienceToGive: 0
-  destroyEffect: {fileID: 3562465745136971804, guid: 6e50d6a86e98a7b428dd13fcf959ab6e, type: 3}
 --- !u!50 &4954258452897471296
 Rigidbody2D:
   serializedVersion: 5

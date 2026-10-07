@@ -10,13 +10,13 @@ GameObject:
   m_Component:
   - component: {fileID: 5606873948779557490}
   - component: {fileID: 867997892329608246}
-  - component: {fileID: 5122732965162211023}
   - component: {fileID: 6488790578485253749}
+  - component: {fileID: 5122732965162211023}
   - component: {fileID: 1674351607443512044}
   - component: {fileID: 5400727938925685287}
   m_Layer: 8
   m_Name: Enemy2
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -96,6 +96,26 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!114 &6488790578485253749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8994315346386434959}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d58160c17d5c9942b0029cd40bdfce5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Enemy
+  spriteRenderer: {fileID: 867997892329608246}
+  rb: {fileID: 5400727938925685287}
+  movespeed: 2
+  damage: 2
+  health: 3
+  experienceToGive: 2
+  pushTime: 0.5
+  destroyEffect: {fileID: 3562465745136971804, guid: 6e50d6a86e98a7b428dd13fcf959ab6e, type: 3}
 --- !u!95 &5122732965162211023
 Animator:
   serializedVersion: 7
@@ -118,25 +138,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &6488790578485253749
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8994315346386434959}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0d58160c17d5c9942b0029cd40bdfce5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Enemy
-  spriteRenderer: {fileID: 867997892329608246}
-  rb: {fileID: 5400727938925685287}
-  movespeed: 2
-  damage: 2
-  health: 10
-  experienceToGive: 0
-  destroyEffect: {fileID: 3562465745136971804, guid: 6e50d6a86e98a7b428dd13fcf959ab6e, type: 3}
 --- !u!61 &1674351607443512044
 BoxCollider2D:
   m_ObjectHideFlags: 0
