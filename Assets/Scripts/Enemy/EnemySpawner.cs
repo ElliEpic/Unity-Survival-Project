@@ -4,10 +4,8 @@ using UnityEngine;
 
 public class NewMonoBehaviourScript : MonoBehaviour
 { 
-    [System.Serializable]
-    public class Wave 
+    [System.Serializable] public class Wave 
     {
-
         public GameObject enemyPrefab; 
 
         [Tooltip("Time until next spawn")]
@@ -21,9 +19,6 @@ public class NewMonoBehaviourScript : MonoBehaviour
         public int enemiesPerWave;
         
         public int spawnEnemyCount;
-        
-    
-    
     }
 
     public List<Wave> waves;
@@ -34,7 +29,8 @@ public class NewMonoBehaviourScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(PlayerMovement.Instance.gameObject.activeSelf){  
+        if(PlayerMovement.Instance.gameObject.activeSelf)
+        {  
             waves[waveNumber].spawnTimer += Time.deltaTime; 
             if(waves[waveNumber].spawnTimer >= waves[waveNumber].spawnInterval)
             {
@@ -43,14 +39,12 @@ public class NewMonoBehaviourScript : MonoBehaviour
             }
             if(waves[waveNumber].spawnEnemyCount >= waves[waveNumber].enemiesPerWave)
             {
-            waves[waveNumber].spawnEnemyCount = 0;
-
-            if(waves[waveNumber].spawnInterval > 0.3f)
+                waves[waveNumber].spawnEnemyCount = 0;
+                if(waves[waveNumber].spawnInterval > 0.3f)
                 {
                     waves[waveNumber].spawnInterval *= 0.9f;
                 }
-            waveNumber++;
-
+                waveNumber++;
             }
             if(waveNumber >= waves.Count)
             {
@@ -58,28 +52,21 @@ public class NewMonoBehaviourScript : MonoBehaviour
             }
         }
     }
-
-
-
+    
     private void SpawnEnemy()
     {
-        GameObject enemy = Instantiate(
+        GameObject enemy = Instantiate
+        (
             waves[waveNumber].enemyPrefab,
             waves[waveNumber].parent
         );
-
          enemy.transform.localPosition = RandomSpawnPoint(); 
-
-         waves[waveNumber].spawnEnemyCount++;
-        
-        
+         waves[waveNumber].spawnEnemyCount++;  
     }
 
     private Vector2 RandomSpawnPoint()
     {
         Vector2 spawnPoint;
-
-
 
         if(Random.Range(0f, 1f) > 0.5)
         {
@@ -87,23 +74,25 @@ public class NewMonoBehaviourScript : MonoBehaviour
             if(Random.Range(0f, 1f) > 0.5)
             {    
                 spawnPoint.y = minPos.position.y;
-            } else {
+            }
+            else
+            {
                 spawnPoint.y = maxPos.position.y;
-                    
             }
-            } else {
-                spawnPoint.y = Random.Range(minPos.position.y, maxPos.position.y);
-                if(Random.Range(0f, 1f) > 0.5)
-                {    
-                    spawnPoint.x = minPos.position.x;
-                } else {
-                    spawnPoint.x = maxPos.position.x;
-                        
-                }
-
+        }
+        else
+        {
+            spawnPoint.y = Random.Range(minPos.position.y, maxPos.position.y);
+            if(Random.Range(0f, 1f) > 0.5)
+            {    
+                spawnPoint.x = minPos.position.x;
             }
-
-
+            else
+            {
+                spawnPoint.x = maxPos.position.x;     
+            }
+        }
+    
         return spawnPoint;
 
     }

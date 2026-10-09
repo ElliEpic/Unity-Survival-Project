@@ -1,9 +1,10 @@
+using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
     public static PlayerMovement Instance;
-
 
     // Connecting my Unity components to my code even w1hen it's private
     [SerializeField] private Rigidbody2D rb;
@@ -12,7 +13,11 @@ public class PlayerMovement : MonoBehaviour
     public Vector3 playerMoveDirection;
     public float playerMaxHealth;
     public float playerHealth;
-    public float experience;
+
+    public int experience;
+    public int currentevel;
+    public int maxLevel;
+    public List<int> playerLevels;
 
     private bool isImmune;
     [SerializeField] private float immunityDuration;
@@ -25,8 +30,13 @@ public class PlayerMovement : MonoBehaviour
 
     void Start()
     {
+        for(int i = playerLevels.Count; i < maxLevel; i++)
+        {
+            playerLevels.Add(Mathf.CeilToInt(playerLevels[playerLevels.Count - 1] * 1.1f + 15));
+        }
         playerHealth = playerMaxHealth;
         UIController.Instance.UpdateHealthSlider();
+        UIController.Instance.UpdateExperienceSlider();
     }
 
     void Awake()
@@ -61,12 +71,11 @@ public class PlayerMovement : MonoBehaviour
         if (playerMoveDirection == Vector3.zero)
         {
             animator.SetBool("moving", false);
-        }
+        } 
         else
         {
             animator.SetBool("moving", true);
         }
-
         if (immunityTimer > 0)
         {
             immunityTimer -= Time.deltaTime;
@@ -75,7 +84,6 @@ public class PlayerMovement : MonoBehaviour
         {
             isImmune = false;
         }
-
     }
 
     void FixedUpdate()
@@ -100,11 +108,12 @@ public class PlayerMovement : MonoBehaviour
                 GameManager.Instance.GameOver();
             }
         }
-
     }
 
     public void GetExperience(int experienceToGet)
     {
         experience += experienceToGet;
+        UIController.Instance.UpdateExperienceSlider();
     }
+    
 }

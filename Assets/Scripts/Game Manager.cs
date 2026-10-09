@@ -7,17 +7,19 @@ public class GameManager : MonoBehaviour
     public float gameTime; 
     public bool gameActive;
  
-     void Awake() 
+     void Awake()
+     { 
+        if (Instance != null && Instance != this)
         { 
-            if (Instance != null && Instance != this){ 
-                Destroy(this); 
-            } else { 
-                Instance = this; 
-            } 
-             
+            Destroy(this); 
+        }
+        else
+        { 
+            Instance = this; 
         } 
+    } 
 
-        void Start()
+    void Start()
     {
         gameActive = true;
     }
@@ -32,7 +34,6 @@ public class GameManager : MonoBehaviour
             { 
                 Pause(); 
             }
-    
         } 
     } 
 
@@ -52,7 +53,8 @@ public class GameManager : MonoBehaviour
         { 
             UIController.Instance.pauseMenu.SetActive(true); 
             Time.timeScale = 0f; 
-        } else 
+        }
+        else 
         { 
             UIController.Instance.pauseMenu.SetActive(false); 
             Time.timeScale = 1f; 

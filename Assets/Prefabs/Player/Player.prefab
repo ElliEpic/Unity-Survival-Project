@@ -167,6 +167,9 @@ MonoBehaviour:
   playerMaxHealth: 100
   playerHealth: 100
   experience: 0
+  currentevel: 0
+  maxLevel: 30
+  playerLevels: 0a000000140000001e000000i
   immunityDuration: 3
   immunityTimer: 3
 --- !u!50 &2248604303124496224
