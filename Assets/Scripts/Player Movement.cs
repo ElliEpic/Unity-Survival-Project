@@ -10,6 +10,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Animator animator;
     [SerializeField] private float movespeed = 2.0f;
+    [SerializeField] private Camera mainCamera;
     public Vector3 playerMoveDirection;
     public float playerMaxHealth;
     public float playerHealth;
@@ -20,10 +21,11 @@ public class PlayerMovement : MonoBehaviour
     public List<int> playerLevels;
 
     public Attack activeAttack;
-// invisibillity frames after damage :)
+// invisibillity frames after damage
     private bool isImmune;
     [SerializeField] private float immunityDuration;
     [SerializeField] private float immunityTimer;
+    [SerializeField] private Animator immunityAnimator;
 
     /* void Start() 
      { 
@@ -54,39 +56,57 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
-    void Update()
+   
+void Update()
+{
+    float inputX = Input.GetAxisRaw("Horizontal");
+    float inputY = Input.GetAxisRaw("Vertical");
+
+    Vector2 keyboardDirection = new Vector2(inputX, inputY).normalized;
+
+    if (Input.GetMouseButton(0))
     {
+        Vector3 mouseWorldPosition =
+            mainCamera.ScreenToWorldPoint(Input.mousePosition);
 
-        //Character movement X & Y  
-        float inputX = Input.GetAxisRaw("Horizontal");
-        float inputY = Input.GetAxisRaw("Vertical");
+        Vector2 targetPosition = new Vector2(
+            mouseWorldPosition.x,
+            mouseWorldPosition.y
+        );
 
+        Vector2 direction = targetPosition - (Vector2)transform.position;
 
-        playerMoveDirection = new Vector3(inputX, inputY).normalized;
-
-        // Connect my animation sprites to Unity
-        animator.SetFloat("moveX", inputX);
-        animator.SetFloat("moveY", inputY);
-
-
-
-        if (playerMoveDirection == Vector3.zero)
+        
+        if (direction.magnitude > 0.1f)
         {
-            animator.SetBool("moving", false);
-        } 
-        else
-        {
-            animator.SetBool("moving", true);
-        }
-        if (immunityTimer > 0)
-        {
-            immunityTimer -= Time.deltaTime;
+            playerMoveDirection = direction.normalized;
         }
         else
         {
-            isImmune = false;
+            playerMoveDirection = Vector3.zero;
         }
     }
+    else
+    {
+        playerMoveDirection = keyboardDirection;
+    }
+
+    // Animation
+    animator.SetFloat("moveX", playerMoveDirection.x);
+    animator.SetFloat("moveY", playerMoveDirection.y);
+    animator.SetBool("moving", playerMoveDirection != Vector3.zero);
+
+    // Immunity timer
+    if (immunityTimer > 0)
+    {
+        immunityTimer -= Time.deltaTime;
+    }
+    else
+    {
+        isImmune = false;
+    }
+}
+
 
     void FixedUpdate()
     {
