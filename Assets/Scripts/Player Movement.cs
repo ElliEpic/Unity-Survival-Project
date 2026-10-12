@@ -19,6 +19,8 @@ public class PlayerMovement : MonoBehaviour
     public int maxLevel;
     public List<int> playerLevels;
 
+    public Attack activeAttack;
+
     private bool isImmune;
     [SerializeField] private float immunityDuration;
     [SerializeField] private float immunityTimer;
@@ -114,6 +116,19 @@ public class PlayerMovement : MonoBehaviour
     {
         experience += experienceToGet;
         UIController.Instance.UpdateExperienceSlider();
+        if(experience >= playerLevels[currentevel - 1])
+        {
+            LevelUp();
+        }
+    }
+
+    public void LevelUp()
+    {
+        experience -= playerLevels[currentevel - 1];
+        currentevel++;
+        UIController.Instance.UpdateExperienceSlider();
+        UIController.Instance.levelUpButtons[0].ActivateButton(activeAttack);
+        UIController.Instance.LevelUpPanelOpen();
     }
     
 }

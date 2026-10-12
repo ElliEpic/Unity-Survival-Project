@@ -15,9 +15,9 @@ public class AreaAttackPrefab : MonoBehaviour
     {
         attack = GameObject.Find("Area Attack").GetComponent<AreaAttack>();
         //Destroy(gameObject, attack.duration);
-        targetSize = Vector3.one * attack.range;
+        targetSize = Vector3.one * attack.stats[attack.attackLevel].range;
         transform.localScale = Vector3.zero;
-        timer = attack.duration;
+        timer = attack.stats[attack.attackLevel].duration;
     }
 
     void Update()
@@ -37,10 +37,10 @@ public class AreaAttackPrefab : MonoBehaviour
         counter -= Time.deltaTime;
         if(counter <= 0)
         {
-            counter = attack.speed;
+            counter = attack.stats[attack.attackLevel].speed;
             for (int i = 0; i < enemiesInRange.Count; i++)
             {
-                enemiesInRange[i].TakeDamage(attack.damage);
+                enemiesInRange[i].TakeDamage(attack.stats[attack.attackLevel].damage);
             }
         }
     }
@@ -49,7 +49,7 @@ public class AreaAttackPrefab : MonoBehaviour
         if (collider.CompareTag("Enemy"))
         {
             Enemy enemy = collider.GetComponent<Enemy>();
-            enemy.TakeDamage(attack.damage);
+            enemy.TakeDamage(attack.stats[attack.attackLevel].damage);
            //enemiesInRange.Add(collider.GetComponent<Enemy>());
         }
         

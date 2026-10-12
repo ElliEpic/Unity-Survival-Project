@@ -1,15 +1,10 @@
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class AreaAttack : MonoBehaviour
+public class AreaAttack : Attack
 {
  [SerializeField] private GameObject prefab; 
 private float spawnCounter;
-public float cooldown = 5f;
-public float duration = 3f;
-public float damage = 1f;
-public float range = 0.7f;
-public float speed = 0.5f;
 
     void Update()
 
@@ -18,7 +13,7 @@ public float speed = 0.5f;
 
         if(spawnCounter <= 0)
         {
-            spawnCounter = cooldown;
+            spawnCounter = stats[attackLevel].cooldown;
             Instantiate(prefab, transform.position, transform.rotation,transform);
         }
     }
