@@ -20,7 +20,7 @@ public class PlayerMovement : MonoBehaviour
     public List<int> playerLevels;
 
     public Attack activeAttack;
-
+// invisibillity frames after damage :)
     private bool isImmune;
     [SerializeField] private float immunityDuration;
     [SerializeField] private float immunityTimer;
