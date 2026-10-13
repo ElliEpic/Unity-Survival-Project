@@ -25,7 +25,15 @@ public class PlayerMovement : MonoBehaviour
     private bool isImmune;
     [SerializeField] private float immunityDuration;
     [SerializeField] private float immunityTimer;
-    [SerializeField] private Animator immunityAnimator;
+    [SerializeField] private SpriteRenderer playerSprite;
+    [SerializeField] private Collider2D playerCollider;
+    
+    
+
+    [SerializeField] private float blinkInterval = 0.15f;
+
+    private float blinkTimer;
+    private bool isVisible = true;
 
     /* void Start() 
      { 
@@ -96,15 +104,27 @@ void Update()
     animator.SetFloat("moveY", playerMoveDirection.y);
     animator.SetBool("moving", playerMoveDirection != Vector3.zero);
 
+
     // Immunity timer
-    if (immunityTimer > 0)
+    if (isImmune)
     {
         immunityTimer -= Time.deltaTime;
+        blinkTimer -= Time.deltaTime;
+
+        if (blinkTimer <= 0f)
+        {
+            isVisible = !isVisible;
+            playerSprite.enabled = isVisible;
+
+            blinkTimer = blinkInterval;
+        }
+
+        if (immunityTimer <= 0f)
+        {
+            EndImmunity();
+        }
     }
-    else
-    {
-        isImmune = false;
-    }
+   
 }
 
 
@@ -116,21 +136,27 @@ void Update()
         );
     }
 
-    public void TakeDamage(float damage)
+   public void TakeDamage(float damage)
+{
+    if (!isImmune)
     {
-        if (!isImmune)
+        playerHealth -= damage;
+        UIController.Instance.UpdateHealthSlider();
+
+       
+
+        if (playerHealth <= 0)
         {
-            isImmune = true;
-            immunityTimer = immunityDuration;
-            playerHealth -= damage;
-            UIController.Instance.UpdateHealthSlider(); //Playerhealth reduced to slider
-            if (playerHealth <= 0)
-            {
-                gameObject.SetActive(false);
-                GameManager.Instance.GameOver();
-            }
+            
+            gameObject.SetActive(false);
+            GameManager.Instance.GameOver();
+            return;
         }
+
+        StartImmunity();
     }
+
+}
 
     public void GetExperience(int experienceToGet)
     {
@@ -149,6 +175,49 @@ void Update()
         UIController.Instance.UpdateExperienceSlider();
         UIController.Instance.levelUpButtons[0].ActivateButton(activeAttack);
         UIController.Instance.LevelUpPanelOpen();
+    }
+        void StartImmunity()
+    {
+        isImmune = true;
+        immunityTimer = immunityDuration;
+        blinkTimer = blinkInterval;
+
+        // Visible
+        isVisible = true;
+        playerSprite.enabled = true;
+
+        // Ignore enemy collisions
+        int enemyLayer = LayerMask.NameToLayer("Enemies");
+
+        if (enemyLayer != -1)
+        {
+            Physics2D.IgnoreLayerCollision(
+                gameObject.layer,
+                enemyLayer,
+                true
+            );
+        }
+    }
+
+    void EndImmunity()
+    {
+        isImmune = false;
+        immunityTimer = 0f;
+
+        // The player is visible again
+        isVisible = true;
+        playerSprite.enabled = true;
+
+        // Restores enemy collisions
+        int enemyLayer = LayerMask.NameToLayer("Enemies");
+        if (enemyLayer != -1)
+        {
+            Physics2D.IgnoreLayerCollision(
+                gameObject.layer,
+                enemyLayer,
+                false
+            );
+        }
     }
     
 }

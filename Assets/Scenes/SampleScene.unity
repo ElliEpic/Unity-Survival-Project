@@ -1361,6 +1361,16 @@ NavMeshAgent:
   m_BaseOffset: 0.39062497
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!61 &742987943 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 1490640420865440184, guid: 07365b16ae511db42bf540942987548f, type: 3}
+  m_PrefabInstance: {fileID: 8318067705901646858}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &742987946 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 4234171965995471116, guid: 07365b16ae511db42bf540942987548f, type: 3}
+  m_PrefabInstance: {fileID: 8318067705901646858}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &751352047
 GameObject:
   m_ObjectHideFlags: 0
@@ -9179,6 +9189,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1490640420865440184, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      propertyPath: m_ExcludeLayers.m_Bits
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2405554124353909833, guid: 07365b16ae511db42bf540942987548f, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.2
@@ -9234,6 +9248,14 @@ PrefabInstance:
     - target: {fileID: 3666706874527862386, guid: 07365b16ae511db42bf540942987548f, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 4234171965995471116, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4234171965995471116, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1104545087
       objectReference: {fileID: 0}
     - target: {fileID: 4582468831096115430, guid: 07365b16ae511db42bf540942987548f, type: 3}
       propertyPath: attackImage
@@ -9367,6 +9389,10 @@ PrefabInstance:
       propertyPath: stats.Array.data[4].description
       value: Final Upgrade
       objectReference: {fileID: 0}
+    - target: {fileID: 8526405159879601680, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9095327458722018916, guid: 07365b16ae511db42bf540942987548f, type: 3}
       propertyPath: movespeed
       value: 5
@@ -9387,6 +9413,14 @@ PrefabInstance:
       propertyPath: playerHealth
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9095327458722018916, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      propertyPath: playerSprite
+      value: 
+      objectReference: {fileID: 742987946}
+    - target: {fileID: 9095327458722018916, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      propertyPath: playerCollider
+      value: 
+      objectReference: {fileID: 742987943}
     - target: {fileID: 9095327458722018916, guid: 07365b16ae511db42bf540942987548f, type: 3}
       propertyPath: playerMaxHealth
       value: 10

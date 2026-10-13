@@ -42,7 +42,7 @@ public class GameManager : MonoBehaviour
     { 
         StartCoroutine(ShowGameOverScreen());
         gameActive = false; 
-        UIController.Instance.gameOverPanel.SetActive(true); 
+        //UIController.Instance.gameOverPanel.SetActive(true); 
     } 
 
     IEnumerator ShowGameOverScreen()
@@ -68,7 +68,7 @@ public class GameManager : MonoBehaviour
             Time.timeScale = 1f; 
         } 
     } 
-
+    
     public void QuitGame()
     {
         Application.Quit();
