@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 272ac537dc1a77f4ba32868786d5d08d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 334031591845660735
+    second: Sprite-sheet-yellow_0
+  - first:
+      213: 4277919524397941047
+    second: Sprite-sheet-yellow_1
+  - first:
+      213: -3606006200823357997
+    second: Sprite-sheet-yellow_2
+  - first:
+      213: 2757329705047807010
+    second: Sprite-sheet-yellow_3
+  - first:
+      213: -552836023495018166
+    second: Sprite-sheet-yellow_4
+  - first:
+      213: -828241127222615124
+    second: Sprite-sheet-yellow_5
+  - first:
+      213: 83626202397683919
+    second: Sprite-sheet-yellow_6
+  - first:
+      213: 2713325486775661147
+    second: Sprite-sheet-yellow_7
+  - first:
+      213: -6470192469372308305
+    second: Sprite-sheet-yellow_8
+  - first:
+      213: 4955717121313598081
+    second: Sprite-sheet-yellow_9
+  - first:
+      213: 7233178835606454821
+    second: Sprite-sheet-yellow_10
+  - first:
+      213: 5364936352198634198
+    second: Sprite-sheet-yellow_11
+  - first:
+      213: 305462710377583823
+    second: Sprite-sheet-yellow_12
+  - first:
+      213: 7952785678428467611
+    second: Sprite-sheet-yellow_13
+  - first:
+      213: -5062345800885218550
+    second: Sprite-sheet-yellow_14
+  - first:
+      213: -6992414183168070351
+    second: Sprite-sheet-yellow_15
+  - first:
+      213: 112935891818966726
+    second: Sprite-sheet-yellow_16
+  - first:
+      213: 3158722219482407632
+    second: Sprite-sheet-yellow_17
+  - first:
+      213: -7513550716544651899
+    second: Sprite-sheet-yellow_18
+  - first:
+      213: -2956033822719071545
+    second: Sprite-sheet-yellow_19
+  - first:
+      213: -8860756343067288363
+    second: Sprite-sheet-yellow_20
+  - first:
+      213: -4406079534597910765
+    second: Sprite-sheet-yellow_21
+  - first:
+      213: -1394939706509907766
+    second: Sprite-sheet-yellow_22
+  - first:
+      213: -3197242477477247173
+    second: Sprite-sheet-yellow_23
+  - first:
+      213: -1809707370787360667
+    second: Sprite-sheet-yellow_24
+  - first:
+      213: 8711748851916625598
+    second: Sprite-sheet-yellow_25
+  - first:
+      213: 7117463199485826281
+    second: Sprite-sheet-yellow_26
+  - first:
+      213: -531589978172641025
+    second: Sprite-sheet-yellow_27
+  - first:
+      213: 2156578460731991301
+    second: Sprite-sheet-yellow_28
+  - first:
+      213: -8178958796565811375
+    second: Sprite-sheet-yellow_29
+  - first:
+      213: -4418518921135067541
+    second: Sprite-sheet-yellow_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite-sheet-yellow_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 139
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3808b786f7b2a400800000000000000
+      internalID: 334031591845660735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-sheet-yellow_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 13
+        width: 83
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731827d54293e5b30800000000000000
+      internalID: 4277919524397941047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-sheet-yellow_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 13
+        width: 110
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd511e3774e4fdc0800000000000000
+      internalID: -3606006200823357997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-sheet-yellow_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 13
+        width: 121
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224d10ef1c0044620800000000000000
+      internalID: 2757329705047807010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-sheet-yellow_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 13
+        width: 129
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a493a80d09ee358f0800000000000000
+      internalID: -552836023495018166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bf31090f14ae7814598601ebb3846937
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: False
+    nameFileIdTable:
+      Sprite-sheet-yellow_0: 334031591845660735
+      Sprite-sheet-yellow_1: 4277919524397941047
+      Sprite-sheet-yellow_10: 7233178835606454821
+      Sprite-sheet-yellow_11: 5364936352198634198
+      Sprite-sheet-yellow_12: 305462710377583823
+      Sprite-sheet-yellow_13: 7952785678428467611
+      Sprite-sheet-yellow_14: -5062345800885218550
+      Sprite-sheet-yellow_15: -6992414183168070351
+      Sprite-sheet-yellow_16: 112935891818966726
+      Sprite-sheet-yellow_17: 3158722219482407632
+      Sprite-sheet-yellow_18: -7513550716544651899
+      Sprite-sheet-yellow_19: -2956033822719071545
+      Sprite-sheet-yellow_2: -3606006200823357997
+      Sprite-sheet-yellow_20: -8860756343067288363
+      Sprite-sheet-yellow_21: -4406079534597910765
+      Sprite-sheet-yellow_22: -1394939706509907766
+      Sprite-sheet-yellow_23: -3197242477477247173
+      Sprite-sheet-yellow_24: -1809707370787360667
+      Sprite-sheet-yellow_25: 8711748851916625598
+      Sprite-sheet-yellow_26: 7117463199485826281
+      Sprite-sheet-yellow_27: -531589978172641025
+      Sprite-sheet-yellow_28: 2156578460731991301
+      Sprite-sheet-yellow_29: -8178958796565811375
+      Sprite-sheet-yellow_3: 2757329705047807010
+      Sprite-sheet-yellow_30: -4418518921135067541
+      Sprite-sheet-yellow_4: -552836023495018166
+      Sprite-sheet-yellow_5: -828241127222615124
+      Sprite-sheet-yellow_6: 83626202397683919
+      Sprite-sheet-yellow_7: 2713325486775661147
+      Sprite-sheet-yellow_8: -6470192469372308305
+      Sprite-sheet-yellow_9: 4955717121313598081
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
