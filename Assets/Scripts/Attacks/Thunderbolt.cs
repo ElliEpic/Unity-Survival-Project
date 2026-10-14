@@ -6,11 +6,14 @@ public class Thunderbolt : Attack
 {
     [Header("Lightning")]
     [SerializeField] private GameObject lightningPrefab;
+    [SerializeField] private float lightningLifetime = 1.5f;
 
     [Header("Range Detection")]
     [SerializeField] private CircleCollider2D rangeTrigger;
 
-    [SerializeField] private float lightningLifetime = 1.5f;
+    [Header("Lightning Audio")]
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip lightningSound;
 
     private readonly List<Enemy> enemiesInRange = new();
     private float spawnCounter;
@@ -37,12 +40,20 @@ public class Thunderbolt : Attack
 
         if (rangeTrigger == null)
         {
+            Debug.LogError(
+                "Thunderbolt: No CircleCollider2D assigned or found.",
+                this
+            );
             enabled = false;
             return;
         }
 
         if (CurrentStats == null)
         {
+            Debug.LogError(
+                "Thunderbolt: No valid attack stats for the current level.",
+                this
+            );
             enabled = false;
             return;
         }
@@ -52,7 +63,6 @@ public class Thunderbolt : Attack
 
         // Wait for the initial cooldown before the first cast.
         spawnCounter = Mathf.Max(0f, CurrentStats.cooldown);
-
     }
 
     private void Update()
@@ -60,18 +70,15 @@ public class Thunderbolt : Attack
         attackStats current = CurrentStats;
 
         if (current == null)
-        {
             return;
-        }
 
         spawnCounter -= Time.deltaTime;
 
         if (spawnCounter <= 0f)
         {
-
             CastLightning();
 
-            // Read the current cooldown after casting.
+            // Start the next cooldown.
             current = CurrentStats;
 
             if (current != null)
@@ -88,7 +95,6 @@ public class Thunderbolt : Attack
 
         rangeTrigger.isTrigger = true;
         rangeTrigger.radius = Mathf.Max(0f, current.range);
-
     }
 
     public override void LevelUp()
@@ -98,55 +104,41 @@ public class Thunderbolt : Attack
         base.LevelUp();
 
         if (attackLevel == previousLevel)
-        {
-
-
             return;
-        }
 
         UpdateRange();
-
     }
 
- private void OnTriggerEnter2D(Collider2D other)
-{
-    Debug.Log(
-        $"[Thunderbolt] Trigger detected: {other.name}, " +
-        $"Layer: {LayerMask.LayerToName(other.gameObject.layer)}",
-        this
-    );
-
-    Enemy enemy = other.GetComponentInParent<Enemy>();
-
-    if (enemy != null && !enemiesInRange.Contains(enemy))
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        enemiesInRange.Add(enemy);
-        Debug.Log($"[Thunderbolt] Enemy added: {enemy.name}", this);
+        Enemy enemy = other.GetComponentInParent<Enemy>();
+
+        if (enemy != null && !enemiesInRange.Contains(enemy))
+        {
+            enemiesInRange.Add(enemy);
+            Debug.Log($"Thunderbolt: Enemy added: {enemy.name}", this);
+        }
     }
-    else if (enemy == null)
-    {
-        Debug.Log($"[Thunderbolt] {other.name} has no Enemy component in its parent hierarchy.",this);
-    }
-}
 
     private void OnTriggerExit2D(Collider2D other)
     {
         Enemy enemy = other.GetComponentInParent<Enemy>();
+
+        if (enemy != null)
+            enemiesInRange.Remove(enemy);
     }
 
     public void CastLightning()
     {
         attackStats current = CurrentStats;
 
-        if (lightningPrefab == null)
-        {
+        if (current == null || lightningPrefab == null)
             return;
-        }
 
         // Remove destroyed enemies from the tracked list.
         enemiesInRange.RemoveAll(enemy => enemy == null);
 
-        // Create a separate list so the tracked list remains intact.
+        // Select targets without modifying the tracked list.
         List<Enemy> choices = new(enemiesInRange);
 
         int strikes = Mathf.Min(
@@ -154,14 +146,21 @@ public class Thunderbolt : Attack
             choices.Count
         );
 
+        // Don't play audio if no enemies are struck.
         if (strikes == 0)
-        {
             return;
+
+        // Play the sound once per cast.
+        // This AudioSource must belong to an object that survives
+        // longer than the lightning visual effect.
+        if (audioSource != null && lightningSound != null)
+        {
+            audioSource.PlayOneShot(lightningSound);
         }
 
         for (int i = 0; i < strikes; i++)
         {
-            // Select a random enemy without repeating targets this cast.
+            // Choose a random enemy without repeating targets.
             int index = Random.Range(0, choices.Count);
             Enemy target = choices[index];
 
@@ -173,8 +172,11 @@ public class Thunderbolt : Attack
                 Quaternion.identity
             );
 
-            target.TakeDamage(Mathf.RoundToInt(current.damage));
+            target.TakeDamage(
+                Mathf.RoundToInt(current.damage)
+            );
 
+            // Destroy the visual without interrupting the audio.
             Destroy(lightning, lightningLifetime);
         }
     }
