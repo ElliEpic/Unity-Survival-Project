@@ -1510,30 +1510,6 @@ SpriteRenderer:
   m_CorrespondingSourceObject: {fileID: 4234171965995471116, guid: 07365b16ae511db42bf540942987548f, type: 3}
   m_PrefabInstance: {fileID: 8318067705901646858}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &742987951
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 31506402}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b09423973c318544e9fc2beb6e54099a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SummonLightning
-  attackLevel: 0
-  stats:
-  - cooldown: 7
-    duration: 0
-    damage: 10
-    range: 0
-    speed: 0
-    targetCount: 3
-    description: 
-  attackImage: {fileID: 0}
-  lightningPrefab: {fileID: 7288280997834855497, guid: 53d79f853b915a94f953b117217a4602, type: 3}
-  mainCamera: {fileID: 519420031}
 --- !u!1 &751352047
 GameObject:
   m_ObjectHideFlags: 0
@@ -2145,6 +2121,7 @@ MonoBehaviour:
   attackName: {fileID: 1217652462}
   attackDescription: {fileID: 42940341}
   attackIcon: {fileID: 1775058577}
+  assignedAttack: {fileID: 1212779307}
 --- !u!114 &979289528
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2669,6 +2646,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1207336457 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1032223126617917654, guid: 07365b16ae511db42bf540942987548f, type: 3}
+  m_PrefabInstance: {fileID: 8318067705901646858}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1208500429
 GameObject:
   m_ObjectHideFlags: 0
@@ -2806,6 +2788,114 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1208500429}
   m_CullTransparentMesh: 1
+--- !u!1 &1212779305
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1212779306}
+  - component: {fileID: 1212779307}
+  - component: {fileID: 1212779308}
+  m_Layer: 0
+  m_Name: Thunderbolt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1212779306
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1212779305}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1207336457}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1212779307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1212779305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b09423973c318544e9fc2beb6e54099a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Thunderbolt
+  attackLevel: 0
+  stats:
+  - cooldown: 3
+    duration: 10
+    damage: 5
+    range: 2
+    speed: 1
+    targetCount: 1
+    description: 
+  - cooldown: 2.5
+    duration: 15
+    damage: 6
+    range: 3
+    speed: 1
+    targetCount: 2
+    description: 
+  - cooldown: 2
+    duration: 20
+    damage: 7
+    range: 4
+    speed: 1
+    targetCount: 3
+    description: 
+  attackImage: {fileID: 2055480866552537030, guid: adaa8a7e805f967468112dfd50a054bd, type: 3}
+  lightningPrefab: {fileID: 6457374203638866993, guid: fb4027e988a5f5147980983f8cecd0ca, type: 3}
+  rangeTrigger: {fileID: 1212779308}
+  lightningLifetime: 0.25
+--- !u!58 &1212779308
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1212779305}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_Radius: 4.5
 --- !u!1 &1217652460
 GameObject:
   m_ObjectHideFlags: 0
@@ -9557,6 +9647,96 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1945771526}
   m_CullTransparentMesh: 1
+--- !u!1 &2016934774
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2016934775}
+  - component: {fileID: 2016934776}
+  m_Layer: 0
+  m_Name: Area Attack (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2016934775
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2016934774}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.86742, y: 0.86742, z: 0.86742}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1207336457}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2016934776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2016934774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5a3ffc9cab7d294ba389b19df5d5236, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AreaAttack
+  attackLevel: 0
+  stats:
+  - cooldown: 5
+    duration: 3
+    damage: 1
+    range: 0.7
+    speed: 0.5
+    targetCount: 0
+    description: Damage + 1
+  - cooldown: 5
+    duration: 3
+    damage: 1
+    range: 0.8
+    speed: 0.5
+    targetCount: 0
+    description: Range + 1
+  - cooldown: 5
+    duration: 3
+    damage: 1
+    range: 0.9
+    speed: 0.5
+    targetCount: 0
+    description: Final Upgrade
+  - cooldown: 5
+    duration: 3
+    damage: 1
+    range: 0.9
+    speed: 0.5
+    targetCount: 0
+    description: Final Upgrade
+  - cooldown: 5
+    duration: 3
+    damage: 1
+    range: 0.9
+    speed: 0.5
+    targetCount: 0
+    description: Final Upgrade
+  - cooldown: 5
+    duration: 3
+    damage: 1
+    range: 0.9
+    speed: 0.5
+    targetCount: 0
+    description: Final Upgrade
+  attackImage: {fileID: 1808650104539111836, guid: a67f45a1d1ea3f747b13d6062e6d7264, type: 3}
+  prefab: {fileID: 6457374203638866993, guid: d6d6092269f39084f97bbad6fb3c9383, type: 3}
 --- !u!1 &2042069784
 GameObject:
   m_ObjectHideFlags: 0
@@ -9708,6 +9888,7 @@ MonoBehaviour:
   attackName: {fileID: 1281037961}
   attackDescription: {fileID: 1091029926}
   attackIcon: {fileID: 1628232048}
+  assignedAttack: {fileID: 559135195}
 --- !u!1 &2121790185
 GameObject:
   m_ObjectHideFlags: 0
@@ -9853,8 +10034,36 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1032223126617917654, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1032223126617917654, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1032223126617917654, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1032223126617917654, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1032223126617917654, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1490640420865440184, guid: 07365b16ae511db42bf540942987548f, type: 3}
       propertyPath: m_ExcludeLayers.m_Bits
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1672601133153953878, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1672601133153953878, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2405554124353909833, guid: 07365b16ae511db42bf540942987548f, type: 3}
@@ -10411,14 +10620,17 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 1032223126617917654, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2016934775}
+    - targetCorrespondingSourceObject: {fileID: 1032223126617917654, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1212779306}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 3666706874527862386, guid: 07365b16ae511db42bf540942987548f, type: 3}
       insertIndex: -1
       addedObject: {fileID: 742987940}
-    - targetCorrespondingSourceObject: {fileID: 3666706874527862386, guid: 07365b16ae511db42bf540942987548f, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 742987951}
   m_SourcePrefab: {fileID: 100100000, guid: 07365b16ae511db42bf540942987548f, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

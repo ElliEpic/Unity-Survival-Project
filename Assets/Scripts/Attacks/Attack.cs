@@ -3,12 +3,17 @@ using UnityEngine;
 
 public class Attack : MonoBehaviour
 {
-  public int attackLevel;
-  public List<attackStats> stats;
-  public Sprite attackImage;
+    public int attackLevel;
+    public List<attackStats> stats;
+    public Sprite attackImage;
 
-  public void LevelUp()
+    public virtual void LevelUp()
     {
+        if(stats == null || attackLevel >= stats.Count - 1)
+        {
+            return;
+        }
+        
         attackLevel++;
     }
 
@@ -22,9 +27,6 @@ public class attackStats
     public float damage;
     public float range;
     public float speed;
-
-        //how many enemies to strike at that upgrade level.
-    public int targetCount;
-
+    public int targetCount; //how many enemies to strike at that upgrade level.
     public string description;
 }

@@ -4,97 +4,178 @@ using UnityEngine;
 
 public class Thunderbolt : Attack
 {
-    [Header("Thunderbolt Settings")]
+    [Header("Lightning")]
     [SerializeField] private GameObject lightningPrefab;
-    [SerializeField] private Camera mainCamera;
 
-    private float cooldownTimer;
+    [Header("Range Detection")]
+    [SerializeField] private CircleCollider2D rangeTrigger;
 
-    private void Start()
+    [SerializeField] private float lightningLifetime = 1.5f;
+
+    private readonly List<Enemy> enemiesInRange = new();
+    private float spawnCounter;
+
+    private attackStats CurrentStats
     {
-        if (mainCamera == null)
+        get
         {
-            mainCamera = Camera.main;
+            if (stats == null ||
+                attackLevel < 0 ||
+                attackLevel >= stats.Count)
+            {
+                return null;
+            }
+
+            return stats[attackLevel];
+        }
+    }
+
+    private void Awake()
+    {
+        if (rangeTrigger == null)
+            rangeTrigger = GetComponent<CircleCollider2D>();
+
+        if (rangeTrigger == null)
+        {
+            enabled = false;
+            return;
         }
 
-        // Wait for the cooldown before the first strike.
-        if (stats != null && stats.Count > 0)
+        if (CurrentStats == null)
         {
-            cooldownTimer = stats[attackLevel].cooldown;
+            enabled = false;
+            return;
         }
+
+        rangeTrigger.isTrigger = true;
+        UpdateRange();
+
+        // Wait for the initial cooldown before the first cast.
+        spawnCounter = Mathf.Max(0f, CurrentStats.cooldown);
+
     }
 
     private void Update()
     {
-        if (stats == null || stats.Count == 0)
-            return;
+        attackStats current = CurrentStats;
 
-        if (attackLevel < 0 || attackLevel >= stats.Count)
-            return;
-
-        cooldownTimer -= Time.deltaTime;
-
-        if (cooldownTimer <= 0f)
+        if (current == null)
         {
-            CastThunderbolt();
-            cooldownTimer = stats[attackLevel].cooldown;
+            return;
+        }
+
+        spawnCounter -= Time.deltaTime;
+
+        if (spawnCounter <= 0f)
+        {
+
+            CastLightning();
+
+            // Read the current cooldown after casting.
+            current = CurrentStats;
+
+            if (current != null)
+                spawnCounter = Mathf.Max(0.01f, current.cooldown);
         }
     }
 
-    private void CastThunderbolt()
+    private void UpdateRange()
     {
-        if (mainCamera == null || lightningPrefab == null)
+        attackStats current = CurrentStats;
+
+        if (rangeTrigger == null || current == null)
             return;
 
-        // Find all enemies currently in the scene.
-        Enemy[] allEnemies = FindObjectsOfType<Enemy>();
+        rangeTrigger.isTrigger = true;
+        rangeTrigger.radius = Mathf.Max(0f, current.range);
 
-        List<Enemy> targets = new List<Enemy>();
+    }
 
-        // Keep only enemies visible inside the camera.
-        foreach (Enemy enemy in allEnemies)
+    public override void LevelUp()
+    {
+        int previousLevel = attackLevel;
+
+        base.LevelUp();
+
+        if (attackLevel == previousLevel)
         {
-            if (enemy == null)
-                continue;
 
-            Vector3 screenPosition =
-                mainCamera.WorldToViewportPoint(
-                    enemy.transform.position
-                );
 
-            bool isVisible =
-                screenPosition.z > 0f &&
-                screenPosition.x >= 0f &&
-                screenPosition.x <= 1f &&
-                screenPosition.y >= 0f &&
-                screenPosition.y <= 1f;
-
-            if (isVisible)
-            {
-                targets.Add(enemy);
-            }
+            return;
         }
 
-        int strikeCount = Mathf.Min(
-            stats[attackLevel].targetCount,
-            targets.Count
+        UpdateRange();
+
+    }
+
+ private void OnTriggerEnter2D(Collider2D other)
+{
+    Debug.Log(
+        $"[Thunderbolt] Trigger detected: {other.name}, " +
+        $"Layer: {LayerMask.LayerToName(other.gameObject.layer)}",
+        this
+    );
+
+    Enemy enemy = other.GetComponentInParent<Enemy>();
+
+    if (enemy != null && !enemiesInRange.Contains(enemy))
+    {
+        enemiesInRange.Add(enemy);
+        Debug.Log($"[Thunderbolt] Enemy added: {enemy.name}", this);
+    }
+    else if (enemy == null)
+    {
+        Debug.Log($"[Thunderbolt] {other.name} has no Enemy component in its parent hierarchy.",this);
+    }
+}
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        Enemy enemy = other.GetComponentInParent<Enemy>();
+    }
+
+    public void CastLightning()
+    {
+        attackStats current = CurrentStats;
+
+        if (lightningPrefab == null)
+        {
+            return;
+        }
+
+        // Remove destroyed enemies from the tracked list.
+        enemiesInRange.RemoveAll(enemy => enemy == null);
+
+        // Create a separate list so the tracked list remains intact.
+        List<Enemy> choices = new(enemiesInRange);
+
+        int strikes = Mathf.Min(
+            Mathf.Max(0, current.targetCount),
+            choices.Count
         );
 
-        for (int i = 0; i < strikeCount; i++)
+        if (strikes == 0)
         {
-            int randomIndex = Random.Range(0, targets.Count);
-            Enemy target = targets[randomIndex];
+            return;
+        }
 
-            // Prevent the same enemy being selected twice.
-            targets.RemoveAt(randomIndex);
+        for (int i = 0; i < strikes; i++)
+        {
+            // Select a random enemy without repeating targets this cast.
+            int index = Random.Range(0, choices.Count);
+            Enemy target = choices[index];
 
-            Instantiate(
+            choices.RemoveAt(index);
+
+            GameObject lightning = Instantiate(
                 lightningPrefab,
                 target.transform.position,
                 Quaternion.identity
             );
 
-            target.TakeDamage(stats[attackLevel].damage);
+            target.TakeDamage(Mathf.RoundToInt(current.damage));
+
+            Destroy(lightning, lightningLifetime);
         }
     }
 }
