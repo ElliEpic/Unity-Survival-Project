@@ -1510,6 +1510,30 @@ SpriteRenderer:
   m_CorrespondingSourceObject: {fileID: 4234171965995471116, guid: 07365b16ae511db42bf540942987548f, type: 3}
   m_PrefabInstance: {fileID: 8318067705901646858}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &742987951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 31506402}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b09423973c318544e9fc2beb6e54099a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SummonLightning
+  attackLevel: 0
+  stats:
+  - cooldown: 7
+    duration: 0
+    damage: 10
+    range: 0
+    speed: 0
+    targetCount: 3
+    description: 
+  attackImage: {fileID: 0}
+  lightningPrefab: {fileID: 7288280997834855497, guid: 53d79f853b915a94f953b117217a4602, type: 3}
+  mainCamera: {fileID: 519420031}
 --- !u!1 &751352047
 GameObject:
   m_ObjectHideFlags: 0
@@ -10392,6 +10416,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 3666706874527862386, guid: 07365b16ae511db42bf540942987548f, type: 3}
       insertIndex: -1
       addedObject: {fileID: 742987940}
+    - targetCorrespondingSourceObject: {fileID: 3666706874527862386, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 742987951}
   m_SourcePrefab: {fileID: 100100000, guid: 07365b16ae511db42bf540942987548f, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
