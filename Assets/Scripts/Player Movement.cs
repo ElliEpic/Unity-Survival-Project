@@ -136,29 +136,33 @@ void Update()
         );
     }
 
-   public void TakeDamage(float damage)
+public void TakeDamage(float damage)
 {
-    if (!isImmune)
+    if (isImmune)
+        return;
+
+    // Apply Reflect's reduction
+    float reducedDamage = Mathf.Max(
+    1f,
+    damage - Reflect.TotalDamageReduction
+);
+
+playerHealth -= reducedDamage;
+
+    Debug.Log("Incoming damage: " + damage
+              + " | Damage after Reflect: " + reducedDamage);
+
+    UIController.Instance.UpdateHealthSlider();
+
+    if (playerHealth <= 0)
     {
-        float reducedDamage = Mathf.Max(
-        0,
-        damage - Reflect.TotalDamageReduction
-        );
-        playerHealth -= reducedDamage;
-        UIController.Instance.UpdateHealthSlider();
-
-       
-
-        if (playerHealth <= 0)
-        {
-            
-            gameObject.SetActive(false);
-            GameManager.Instance.GameOver();
-            return;
-        }
-
-        StartImmunity();
+        gameObject.SetActive(false);
+        GameManager.Instance.GameOver();
+        return;
     }
+
+    StartImmunity();
+
 
 }
 

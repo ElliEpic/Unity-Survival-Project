@@ -2,68 +2,51 @@ using UnityEngine;
 
 public class Reflect : Attack
 {
-    [Header("Defense Boost")]
+
+    [Header("Reflect")]
     [SerializeField] private GameObject reflectPrefab;
     [SerializeField] private float reflectLifetime = 1.5f;
-    [SerializeField] private Transform player;
+    public static int TotalDamageReduction = 0;
 
-    // Total damage reduction from all Defense Boost upgrades.
-    public static int TotalDamageReduction { get; private set; } = 0;
-
-    private attackStats CurrentStats
-    {
-        get
-        {
-            if (stats == null ||
-                attackLevel < 0 ||
-                attackLevel >= stats.Count)
-            {
-                return null;
-            }
-
-            return stats[attackLevel];
-        }
-    }
+      [Header("Reflect Audio")]
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip reflectSound;
 
     public override void LevelUp()
     {
-        int previousLevel = attackLevel;
+        int oldLevel = attackLevel;
 
-        // Level up the Defense Boost.
+        // Level up Reflect
         base.LevelUp();
 
-        // Don't apply a bonus if the level didn't change.
-        if (attackLevel == previousLevel)
-            return;
+        // Only give reduction if the level actually increased
+        if (attackLevel > oldLevel)
+        {
+            TotalDamageReduction++;
 
-        attackStats current = CurrentStats;
-
-        if (current == null)
-            return;
-
-        // Add this upgrade's defense value.
-        int defenseAmount = Mathf.RoundToInt(current.damageBuff);
-
-        TotalDamageReduction += Mathf.Max(0, defenseAmount);
-
-        // Show the visual effect.
-        ShowDefenseEffect();
+            Debug.Log("Reflect selected! Damage reduction: "
+                      + TotalDamageReduction);
+        }
+        UseReflect();
     }
+        
+    public void UseReflect(){
 
-    private void ShowDefenseEffect()
+    // Spawn the effect at the player's position.
+    if (reflectPrefab != null)
     {
-        if (reflectPrefab == null)
-            return;
-
-        Transform target = player != null ? player : transform;
+        Vector3 effectOffset = new Vector3(0f, 1f, 0f);
 
         GameObject effect = Instantiate(
             reflectPrefab,
-            target.position + Vector3.up * 1.5f,
+            transform.position + effectOffset,
             Quaternion.identity,
-            target
+            transform
         );
+        //effect.transform.SetParent(transform, true);
 
+        // Remove the visual effect after 1.5 seconds.
         Destroy(effect, reflectLifetime);
+    }
     }
 }

@@ -57,11 +57,16 @@ public class Enemy : MonoBehaviour
     void OnCollisionStay2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
-        {
-            PlayerMovement.Instance.TakeDamage(damage);
+{
+    PlayerMovement.Instance.TakeDamage(damage);
+}
+
+
+   // PlayerMovement.Instance.TakeDamage(reducedDamage);
+            //PlayerMovement.Instance.TakeDamage(damage);
              //When enemy's destroyd, a copy creates and place it where the enemy was destroyd.
         }
-    }
+    
     public void TakeDamage(float damage)
     {
         health -= damage;
