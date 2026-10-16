@@ -5424,21 +5424,21 @@ MonoBehaviour:
   waves:
   - enemyPrefab: {fileID: 4948334637392145268, guid: 6e2286e8e2c6ecd4bbf8a742554070dd, type: 3}
     spawnTimer: 0
-    spawnInterval: 1
+    spawnInterval: 0.5
     parent: {fileID: 1448132087}
-    enemiesPerWave: 10
+    enemiesPerWave: 20
     spawnEnemyCount: 0
   - enemyPrefab: {fileID: 8994315346386434959, guid: 5b616424b138f1e4e863b6d5dc522e41, type: 3}
     spawnTimer: 0
-    spawnInterval: 1
+    spawnInterval: 0.5
     parent: {fileID: 1448132087}
-    enemiesPerWave: 10
+    enemiesPerWave: 20
     spawnEnemyCount: 0
   - enemyPrefab: {fileID: 1200925284727088697, guid: 618d8d3c7a1438941b7d80932c9e9cdf, type: 3}
     spawnTimer: 0
-    spawnInterval: 1
+    spawnInterval: 0.5
     parent: {fileID: 1448132087}
-    enemiesPerWave: 10
+    enemiesPerWave: 20
     spawnEnemyCount: 0
   - enemyPrefab: {fileID: 3169874428013645140, guid: e197b6a7fa4f3784ca338f7e1f570b6b, type: 3}
     spawnTimer: 0
@@ -11478,6 +11478,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1672601133153953878, guid: 07365b16ae511db42bf540942987548f, type: 3}
       propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2248604303124496224, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      propertyPath: m_AngularDamping
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2405554124353909833, guid: 07365b16ae511db42bf540942987548f, type: 3}
