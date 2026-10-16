@@ -30,10 +30,13 @@ public class LevelUpButton : MonoBehaviour
 
     public void SelectUpgrade()
     {
+        
         if (assignedAttack == null)
         {
+            
             Debug.LogWarning("No upgrade was assigned to this button!");
             return;
+            
         }
 
         assignedAttack.LevelUp();

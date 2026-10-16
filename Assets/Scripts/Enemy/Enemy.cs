@@ -15,9 +15,11 @@ public class Enemy : MonoBehaviour
     [SerializeField] private GameObject destroyEffect;
 
     private float pushCounter;
+
+    
+
     void FixedUpdate()
     {
-
         if(PlayerMovement.Instance.gameObject.activeSelf)  
         {
             // Face the player
@@ -41,7 +43,6 @@ public class Enemy : MonoBehaviour
                     movespeed = Mathf.Abs(movespeed);
                 }
             }
-        
             //Move towards the player
             direction = (PlayerMovement.Instance.transform.position - transform.position).normalized;
             rb.linearVelocity = new Vector2(direction.x * movespeed, direction.y * movespeed);
@@ -51,7 +52,6 @@ public class Enemy : MonoBehaviour
             rb.linearVelocity = Vector2.zero;
         }
     }
-    
     //Make enemy disappear when Player(tag) collision with enemy
     //Checks if the Colliders are touching each other
     void OnCollisionStay2D(Collision2D collision)
@@ -62,7 +62,6 @@ public class Enemy : MonoBehaviour
              //When enemy's destroyd, a copy creates and place it where the enemy was destroyd.
         }
     }
-
     public void TakeDamage(float damage)
     {
         health -= damage;

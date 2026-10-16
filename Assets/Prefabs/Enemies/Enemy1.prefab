@@ -111,7 +111,7 @@ MonoBehaviour:
   spriteRenderer: {fileID: 3625017119627470443}
   rb: {fileID: 4668158131500562734}
   movespeed: 2
-  damage: 1
+  damage: 3
   health: 1
   experienceToGive: 8
   pushTime: 0.5

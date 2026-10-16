@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 22dc7911f39edae48b113b514d3c6e2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8449683634161475623
+    second: Nasty_Plot_spritesheet_0
+  - first:
+      213: 8163724033634597968
+    second: Nasty_Plot_spritesheet_1
+  - first:
+      213: 2991664525957808567
+    second: Nasty_Plot_spritesheet_2
+  - first:
+      213: -2347894857623268455
+    second: Nasty_Plot_spritesheet_3
+  - first:
+      213: 2001950976902125949
+    second: Nasty_Plot_spritesheet_4
+  - first:
+      213: -2944327558046824301
+    second: Nasty_Plot_spritesheet_5
+  - first:
+      213: 6924076823041274479
+    second: Nasty_Plot_spritesheet_6
+  - first:
+      213: 6103883056416441879
+    second: Nasty_Plot_spritesheet_7
+  - first:
+      213: -2397601102408386144
+    second: Nasty_Plot_spritesheet_8
+  - first:
+      213: 901902187460325742
+    second: Nasty_Plot_spritesheet_9
+  - first:
+      213: -6648628522687369553
+    second: Nasty_Plot_spritesheet_10
+  - first:
+      213: 371350762356008225
+    second: Nasty_Plot_spritesheet_11
+  - first:
+      213: -2404706916528479094
+    second: Nasty_Plot_spritesheet_12
+  - first:
+      213: -8010015788770549914
+    second: Nasty_Plot_spritesheet_13
+  - first:
+      213: -3577557329942954053
+    second: Nasty_Plot_spritesheet_14
+  - first:
+      213: 5955304337663163616
+    second: Nasty_Plot_spritesheet_15
+  - first:
+      213: -4465031349271129850
+    second: Nasty_Plot_spritesheet_16
+  - first:
+      213: -8136003519217744427
+    second: Nasty_Plot_spritesheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nasty_Plot_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 39
+        width: 40
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72060a63f7e434570800000000000000
+      internalID: 8449683634161475623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasty_Plot_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 33
+        width: 125
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cfb1d51cf5b4170800000000000000
+      internalID: 8163724033634597968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasty_Plot_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 33
+        width: 125
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b14adc2907848920800000000000000
+      internalID: 2991664525957808567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasty_Plot_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 33
+        width: 125
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62f3ea6f23471060800000000000000
+      internalID: 6924076823041274479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasty_Plot_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 443
+        height: 109
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716836df0fdf34743b0ee8ccefa39834
+      internalID: -2347894857623268455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5f161c0943537344a908a0d3dbf9bccc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nasty_Plot_spritesheet_0: 8449683634161475623
+      Nasty_Plot_spritesheet_1: 8163724033634597968
+      Nasty_Plot_spritesheet_10: -6648628522687369553
+      Nasty_Plot_spritesheet_11: 371350762356008225
+      Nasty_Plot_spritesheet_12: -2404706916528479094
+      Nasty_Plot_spritesheet_13: -8010015788770549914
+      Nasty_Plot_spritesheet_14: -3577557329942954053
+      Nasty_Plot_spritesheet_15: 5955304337663163616
+      Nasty_Plot_spritesheet_16: -4465031349271129850
+      Nasty_Plot_spritesheet_17: -8136003519217744427
+      Nasty_Plot_spritesheet_2: 2991664525957808567
+      Nasty_Plot_spritesheet_3: -2347894857623268455
+      Nasty_Plot_spritesheet_4: 2001950976902125949
+      Nasty_Plot_spritesheet_5: -2944327558046824301
+      Nasty_Plot_spritesheet_6: 6924076823041274479
+      Nasty_Plot_spritesheet_7: 6103883056416441879
+      Nasty_Plot_spritesheet_8: -2397601102408386144
+      Nasty_Plot_spritesheet_9: 901902187460325742
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

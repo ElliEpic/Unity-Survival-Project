@@ -28,7 +28,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private SpriteRenderer playerSprite;
     [SerializeField] private Collider2D playerCollider;
     
-    
+    public int damageBonus = 3;
 
     [SerializeField] private float blinkInterval = 0.15f;
 
@@ -140,7 +140,11 @@ void Update()
 {
     if (!isImmune)
     {
-        playerHealth -= damage;
+        float reducedDamage = Mathf.Max(
+        0,
+        damage - Reflect.TotalDamageReduction
+        );
+        playerHealth -= reducedDamage;
         UIController.Instance.UpdateHealthSlider();
 
        

@@ -28,5 +28,6 @@ public class attackStats
     public float range;
     public float speed;
     public int targetCount; //how many enemies to strike at that upgrade level.
+    public float damageBuff = 0;
     public string description;
 }
