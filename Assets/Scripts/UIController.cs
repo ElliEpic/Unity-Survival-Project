@@ -6,14 +6,19 @@ public class UIController : MonoBehaviour
 {
     public static UIController Instance;
     [SerializeField] private Slider PlayerHealthSlider;
-    [SerializeField] private TMP_Text healthText;
     [SerializeField] private Slider PlayerExperienceSlider;
+    [SerializeField] private TMP_Text healthText;
     [SerializeField] private TMP_Text experienceText;
+    [SerializeField] private TMP_Text scoreText;
+    [SerializeField] private TMP_Text highscoreText;
+    [SerializeField] private TMP_Text finalScoreText;
     public GameObject gameOverPanel;
     public GameObject pauseMenu;
     public GameObject levelUpPanel;
     [SerializeField] private TMP_Text timerText;
     public LevelUpButton[] levelUpButtons;
+    
+    public int currentScore;
     
         void Awake()
         {
@@ -25,7 +30,46 @@ public class UIController : MonoBehaviour
             
         }
 
-    public void UpdateHealthSlider()
+ public void UpdateScore(int points)
+{
+    currentScore += points;
+    scoreText.text = "Score: " + currentScore;
+
+    // Update the saved high score if beaten
+    UpdateHighscore();
+}
+
+public void UpdateHighscore()
+{
+    int savedHighScore = PlayerPrefs.GetInt("SavedHighScore", 0);
+
+    if (currentScore > savedHighScore)
+    {
+        savedHighScore = currentScore;
+
+        PlayerPrefs.SetInt("SavedHighScore", savedHighScore);
+        PlayerPrefs.Save();
+    }
+
+    // Show the high score wherever this script is used
+    if (highscoreText != null)
+    {
+        highscoreText.text = "High Score: " + savedHighScore;
+    }
+
+    // Show the final score if this text is assigned
+    if (finalScoreText != null)
+    {
+        finalScoreText.text = "Final Score: " + currentScore;
+    }
+}
+
+void Start()
+{
+    // Display the saved high score as soon as the scene loads
+    UpdateHighscore();
+}
+     public void UpdateHealthSlider()
     {
         PlayerHealthSlider.maxValue = PlayerMovement.Instance.playerMaxHealth;
         PlayerHealthSlider.value = PlayerMovement.Instance.playerHealth;

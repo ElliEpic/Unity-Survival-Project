@@ -7,7 +7,8 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance; 
     public float gameTime; 
     public bool gameActive;
- 
+    public UIController scoreManager;
+
      void Awake()
      { 
         if (Instance != null && Instance != this)
@@ -40,8 +41,12 @@ public class GameManager : MonoBehaviour
 
     public void GameOver() 
     { 
+        if(!gameActive)
+        return;
+        gameActive = false;
         StartCoroutine(ShowGameOverScreen());
-        gameActive = false; 
+        
+        
         //UIController.Instance.gameOverPanel.SetActive(true); 
     } 
 
@@ -49,6 +54,7 @@ public class GameManager : MonoBehaviour
     {
         yield return new WaitForSeconds(1.5f);
         UIController.Instance.gameOverPanel.SetActive(true);
+        scoreManager.UpdateHighscore();
     }
  
     public void Restart() 

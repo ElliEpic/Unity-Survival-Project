@@ -40,7 +40,7 @@ public class PlayerMovement : MonoBehaviour
          rb = GetComponent<Rigidbody2D>(); 
      }*/
 
-    void Start()
+    public void Start()
     {
         for(int i = playerLevels.Count; i < maxLevel; i++)
         {

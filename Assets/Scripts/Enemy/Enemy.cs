@@ -54,6 +54,15 @@ public class Enemy : MonoBehaviour
     }
     //Make enemy disappear when Player(tag) collision with enemy
     //Checks if the Colliders are touching each other
+
+
+    public void Initialize(float Multiplier)
+    {
+        health = health * Multiplier;
+        Debug.Log(health);
+    }
+
+
     void OnCollisionStay2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
@@ -75,6 +84,7 @@ public class Enemy : MonoBehaviour
         if(health <= 0)
         {
             Destroy(gameObject);
+            UIController.Instance.UpdateScore(1);
             Instantiate(destroyEffect, transform.position, transform.rotation);
             PlayerMovement.Instance.GetExperience(experienceToGive);
         }
