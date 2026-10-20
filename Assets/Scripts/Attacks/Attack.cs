@@ -7,6 +7,13 @@ public class Attack : MonoBehaviour
     public List<attackStats> stats;
     public Sprite attackImage;
 
+    public static int PermanentDamageBonus { get; private set; } = 0;
+
+    public static void AddPermanentDamageBonus(int amount)
+    {
+        PermanentDamageBonus += amount;
+    }
+
     public virtual void LevelUp()
     {
         if(stats == null || attackLevel >= stats.Count - 1)

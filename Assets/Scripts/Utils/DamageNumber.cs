@@ -17,10 +17,8 @@ public class DamageNumber : MonoBehaviour
     {
         transform.position += Vector3.up * Time.deltaTime * floatSpeed;
     }
-
     public void SetValue(int value)
     {
         damageText.text = value.ToString();
-
     }
 }

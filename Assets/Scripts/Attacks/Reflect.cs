@@ -8,7 +8,7 @@ public class Reflect : Attack
     [SerializeField] private float reflectLifetime = 1.5f;
     public static int TotalDamageReduction = 0;
 
-      [Header("Reflect Audio")]
+    [Header("Reflect Audio")]
     [SerializeField] private AudioSource audioSource;
     [SerializeField] private AudioClip reflectSound;
 

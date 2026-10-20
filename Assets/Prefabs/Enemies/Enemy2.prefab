@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 5122732965162211023}
   - component: {fileID: 1674351607443512044}
   - component: {fileID: 5400727938925685287}
+  - component: {fileID: 5917389003843169766}
   m_Layer: 7
   m_Name: Enemy2
   m_TagString: Enemy
@@ -211,3 +212,16 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &5917389003843169766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8994315346386434959}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5db9de49d0e9864c98d37297aa9d539, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyPoisonAttack
+  projectile: {fileID: 4233693832985681719, guid: 5b37d1a593f904645b3b76970fcd4b64, type: 3}

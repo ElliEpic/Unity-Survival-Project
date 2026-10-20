@@ -6,7 +6,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
 { 
     [System.Serializable] public class Wave 
     {
-        public GameObject enemyPrefab; 
+        public List<GameObject> enemyPrefabs; 
 
         [Tooltip("Time until next spawn")]
         public float spawnTimer; 
@@ -36,6 +36,8 @@ public class NewMonoBehaviourScript : MonoBehaviour
             {
                 waves[waveNumber].spawnTimer = 0;
                 SpawnEnemy();
+
+                Debug.Log(waveNumber);
             }
             if(waves[waveNumber].spawnEnemyCount >= waves[waveNumber].enemiesPerWave)
             {
@@ -57,7 +59,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     {
         GameObject enemy = Instantiate
         (
-            waves[waveNumber].enemyPrefab,
+            waves[waveNumber].enemyPrefabs[waveNumber],
             waves[waveNumber].parent
         );
          enemy.transform.localPosition = RandomSpawnPoint(); 

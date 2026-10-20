@@ -172,9 +172,10 @@ public class Thunderbolt : Attack
                 Quaternion.identity
             );
 
-            target.TakeDamage(
-                Mathf.RoundToInt(current.damage)
-            );
+           target.TakeDamage(
+            Mathf.RoundToInt(current.damage) +
+            Attack.PermanentDamageBonus
+        );
 
             // Destroy the visual without interrupting the audio.
             Destroy(lightning, lightningLifetime);
