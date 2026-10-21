@@ -751,6 +751,7 @@ GameObject:
   - component: {fileID: 1157971883}
   - component: {fileID: 1157971882}
   - component: {fileID: 1157971881}
+  - component: {fileID: 1157971885}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -844,6 +845,19 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1157971885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1157971880}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8851ca5ad90a9d4e9c794911f20c915, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  HighScoreText: {fileID: 0}
 --- !u!1 &1250701333
 GameObject:
   m_ObjectHideFlags: 0
@@ -1038,7 +1052,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Survicor game
+  m_text: Survivor game
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 46e04dee12762774c83e2d681956309e, type: 2}
   m_sharedMaterial: {fileID: -4024666933693187241, guid: 46e04dee12762774c83e2d681956309e, type: 2}
@@ -1301,6 +1315,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   gameTime: 0
   gameActive: 0
+  scoreManager: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

@@ -11,6 +11,7 @@ public class UIController : MonoBehaviour
     [SerializeField] private TMP_Text experienceText;
     [SerializeField] private TMP_Text scoreText;
     [SerializeField] private TMP_Text highscoreText;
+    [SerializeField] private TMP_Text highscoreGameOverText;
     [SerializeField] private TMP_Text finalScoreText;
     public GameObject gameOverPanel;
     public GameObject pauseMenu;
@@ -51,7 +52,7 @@ public void UpdateHighscore()
         PlayerPrefs.Save();
     }
 
-    // Show the high score wherever this script is used
+    
     if (highscoreText != null)
     {
         highscoreText.text = "High Score: " + savedHighScore;
@@ -61,6 +62,10 @@ public void UpdateHighscore()
     if (finalScoreText != null)
     {
         finalScoreText.text = "Final Score: " + currentScore;
+    }
+       if (highscoreGameOverText != null)
+    {
+        highscoreGameOverText.text = "High Score: " + savedHighScore;
     }
 }
 
