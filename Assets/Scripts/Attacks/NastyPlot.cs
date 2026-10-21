@@ -14,13 +14,14 @@ public class NastyPlot : Attack
     [SerializeField] private AudioSource audioSource;
     [SerializeField] private AudioClip nastyPlotSound;
 
-
+    private AttackStats stats;
+    public int NastyPlotAttackLevel = 0;
 
 
     private void Awake()
     {
 
-
+        stats = new AttackStats();
         
    
 
@@ -35,7 +36,7 @@ public class NastyPlot : Attack
     public override void LevelUp()
 {
     // Make sure the target attack exists.
-    stats.MultiplyStats(attackLevel);
+    stats.MultiplyStats(NastyPlotAttackLevel);
     // Show the buff effect and play the sound.
     UseNastyPlot();
 }
