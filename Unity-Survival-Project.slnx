@@ -2,4 +2,5 @@
   <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Assembly-CSharp-firstpass.csproj" />
   <Project Path="Unity.2D.Welcome.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
 </Solution>
