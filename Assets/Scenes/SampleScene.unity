@@ -12709,6 +12709,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 742987946}
     - target: {fileID: 9095327458722018916, guid: 07365b16ae511db42bf540942987548f, type: 3}
+      propertyPath: immunityTimer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9095327458722018916, guid: 07365b16ae511db42bf540942987548f, type: 3}
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 742987943}
@@ -12722,7 +12726,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9095327458722018916, guid: 07365b16ae511db42bf540942987548f, type: 3}
       propertyPath: immunityDuration
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9095327458722018916, guid: 07365b16ae511db42bf540942987548f, type: 3}
       propertyPath: playerLevels.Array.size
