@@ -3,21 +3,23 @@ using System.Collections.Generic;
 using System.Threading;
 using UnityEngine;
 
-public class AreaAttackPrefab : MonoBehaviour
+public class AreaAttackPrefab : Attack
 {
-    public AreaAttack attack;
+    public AreaAttack areaAttack;
     private Vector3 targetSize;
     private float timer;
     public List<Enemy> enemiesInRange;
     private float counter;
-   
+    
+    
+
     void Start()
     {
-        attack = GameObject.Find("Area Attack").GetComponent<AreaAttack>();
+        areaAttack = GameObject.Find("Area Attack").GetComponent<AreaAttack>();
         //Destroy(gameObject, attack.duration);
-        targetSize = Vector3.one * attack.stats[attack.attackLevel].range;
+        targetSize = Vector3.one * stats.range;
         transform.localScale = Vector3.zero;
-        timer = attack.stats[attack.attackLevel].duration;
+        timer = stats.duration;
     }
 
     void Update()
@@ -37,10 +39,10 @@ public class AreaAttackPrefab : MonoBehaviour
         counter -= Time.deltaTime;
         if(counter <= 0)
         {
-            counter = attack.stats[attack.attackLevel].speed;
+            counter = stats.speed;
             for (int i = 0; i < enemiesInRange.Count; i++)
             {
-                enemiesInRange[i].TakeDamage(attack.stats[attack.attackLevel].damage);
+                enemiesInRange[i].TakeDamage(stats.damage);
             }
         }
     }
@@ -49,7 +51,7 @@ public class AreaAttackPrefab : MonoBehaviour
         if (collider.CompareTag("Enemy"))
         {
             Enemy enemy = collider.GetComponent<Enemy>();
-            enemy.TakeDamage(attack.stats[attack.attackLevel].damage);
+            enemy.TakeDamage(stats.damage);
            //enemiesInRange.Add(collider.GetComponent<Enemy>());
         }
         
