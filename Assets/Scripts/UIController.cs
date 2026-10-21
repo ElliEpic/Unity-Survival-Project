@@ -1,4 +1,5 @@
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -18,6 +19,7 @@ public class UIController : MonoBehaviour
     public GameObject levelUpPanel;
     [SerializeField] private TMP_Text timerText;
     public LevelUpButton[] levelUpButtons;
+    public PlayerUpgradeData[] playerUpgrades;
     
     public int currentScore;
     
@@ -68,6 +70,8 @@ public void UpdateHighscore()
         highscoreGameOverText.text = "High Score: " + savedHighScore;
     }
 }
+
+
 
 void Start()
 {

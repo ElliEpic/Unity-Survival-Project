@@ -1,16 +1,17 @@
+
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
     public static PlayerMovement Instance;
 
-    // Connecting my Unity components to my code even w1hen it's private
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Animator animator;
     [SerializeField] private float movespeed = 2.0f;
     [SerializeField] private Camera mainCamera;
+
     public Vector3 playerMoveDirection;
     public float playerMaxHealth;
     public float playerHealth;
@@ -21,13 +22,14 @@ public class PlayerMovement : MonoBehaviour
     public List<int> playerLevels;
 
     public Attack activeAttack;
-// invisibillity frames after damage
+
+    // Immunity frames after damage
     private bool isImmune;
     [SerializeField] private float immunityDuration;
     [SerializeField] private float immunityTimer;
     [SerializeField] private SpriteRenderer playerSprite;
     [SerializeField] private Collider2D playerCollider;
-    
+
     public int damageBonus = 3;
 
     [SerializeField] private float blinkInterval = 0.15f;
@@ -35,18 +37,70 @@ public class PlayerMovement : MonoBehaviour
     private float blinkTimer;
     private bool isVisible = true;
 
-    /* void Start() 
-     { 
-         rb = GetComponent<Rigidbody2D>(); 
-     }*/
+    public void ApplyPlayerUpgrade(PlayerUpgradeData upgrade)
+    {
+        if (upgrade == null)
+            return;
+
+        switch (upgrade.upgradeType)
+        {
+            case PlayerUpgradeType.IncreaseMaxHealth:
+                playerMaxHealth += upgrade.amount;
+                playerHealth += upgrade.amount;
+                UIController.Instance.UpdateHealthSlider();
+                break;
+
+            case PlayerUpgradeType.HealPlayer:
+                playerHealth = Mathf.Min(
+                    playerHealth + upgrade.amount,
+                    playerMaxHealth
+                );
+                UIController.Instance.UpdateHealthSlider();
+                break;
+
+            case PlayerUpgradeType.IncreaseMoveSpeed:
+                movespeed += upgrade.amount;
+                break;
+
+            case PlayerUpgradeType.ReduceDamageTaken:
+                Reflect.TotalDamageReduction += upgrade.amount;
+                break;
+
+            case PlayerUpgradeType.IncreaseExperienceGain:
+                Debug.Log("Experience upgrade selected.");
+                break;
+
+            case PlayerUpgradeType.PermanentDamageBonus:
+                damageBonus += upgrade.amount;
+                break;
+
+            case PlayerUpgradeType.AttackDamageBonus:
+                if (activeAttack == null ||
+                    activeAttack.stats == null)
+                    return;
+
+                // foreach (attackStats level in activeAttack.stats)
+                // {
+                //     if (level != null)
+                //         level.damage += upgrade.amount;
+                // }
+                break;
+        }
+    }
 
     public void Start()
     {
-        for(int i = playerLevels.Count; i < maxLevel; i++)
+        for (int i = playerLevels.Count; i < maxLevel; i++)
         {
-            playerLevels.Add(Mathf.CeilToInt(playerLevels[playerLevels.Count - 1] * 1.1f + 15));
+            playerLevels.Add(
+                Mathf.CeilToInt(
+                    playerLevels[playerLevels.Count - 1] * 1.1f + 15
+                )
+            );
         }
+
         playerHealth = playerMaxHealth;
+
         UIController.Instance.UpdateHealthSlider();
         UIController.Instance.UpdateExperienceSlider();
     }
@@ -55,122 +109,159 @@ public class PlayerMovement : MonoBehaviour
     {
         if (Instance != null && Instance != this)
         {
-            Destroy(this);
+            Destroy(gameObject);
         }
         else
         {
             Instance = this;
         }
-
     }
 
-   
-void Update()
-{
-    float inputX = Input.GetAxisRaw("Horizontal");
-    float inputY = Input.GetAxisRaw("Vertical");
-
-    Vector2 keyboardDirection = new Vector2(inputX, inputY).normalized;
-
-    if (Input.GetMouseButton(0))
+    void Update()
     {
-        Vector3 mouseWorldPosition =
-            mainCamera.ScreenToWorldPoint(Input.mousePosition);
-
-        Vector2 targetPosition = new Vector2(
-            mouseWorldPosition.x,
-            mouseWorldPosition.y
-        );
-
-        Vector2 direction = targetPosition - (Vector2)transform.position;
+        Vector2 moveInput = Vector2.zero;
 
         
-        if (direction.magnitude > 0.1f)
+        if (Gamepad.current != null)
         {
-            playerMoveDirection = direction.normalized;
+            moveInput = Gamepad.current.leftStick.ReadValue();
+
+            // Controller D-pad also works
+            Vector2 dpadInput =
+                Gamepad.current.dpad.ReadValue();
+
+            if (dpadInput != Vector2.zero)
+            {
+                moveInput = dpadInput;
+            }
         }
-        else
+
+     
+        if (Keyboard.current != null)
         {
-            playerMoveDirection = Vector3.zero;
+            float inputX =
+                (Keyboard.current.dKey.isPressed ||
+                 Keyboard.current.rightArrowKey.isPressed ? 1f : 0f)
+                -
+                (Keyboard.current.aKey.isPressed ||
+                 Keyboard.current.leftArrowKey.isPressed ? 1f : 0f);
+
+            float inputY =
+                (Keyboard.current.wKey.isPressed ||
+                 Keyboard.current.upArrowKey.isPressed ? 1f : 0f)
+                -
+                (Keyboard.current.sKey.isPressed ||
+                 Keyboard.current.downArrowKey.isPressed ? 1f : 0f);
+
+            Vector2 keyboardInput =
+                new Vector2(inputX, inputY);
+
+            if (keyboardInput != Vector2.zero)
+            {
+                moveInput = keyboardInput.normalized;
+            }
+        }
+
+        
+        if (Mouse.current != null &&
+            Mouse.current.leftButton.isPressed &&
+            mainCamera != null)
+        {
+            Vector2 mousePosition =
+                mainCamera.ScreenToWorldPoint(
+                    Mouse.current.position.ReadValue()
+                );
+
+            Vector2 direction =
+                mousePosition - (Vector2)transform.position;
+
+            if (direction.magnitude > 0.1f)
+            {
+                moveInput = direction.normalized;
+            }
+            else
+            {
+                moveInput = Vector2.zero;
+            }
+        }
+
+        // Apply movement direction
+        playerMoveDirection = moveInput;
+
+        
+        animator.SetFloat("moveX", playerMoveDirection.x);
+        animator.SetFloat("moveY", playerMoveDirection.y);
+
+        animator.SetBool(
+            "moving",
+            playerMoveDirection != Vector3.zero
+        );
+
+        
+        if (isImmune)
+        {
+            immunityTimer -= Time.deltaTime;
+            blinkTimer -= Time.deltaTime;
+
+            if (blinkTimer <= 0f)
+            {
+                isVisible = !isVisible;
+                playerSprite.enabled = isVisible;
+
+                blinkTimer = blinkInterval;
+            }
+
+            if (immunityTimer <= 0f)
+            {
+                EndImmunity();
+            }
         }
     }
-    else
-    {
-        playerMoveDirection = keyboardDirection;
-    }
-
-    // Animation
-    animator.SetFloat("moveX", playerMoveDirection.x);
-    animator.SetFloat("moveY", playerMoveDirection.y);
-    animator.SetBool("moving", playerMoveDirection != Vector3.zero);
-
-
-    // Immunity timer
-    if (isImmune)
-    {
-        immunityTimer -= Time.deltaTime;
-        blinkTimer -= Time.deltaTime;
-
-        if (blinkTimer <= 0f)
-        {
-            isVisible = !isVisible;
-            playerSprite.enabled = isVisible;
-
-            blinkTimer = blinkInterval;
-        }
-
-        if (immunityTimer <= 0f)
-        {
-            EndImmunity();
-        }
-    }
-   
-}
-
 
     void FixedUpdate()
     {
-        rb.linearVelocity = new Vector3(
+        rb.linearVelocity = new Vector2(
             playerMoveDirection.x * movespeed,
             playerMoveDirection.y * movespeed
         );
     }
 
-public void TakeDamage(float damage)
-{
-    if (isImmune)
-        return;
-
-    // Apply Reflect's reduction
-    float reducedDamage = Mathf.Max(
-    1f,
-    damage - Reflect.TotalDamageReduction
-);
-
-playerHealth -= reducedDamage;
-
-    Debug.Log("Incoming damage: " + damage
-              + " | Damage after Reflect: " + reducedDamage);
-
-    UIController.Instance.UpdateHealthSlider();
-
-    if (playerHealth <= 0)
+    public void TakeDamage(float damage)
     {
-        gameObject.SetActive(false);
-        GameManager.Instance.GameOver();
-        return;
+        if (isImmune)
+            return;
+
+        float reducedDamage = Mathf.Max(
+            1f,
+            damage - Reflect.TotalDamageReduction
+        );
+
+        playerHealth -= reducedDamage;
+
+        Debug.Log(
+            "Incoming damage: " + damage +
+            " | Damage after Reflect: " + reducedDamage
+        );
+
+        UIController.Instance.UpdateHealthSlider();
+
+        if (playerHealth <= 0)
+        {
+            gameObject.SetActive(false);
+            GameManager.Instance.GameOver();
+            return;
+        }
+
+        StartImmunity();
     }
-
-    StartImmunity();
-
-
-}
 
     public void GetExperience(int experienceToGet)
     {
         experience += experienceToGet;
+
         UIController.Instance.UpdateExperienceSlider();
-        if(experience >= playerLevels[currentevel - 1])
+
+        if (experience >= playerLevels[currentevel - 1])
         {
             LevelUp();
         }
@@ -180,21 +271,24 @@ playerHealth -= reducedDamage;
     {
         experience -= playerLevels[currentevel - 1];
         currentevel++;
+
         UIController.Instance.UpdateExperienceSlider();
-        UIController.Instance.levelUpButtons[0].ActivateButton(activeAttack);
+
+        UIController.Instance.levelUpButtons[0]
+            .ActivateButton(activeAttack);
+
         UIController.Instance.LevelUpPanelOpen();
     }
-        void StartImmunity()
+
+    void StartImmunity()
     {
         isImmune = true;
         immunityTimer = immunityDuration;
         blinkTimer = blinkInterval;
 
-        // Visible
         isVisible = true;
         playerSprite.enabled = true;
 
-        // Ignore enemy collisions
         int enemyLayer = LayerMask.NameToLayer("Enemies");
 
         if (enemyLayer != -1)
@@ -212,12 +306,11 @@ playerHealth -= reducedDamage;
         isImmune = false;
         immunityTimer = 0f;
 
-        // The player is visible again
         isVisible = true;
         playerSprite.enabled = true;
 
-        // Restores enemy collisions
         int enemyLayer = LayerMask.NameToLayer("Enemies");
+
         if (enemyLayer != -1)
         {
             Physics2D.IgnoreLayerCollision(
@@ -227,5 +320,4 @@ playerHealth -= reducedDamage;
             );
         }
     }
-    
 }

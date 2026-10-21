@@ -14,36 +14,12 @@ public class NastyPlot : Attack
     [SerializeField] private AudioSource audioSource;
     [SerializeField] private AudioClip nastyPlotSound;
 
-    
-    
 
-    private attackStats CurrentStats
-    {
-        get
-        {
-            if (stats == null ||
-                attackLevel < 0 ||
-                attackLevel >= stats.Count)
-            {
-                return null;
-            }
 
-            return stats[attackLevel];
-        }
-    }
 
     private void Awake()
     {
 
-        if (CurrentStats == null)
-        {
-            Debug.LogError(
-                "Nasty Plot: No valid attack stats for the current level.",
-                this
-            );
-            enabled = false;
-            return;
-        }
 
         
    
@@ -59,24 +35,7 @@ public class NastyPlot : Attack
     public override void LevelUp()
 {
     // Make sure the target attack exists.
-    if (attackToIncrease == null)
-    {
-        Debug.LogError("Nasty Plot: No AreaAttack assigned!", this);
-        return;
-    }
-
-    // Make sure the target attack has valid stats.
-    if (attackToIncrease.stats == null ||
-        attackToIncrease.attackLevel < 0 ||
-        attackToIncrease.attackLevel >= attackToIncrease.stats.Count)
-    {
-        Debug.LogError("Nasty Plot: Invalid target attack level!", this);
-        return;
-    }
-
-    // Permanently increase the selected attack's damage by 3.
-    attackToIncrease.stats[attackToIncrease.attackLevel].damage += 1;
-
+    stats.MultiplyStats(attackLevel);
     // Show the buff effect and play the sound.
     UseNastyPlot();
 }
