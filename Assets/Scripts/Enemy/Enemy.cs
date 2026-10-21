@@ -6,90 +6,61 @@ public class Enemy : MonoBehaviour
 
     [SerializeField] private SpriteRenderer spriteRenderer; 
     [SerializeField] private Rigidbody2D rb;
-    [SerializeField] private float knockbackSpeed = 10f;
-
-    private Vector2 knockbackDirection;
-
-    private float normalMoveSpeed;
     private Vector3 direction;
-    [SerializeField] private EnemyData enemyData;
-
-    private float movespeed;
-    private float damage;
-    private float health;
-    private int experienceToGive;
-    private float pushTime;
-    private GameObject destroyEffect;
+    [SerializeField] private float movespeed;
+    [SerializeField] private float damage;
+    [SerializeField] private float health;
+    [SerializeField] private int experienceToGive;
+    [SerializeField] private float pushTime;
+    [SerializeField] private GameObject destroyEffect;
 
     private float pushCounter;
 
     
-private void Awake()
-{
-    if (enemyData == null)
+
+    void FixedUpdate()
     {
-        
-        Debug.LogError("Missing EnemyData!", this);
-        enabled = false;
-        return;
-    }
-
-    movespeed = enemyData.moveSpeed;
-    normalMoveSpeed = movespeed;
-    damage = enemyData.damage;
-    health = enemyData.maxHealth;
-    experienceToGive = enemyData.experienceToGive;
-    pushTime = enemyData.pushTime;
-    destroyEffect = enemyData.destroyEffect;
-
-    if (spriteRenderer != null)
-        spriteRenderer.sprite = enemyData.sprite;
-}
-void FixedUpdate()
-{
-    if (PlayerMovement.Instance == null)
-        return;
-
-    if (PlayerMovement.Instance.gameObject.activeSelf)
-    {
-        // Face the player.
-        spriteRenderer.flipX =
-            PlayerMovement.Instance.transform.position.x
-            > transform.position.x;
-
-        if (pushCounter > 0f)
+        if(PlayerMovement.Instance.gameObject.activeSelf)  
         {
-            // Continue pushing the enemy backwards.
-            pushCounter -= Time.fixedDeltaTime;
-
-            rb.linearVelocity = knockbackDirection * knockbackSpeed;
-            return;
+            // Face the player
+            if(PlayerMovement.Instance.transform.position.x > transform.position.x)
+            {
+                spriteRenderer.flipX = true; 
+            }
+            else
+            {
+                spriteRenderer.flipX = false; 
+            }
+            if(pushCounter > 0)
+            {
+                pushCounter -= Time.deltaTime;
+                if(movespeed > 0)
+                {
+                    movespeed = -movespeed;
+                }
+                if(pushCounter <= 0)
+                {
+                    movespeed = Mathf.Abs(movespeed);
+                }
+            }
+            //Move towards the player
+            direction = (PlayerMovement.Instance.transform.position - transform.position).normalized;
+            rb.linearVelocity = new Vector2(direction.x * movespeed, direction.y * movespeed);
         }
-
-        // Normal movement resumes when the timer ends.
-        direction = (
-            PlayerMovement.Instance.transform.position
-            - transform.position
-        ).normalized;
-
-        rb.linearVelocity = new Vector2(
-            direction.x * movespeed,
-            direction.y * movespeed
-        );
+        else
+        {
+            rb.linearVelocity = Vector2.zero;
+        }
     }
-    else
-    {
-        rb.linearVelocity = Vector2.zero;
-    }
-}
     //Make enemy disappear when Player(tag) collision with enemy
     //Checks if the Colliders are touching each other
 
 
-    public void Initialize(float multiplier)
-{
-    health = enemyData.maxHealth * multiplier;
-}
+    public void Initialize(float Multiplier)
+    {
+        health = health * Multiplier;
+        Debug.Log(health);
+    }
 
 
     void OnCollisionStay2D(Collision2D collision)
@@ -110,10 +81,6 @@ void FixedUpdate()
         health -= damage;
         DamageNumberController.Instance.CreateNumber(damage, transform.position);
         pushCounter = pushTime;
-
-        knockbackDirection = (
-            transform.position - PlayerMovement.Instance.transform.position
-        ).normalized;
         if(health <= 0)
         {
             Destroy(gameObject);

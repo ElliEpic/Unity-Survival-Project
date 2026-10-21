@@ -8,50 +8,39 @@ public class LevelUpButton : MonoBehaviour
     public TMP_Text attackName;
     public TMP_Text attackDescription;
     public Image attackIcon;
-    public PlayerUpgradeData assignedPlayerUpgrade;
 
     public Attack assignedAttack;
-public void ActivateButton(Attack attack)
-{
-    assignedAttack = attack;
-    assignedPlayerUpgrade = null;
 
-    if (attack == null)
-        return;
+    public void ActivateButton(Attack attack)
+    {
+        assignedAttack = attack;
 
-    attackName.text = attack.name;
-    attackDescription.text = attack.stats.description;
-    attackIcon.sprite = attack.attackImage;
-}
-    public void ActivateButton(PlayerUpgradeData upgrade)
-{
-    assignedAttack = null;
-    assignedPlayerUpgrade = upgrade;
+        if (assignedAttack == null)
+        {
+            Debug.LogWarning("No attack assigned to this button!");
+            return;
+        }
 
-    if (upgrade == null)
-        return;
+        attackName.text = assignedAttack.name;
+        attackDescription.text =
+            assignedAttack.stats[assignedAttack.attackLevel].description;
 
-    attackName.text = upgrade.upgradeName;
-    attackDescription.text = upgrade.description;
-    attackIcon.sprite = upgrade.icon;
-}
+        attackIcon.sprite = assignedAttack.attackImage;
+    }
 
     public void SelectUpgrade()
-{
-    if (assignedPlayerUpgrade != null)
     {
-        PlayerMovement.Instance.ApplyPlayerUpgrade(
-            assignedPlayerUpgrade);
-    }
-    else if (assignedAttack != null)
-    {
-        assignedAttack.LevelUp();
-    }
-    else
-    {
-        return;
-    }
+        
+        if (assignedAttack == null)
+        {
+            
+            Debug.LogWarning("No upgrade was assigned to this button!");
+            return;
+            
+        }
 
-    UIController.Instance.LevelUpPanelClose();
-}
+        assignedAttack.LevelUp();
+
+        UIController.Instance.LevelUpPanelClose();
+    }
 }
