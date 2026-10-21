@@ -11,7 +11,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Animator animator;
     [SerializeField] private float movespeed = 2.0f;
     [SerializeField] private Camera mainCamera;
-    
+
     public Vector3 playerMoveDirection;
     public float playerMaxHealth;
     public float playerHealth;
@@ -79,8 +79,6 @@ public class PlayerMovement : MonoBehaviour
                     activeAttack.stats == null)
                     return;
 
-
-                
                 // foreach (attackStats level in activeAttack.stats)
                 // {
                 //     if (level != null)
