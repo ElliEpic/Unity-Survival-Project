@@ -15,19 +15,26 @@ public class Thunderbolt : Attack
     [SerializeField] private AudioSource audioSource;
     [SerializeField] private AudioClip lightningSound;
 
-    
-
     private readonly List<Enemy> enemiesInRange = new();
     private float spawnCounter;
 
+    private attackStats CurrentStats
+    {
+        get
+        {
+            if (stats == null ||
+                attackLevel < 0 ||
+                attackLevel >= stats.Count)
+            {
+                return null;
+            }
 
+            return stats[attackLevel];
+        }
+    }
 
     private void Awake()
     {
-
-        
-        
-
         if (rangeTrigger == null)
             rangeTrigger = GetComponent<CircleCollider2D>();
 
@@ -38,50 +45,66 @@ public class Thunderbolt : Attack
                 this
             );
             enabled = false;
+            return;
         }
 
-
+        if (CurrentStats == null)
+        {
+            Debug.LogError(
+                "Thunderbolt: No valid attack stats for the current level.",
+                this
+            );
+            enabled = false;
+            return;
+        }
 
         rangeTrigger.isTrigger = true;
-        
+        UpdateRange();
 
         // Wait for the initial cooldown before the first cast.
-        
+        spawnCounter = Mathf.Max(0f, CurrentStats.cooldown);
     }
 
-
-     void Start()
-     {
-          spawnCounter = stats.cooldown;
-          UpdateRange();
-
-     }
-     private void Update()
+    private void Update()
     {
+        attackStats current = CurrentStats;
 
-
+        if (current == null)
+            return;
 
         spawnCounter -= Time.deltaTime;
 
         if (spawnCounter <= 0f)
         {
             CastLightning();
-  
-                spawnCounter = Mathf.Max(0.01f, stats.cooldown);
+
+            // Start the next cooldown.
+            current = CurrentStats;
+
+            if (current != null)
+                spawnCounter = Mathf.Max(0.01f, current.cooldown);
         }
     }
 
     private void UpdateRange()
     {
+        attackStats current = CurrentStats;
+
+        if (rangeTrigger == null || current == null)
+            return;
 
         rangeTrigger.isTrigger = true;
-        rangeTrigger.radius = Mathf.Max(0f, stats.range);
+        rangeTrigger.radius = Mathf.Max(0f, current.range);
     }
 
     public override void LevelUp()
     {
+        int previousLevel = attackLevel;
 
         base.LevelUp();
+
+        if (attackLevel == previousLevel)
+            return;
 
         UpdateRange();
     }
@@ -107,8 +130,10 @@ public class Thunderbolt : Attack
 
     public void CastLightning()
     {
- 
+        attackStats current = CurrentStats;
 
+        if (current == null || lightningPrefab == null)
+            return;
 
         // Remove destroyed enemies from the tracked list.
         enemiesInRange.RemoveAll(enemy => enemy == null);
@@ -117,7 +142,7 @@ public class Thunderbolt : Attack
         List<Enemy> choices = new(enemiesInRange);
 
         int strikes = Mathf.Min(
-            Mathf.Max(0, stats.targetCount),
+            Mathf.Max(0, current.targetCount),
             choices.Count
         );
 
@@ -148,7 +173,7 @@ public class Thunderbolt : Attack
             );
 
            target.TakeDamage(
-            Mathf.RoundToInt(stats.damage) +
+            Mathf.RoundToInt(current.damage) +
             Attack.PermanentDamageBonus
         );
 

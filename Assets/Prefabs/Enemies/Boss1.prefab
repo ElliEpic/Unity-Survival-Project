@@ -110,7 +110,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
   spriteRenderer: {fileID: 5952795593079722151}
   rb: {fileID: 4954258452897471296}
-  enemyData: {fileID: 11400000, guid: 4684a77e92e33534180bd903ed2baa97, type: 2}
+  movespeed: 2
+  damage: 4
+  health: 4
+  experienceToGive: 5
+  pushTime: 0.1
+  destroyEffect: {fileID: 3562465745136971804, guid: 6e50d6a86e98a7b428dd13fcf959ab6e, type: 3}
 --- !u!95 &3728023056936412421
 Animator:
   serializedVersion: 7
