@@ -14,7 +14,7 @@ public class Reflect : Attack
 
     public override void LevelUp()
     {
-        float oldLevel = attackLevel;
+        int oldLevel = attackLevel;
 
         // Level up Reflect
         base.LevelUp();
@@ -33,20 +33,20 @@ public class Reflect : Attack
     public void UseReflect(){
 
     // Spawn the effect at the player's position.
-        if (reflectPrefab != null)
-        {
-            Vector3 effectOffset = new Vector3(0f, 0f, 0f);
+    if (reflectPrefab != null)
+    {
+        Vector3 effectOffset = new Vector3(0f, 1f, 0f);
 
-            GameObject effect = Instantiate(
-                reflectPrefab,
-                transform.position + effectOffset,
-                Quaternion.identity,
-                transform
-            );
-            //effect.transform.SetParent(transform, true);
+        GameObject effect = Instantiate(
+            reflectPrefab,
+            transform.position + effectOffset,
+            Quaternion.identity,
+            transform
+        );
+        //effect.transform.SetParent(transform, true);
 
-            // Remove the visual effect after 1.5 seconds.
-            Destroy(effect, reflectLifetime);
-        }
+        // Remove the visual effect after 1.5 seconds.
+        Destroy(effect, reflectLifetime);
+    }
     }
 }
