@@ -40252,6 +40252,7 @@ GameObject:
   - component: {fileID: 1212779306}
   - component: {fileID: 1212779307}
   - component: {fileID: 1212779308}
+  - component: {fileID: 1212779309}
   m_Layer: 0
   m_Name: Thunderbolt
   m_TagString: Untagged
@@ -40293,6 +40294,7 @@ MonoBehaviour:
   rangeTrigger: {fileID: 1212779308}
   audioSource: {fileID: 2036716155}
   lightningSound: {fileID: 8300000, guid: 5acac1fc41389754fb53dafc2999306c, type: 3}
+  spawnCounter: 1
 --- !u!58 &1212779308
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -40329,6 +40331,20 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 4.5
+--- !u!114 &1212779309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1212779305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3412e7651fb29444a8c452594f926037, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Attack
+  attackLevel: 0
+  attackImage: {fileID: 0}
 --- !u!1 &1217652460
 GameObject:
   m_ObjectHideFlags: 0
@@ -43064,6 +43080,7 @@ MonoBehaviour:
   attackToIncrease: {fileID: 559135195}
   audioSource: {fileID: 1122365749}
   nastyPlotSound: {fileID: 8300000, guid: 4b8faf929997d12448ba73f915667af3, type: 3}
+  NastyPlotAttackLevel: 0
 --- !u!1 &1655871827
 GameObject:
   m_ObjectHideFlags: 0
@@ -52598,15 +52615,6 @@ MonoBehaviour:
   attackLevel: 0
   attackImage: {fileID: 1808650104539111836, guid: a67f45a1d1ea3f747b13d6062e6d7264, type: 3}
   prefab: {fileID: 6457374203638866993, guid: d6d6092269f39084f97bbad6fb3c9383, type: 3}
-  cooldown: 0
-  duration: 0
-  damage: 0
-  range: 0
-  speed: 0
-  targetCount: 0
-  damageBuff: 0
-  description: 
-  multiplier: 1
 --- !u!1 &2036716154
 GameObject:
   m_ObjectHideFlags: 0

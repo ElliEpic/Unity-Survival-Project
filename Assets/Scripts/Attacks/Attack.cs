@@ -6,15 +6,15 @@ public class Attack : MonoBehaviour
     public float attackLevel;
 
 
-    public PlayerStats stats;
+    public AttackStats stats;
     public Sprite attackImage;
 
     public static int PermanentDamageBonus { get; private set; } = 0;
 
 
-     void Awake()
+    public void Awake()
      {
-          stats = new PlayerStats();
+          stats = new AttackStats();
      }
      public static void AddPermanentDamageBonus(int amount)
     {
@@ -24,7 +24,7 @@ public class Attack : MonoBehaviour
     public virtual void LevelUp()
     {
 
-        attackLevel++;
+        attackLevel += 1f;
         stats.MultiplyStats(attackLevel);
     }
 

@@ -15,16 +15,16 @@ public class Thunderbolt : Attack
     [SerializeField] private AudioSource audioSource;
     [SerializeField] private AudioClip lightningSound;
 
-    
+    AttackStats stats;
 
     private readonly List<Enemy> enemiesInRange = new();
-    private float spawnCounter;
+    public float spawnCounter = 0;
 
-
+    
 
     private void Awake()
     {
-
+        stats = new AttackStats();
         
         
 
@@ -56,6 +56,10 @@ public class Thunderbolt : Attack
           UpdateRange();
 
      }
+
+
+
+
      private void Update()
     {
 
@@ -63,12 +67,14 @@ public class Thunderbolt : Attack
 
         spawnCounter -= Time.deltaTime;
 
-        if (spawnCounter <= 0f)
+        if (spawnCounter <= 0f && enemiesInRange.Count < 0)
         {
             CastLightning();
   
                 spawnCounter = Mathf.Max(0.01f, stats.cooldown);
         }
+
+        
     }
 
     private void UpdateRange()
@@ -115,9 +121,9 @@ public class Thunderbolt : Attack
 
         // Select targets without modifying the tracked list.
         List<Enemy> choices = new(enemiesInRange);
-
+        Debug.Log(choices.Count);
         int strikes = Mathf.Min(
-            Mathf.Max(0, stats.targetCount),
+            Mathf.Max(0, base.stats.targetCount),
             choices.Count
         );
 
