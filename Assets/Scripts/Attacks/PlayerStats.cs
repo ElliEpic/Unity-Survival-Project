@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class AttackStats
+public class PlayerStats
 {
     
      public float cooldown = 3;
